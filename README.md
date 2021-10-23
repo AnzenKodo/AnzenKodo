@@ -1,56 +1,87 @@
 # 👋, I'm **Tesura**
 
-## Tech Stack
+## Stack
 
-[<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-  height="20"
-/>](https://typescript.com "TypeScript") Language
+### Code Stack
+<div align="center">
+    <img
+      src="https://img.shields.io/badge/-Language-34495E?style=for-the-badge&logo=typescript&link=https://typescriptlang.org"
+      alt="Language TypeScript"
+    />
+  <a href="https://reactjs.org" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Framework-34495E?style=for-the-badge&logo=react"
+      alt="Framework React"
+    />
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Static Site Generators-34495E?style=for-the-badge&logo=next.js"
+      alt="Static Site Generators NextJS"
+    />
+  </a>
+  <a href="https://firebase.google.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-BaaS-34495E?style=for-the-badge&logo=firebase"
+      alt="Backend as a Service Firebase"
+    />
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Cloud-34495E?style=for-the-badge&logo=google-cloud"
+      alt="Cloud Google Cloud"
+    />
+  </a>
+</div>
 
-[<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  height="20"
-  alt="React"
-/>](https://reactjs.org "React") Framework
+### Code Tool Stack
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  height="20"
-  alt="Google Cloud"
-/> Static Site Generators
+<div align="center">
+  <a href="https://figma.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-UX/UI-34495E?style=for-the-badge&logo=figma"
+      alt="User Experience / User Interface Figma"
+    />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Code Editor-34495E?style=for-the-badge&logo=visual-studio-code&logoColor=1481ca"
+      alt="Code Editor Visual Studio Code"
+    />
+  </a>
+  <a href="https://ohmyz.sh" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Shell-34495E?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="Shell ZSH"
+    />
+  </a>
+  <a href="https://lubuntu.net" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-OS-34495E?style=for-the-badge&logo=lubuntu&logoColor=0068c8"
+      alt="Operating System lubuntu"
+    />
+  </a>
+  <a href="https://google.com/chrome" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Browser-34495E?style=for-the-badge&logo=google-chrome"
+      alt="Browser Chrome"
+    />
+  </a>
+</div>
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-  height="20"
-  alt="Google Cloud"
-/> Cloud
+## Other Tool Stack
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-  height="20"
-  alt="Google Cloud"
-/> <abbr title="Backend as a Service">BaaS</abbr>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-  height="20"
-  alt="Google Cloud"
-/> <abbr title="User Experience">UX</abbr>/<abbr title="User Interface">UI</abbr>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-  height="20"
-  alt="Google Cloud"
-/> <abbr title="Operating System">OS</abbr>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-  height="20"
-  alt="Google Cloud"
-/> Code Editor
-
-<img
-  src="https://icons.iconarchive.com/icons/dtafalonso/android-l/256/Chrome-icon.png"
-  height="20"
-  alt="Google Cloud"
-/> Browser
+<div align="center">
+  <a href="https://google.com/chrome" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Note-34495E?style=for-the-badge&logo=notion"
+      alt="Note Notion"
+    />
+  </a>
+  <a href="https://google.com/chrome" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Note-34495E?style=for-the-badge&logSvg=./metamask-fox.svg"
+      alt="Note Notion"
+    />
+  </a>
+</div>
