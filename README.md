@@ -5,7 +5,7 @@
 ### Code Stack
 <div align="center">
     <img
-      src="https://img.shields.io/badge/-Language-34495E?style=for-the-badge&logo=typescript&link=https://typescriptlang.org"
+      src="https://img.shields.io/badge/-Language-34495E?style=for-the-badge&logo=typescript&link=&link=https://typescriptlang.org"
       alt="Language TypeScript"
     />
   <a href="https://reactjs.org" target="_blank">
