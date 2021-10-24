@@ -2,7 +2,7 @@
 
 [
   ![Header](./Header.svg)
-](/)
+](https://anzenkodo.github.io/AnzenKodo)
 
 ## 🌐 Social Meadia
 [
@@ -87,4 +87,5 @@
 
 🔨 Made by [AnzenKodo ©️ 2021](./LICENSE)
 
-ℹ️ Made with [NextJS](https://nextjs.org) |  [Source](https://github.com/AnzenKodo/AnzenKodo)
+ℹ️ Made with [NextJS](https://nextjs.org) /
+[Source](https://github.com/AnzenKodo/AnzenKodo)
