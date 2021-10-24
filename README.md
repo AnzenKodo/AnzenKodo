@@ -81,4 +81,6 @@
 
 ---
 
-Made by AnzenKodo [©️ 2021](/LICENSE) | [Source](https://github.com/AnzenKodo/AnzenKodo)
+🔨 Made by [AnzenKodo ©️ 2021](./LICENSE)
+
+ℹ️ Made with [NextJS](https://nextjs.org) |  [Source](https://github.com/AnzenKodo/AnzenKodo)
