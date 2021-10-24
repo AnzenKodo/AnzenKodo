@@ -1,6 +1,8 @@
 # 👋, I'm **Tesura**
 
-![Header](./Header.svg)
+[
+  ![Header](./Header.svg)
+](/)
 
 ## 🌐 Social Meadia
 [
