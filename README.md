@@ -1,5 +1,7 @@
 # 👋, I'm **Tesura**
 
+![Header](./Header.svg)
+
 ## 🌐 Social Meadia
 [
   ![Twitter](https://img.shields.io/badge/-MicroBlog-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)
@@ -28,7 +30,7 @@
   ![React](https://img.shields.io/badge/-Framework-2C3E50?style=for-the-badge&logo=react)
 ](https://reactjs.org)
 [
-  ![NextJS](https://img.shields.io/badge/-Static%20Site%20Generators-2C3E50?style=for-the-badge&logo=react)
+  ![NextJS](https://img.shields.io/badge/-Static%20Site%20Generators-2C3E50?style=for-the-badge&logo=next.js)
 ](https://nextjs.org)
 [
   ![Firebase](https://img.shields.io/badge/-BaaS-2C3E50?style=for-the-badge&logo=firebase "Backend as a Service")
