@@ -41,7 +41,7 @@
   ![Google Cloud](https://img.shields.io/badge/-Cloud-2C3E50?style=for-the-badge&logo=google-cloud)
 ](https://cloud.google.com)
 
-### 🖱️ Code Tool Stack
+### 🖱️ Tools Stack
 
 [
   ![Figma](https://img.shields.io/badge/-UX/UI-2C3E50?style=for-the-badge&logo=figma "User Experience / User Interface")
@@ -58,24 +58,9 @@
 [
   ![Chrome](https://img.shields.io/badge/-Browser-2C3E50?style=for-the-badge&logo=google-chrome)
 ](https://google.com/chrome)
-
-### 🔧 Other Tool Stack
-
-[
-  ![Notion](https://img.shields.io/badge/-Note-2C3E50?style=for-the-badge&logo=notion)
-](https://notion.com)
-[
-  ![Keeweb](https://img.shields.io/badge/-Password-2C3E50?style=for-the-badge&logo=1password)
-](http://keeweb.info)
-[
-  ![Keeweb](https://img.shields.io/badge/-Password-2C3E50?style=for-the-badge&logo=1password)
-](http://keeweb.info)
 [
   ![Metamask](https://img.shields.io/badge/-🦊%20%20Wallet-2C3E50?style=for-the-badge)
 ](https://metamask.io)
-[
-  ![Habitory](https://img.shields.io/badge/-🪁%20%20Habit-2C3E50?style=for-the-badge)
-](https://habitory.com)
 
 ## 📊 Github Stats
 
