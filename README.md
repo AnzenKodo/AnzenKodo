@@ -65,8 +65,8 @@
 ## 📊 Github Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10" height="250px" />
-<img src="https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&include_all_commits=true&count_private=true" height="250px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10" height="240vh" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&include_all_commits=true&count_private=true" height="240vh"/>
 </div>
 
 ![Languages Data](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10)
