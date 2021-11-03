@@ -1,8 +1,8 @@
 # 👋, I'm **Tesura**
 
 [
-  ![Header](./Header.svg)
-](https://anzenkodo.github.io/AnzenKodo)
+  <img src="https://doodleipsum.com/600/flat" align="left" />
+](https://github.com/AnzenKodo/AnzenKodo)
 
 ## 🌐 Social Meadia
 [
