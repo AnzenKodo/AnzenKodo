@@ -1,7 +1,7 @@
 # 👋, I'm **Tesura**
 
 [
-  <img src="https://doodleipsum.com/300/flat" align="right" />
+  <img src="https://doodleipsum.com/302/flat" align="right" />
 ](https://github.com/AnzenKodo/AnzenKodo)
 
 ## 🌐 Social Meadia
