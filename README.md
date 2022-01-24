@@ -42,12 +42,20 @@ url: /index.html
 
 ## 📊 Github Stats
 
-![Languages Data](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&include_all_commits=true&count_private=true)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&bg_color=2C3E50&color=ECF0F1&line=3498DB&point=E74C3C&area_color=34495E&hide_border=true&area=true)
+![Languages Data](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=00000000&hide_border=true&text_color=ECF0F1&title_color=2980B9&include_all_commits=true&count_private=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&bg_color=00000000&color=ECF0F1&line=3498DB&point=E74C3C&area_color=34495E&hide_border=true&area=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnzenKodo&no-bg=true&no-frame=true&theme=onestar&column=3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnzenKodo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&ring=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=DD2727)
+![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=AnzenKodo&show_border=off)
 
----
+
+![Years Badge](https://badges.pufler.dev/years/AnzenKodo)
+![Repos Badge](https://badges.pufler.dev/repos/AnzenKodo)
+![Gists Badge](https://badges.pufler.dev/gists/AnzenKodo)
+![Commits Badge](https://badges.pufler.dev/commits/yearly/AnzenKodo)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AnzenKodo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 
 🔨 Made by [AnzenKodo ©️ 2021](/LICENSE)
 
