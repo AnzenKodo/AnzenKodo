@@ -14,37 +14,10 @@ url: /index.html
 ![Twitter](https://img.shields.io/badge/-MicroBlog-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)
 ](https://twitter.com/AnzenKodo)
 [
-![Hashnode](https://img.shields.io/badge/-Blog-2C3E50?style=for-the-badge&logo=hashnode&color=2962ff&logoColor=fff)
-](https://anzenkodo.hashnode.dev)
-[
 ![Github](https://img.shields.io/badge/-Projects-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)
 ](https://twitter.com/AnzenKodo)
-[
-![Telegram](https://img.shields.io/badge/-Chat-2C3E50?style=for-the-badge&logo=telegram&color=2ca5e0&logoColor=fff)
-](https://t.me/AnzenKodo)
-[
-![Linkedin](https://img.shields.io/badge/-Resume-2C3E50?style=for-the-badge&logo=linkedin&color=0a66c2&logoColor=fff)
-](https://linkedin.com/in/AnzenKodo)
 
 ## 🧰 Stack
-
-### 👨‍💻 Code Stack
-
-[
-![TypeScript](https://img.shields.io/badge/-Language-2C3E50?style=for-the-badge&logo=typescript)
-](https://typescriptlang.org)
-[
-![React](https://img.shields.io/badge/-Framework-2C3E50?style=for-the-badge&logo=react)
-](https://reactjs.org)
-[
-![NextJS](https://img.shields.io/badge/-Static%20Site%20Generators-2C3E50?style=for-the-badge&logo=next.js)
-](https://nextjs.org)
-[
-![Firebase](https://img.shields.io/badge/-BaaS-2C3E50?style=for-the-badge&logo=firebase "Backend as a Service")
-](https://firebase.google.com)
-[
-![Google Cloud](https://img.shields.io/badge/-Cloud-2C3E50?style=for-the-badge&logo=google-cloud)
-](https://cloud.google.com)
 
 ### 🖱️ Tools Stack
 
@@ -58,7 +31,7 @@ url: /index.html
 ![ZSH](https://img.shields.io/badge/-Shell-2C3E50?style=for-the-badge&logo=gnu-bash&logoColor=white "Z Shell")
 ](https://ohmyz.sh)
 [
-![lubuntu](https://img.shields.io/badge/-OS-2C3E50?style=for-the-badge&logo=lubuntu&logoColor=0068c8)
+![NixOS](https://img.shields.io/badge/-OS-2C3E50?style=for-the-badge&logo=nixos&logoColor=0068c8)
 ](https://lubuntu.net)
 [
 ![Chrome](https://img.shields.io/badge/-Browser-2C3E50?style=for-the-badge&logo=google-chrome)
@@ -72,10 +45,11 @@ url: /index.html
 ![Languages Data](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=2C3E50&hide_border=true&text_color=ECF0F1&title_color=2980B9&include_all_commits=true&count_private=true)
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&bg_color=2C3E50&color=ECF0F1&line=3498DB&point=E74C3C&area_color=34495E&hide_border=true&area=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=AnzenKodo&no-bg=true&no-frame=true&theme=onestar&column=3)
 
 ---
 
-🔨 Made by [AnzenKodo ©️ 2021](./LICENSE)
+🔨 Made by [AnzenKodo ©️ 2021](/LICENSE)
 
-ℹ️ Made with [NextJS](https://nextjs.org) /
+ℹ️ Made with [Lume](https://lumeland.github.io/) /
 [Source](https://github.com/AnzenKodo/AnzenKodo)
