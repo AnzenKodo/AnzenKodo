@@ -1,4 +1,4 @@
-# GNU GENERAL PUBLIC LICENSE V3
+# GNU GENERAL PUBLIC LICENSE VERSION 3
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies
