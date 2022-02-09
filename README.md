@@ -23,6 +23,21 @@ url: /index.html
 </details>
 
 <details>
+  <summary>Goodreads</summary>
+  
+  ### Read 
+  <!-- GOODREADS_READ:START --><!-- BLOG:END -->
+  
+  ### Currently Reading
+  <!-- GOODREADS_READING:START --><!-- BLOG:END -->
+  
+  ### Want to Read
+  <!-- GOODREADS_LATER:START --><!-- BLOG:END -->
+
+  
+</details>
+
+<details>
   <summary>Github Stats</summary>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10" align="left">
