@@ -4,6 +4,7 @@ on:
     # Runs every 30 mins
     - cron: '*/30 * * * *'
   workflow_dispatch:
+  push:
   
 jobs:
   update-readme-with-stack-overflow:
