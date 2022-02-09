@@ -16,7 +16,9 @@ url: /index.html
     </a></summary>
   
   <!-- BLOG:START -->
-  <!-- BLOG:END -->
+- [This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)
+- [This is something](https://ionote.vercel.app/This-is-something.html)
+<!-- BLOG:END -->
   
 </details>
 
