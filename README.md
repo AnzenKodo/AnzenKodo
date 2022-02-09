@@ -3,7 +3,9 @@ url: /index.html
 ---
 # [I'm **Tesura**](https://github.com/AnzenKodo/AnzenKodo)
 
-[<img src="logo.svg" width="50%" align="right">](https://github.com/AnzenKodo/AnzenKodo)
+[<img src="Header.gif" width="200rem" align="right">](https://github.com/AnzenKodo/AnzenKodo)
+
+## Now
 
 ## Blogs
 
