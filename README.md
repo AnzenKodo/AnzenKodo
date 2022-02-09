@@ -41,11 +41,11 @@ url: /index.html
   
   ### Currently Reading
   <!-- GOODREADS_READING:START -->
-  <!-- BLOG:END -->
+  <!-- GOODREADS_READING:END -->
   
   ### Want to Read
   <!-- GOODREADS_LATER:START -->
-  <!-- BLOG:END -->
+  <!-- GOODREADS_LATER:END -->
 
   
 </details>
