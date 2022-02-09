@@ -1,4 +1,4 @@
-name: Latest blog activity
+name: Latest Goodreads activity
 on:
   schedule:
     # Runs every 30 mins
