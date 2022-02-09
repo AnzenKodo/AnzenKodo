@@ -1,8 +1,8 @@
-name: Latest stack overflow activity
+name: Latest blog activity
 on:
   schedule:
-    # Runs every 24 hours
-    - cron: '* */24 * * *'
+    # Runs every 30 mins
+    - cron: '*/30 * * * *'
   workflow_dispatch:
   
 jobs:
