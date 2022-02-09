@@ -55,6 +55,7 @@ url: /index.html
 - [JavaScript Everywhere: Building Cross-Platform Applications with Graphql, React, React Native, and Electron](https://www.goodreads.com/review/show/4268755800?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ:END -->
   [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=read)
+  
 </details>
 
 <details>
@@ -76,15 +77,23 @@ url: /index.html
   
 </details>
 
+[![Goodreads](https://img.shields.io/badge/-@AnzenKodo-2C3E50?style=for-the-badge&logo=goodreads&color=ece9d4&logoColor=814910)](https://twitter.com/AnzenKodo)
+
 ## Projects
 
 <details>
   <summary>Github Stats</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&langs_count=10" align="left">
     
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=00000000&hide_border=true&text_color=ECF0F1&title_color=2980B9&include_all_commits=true&count_private=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnzenKodo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&ring=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=DD2727)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&include_all_commits=true&count_private=true)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnzenKodo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000&ring=F20544&fire=F20544&currStreakNum=0583F2&sideNums=0583F2&currStreakLabel=0583F2&sideLabels=0583F2&stroke=F20544&dates=0583F2)](https://github-readme-streak-stats.herokuapp.com/demo/?user=AnzenKodo&theme=default&hide_border=true&date_format=j%2Fn%5B%2FY%5D&properties=border&background=%2300000000&ring=%23F20544FF&fire=%23F20544FF&currStreakNum=%230583F2FF&sideNums=%230583F2FF&currStreakLabel=%230583F2&sideLabels=%230583F2&stroke=%23F20544&dates=%230583F2)
+  
+</details>
+
+<details>
+  <summary>Github Contribution</summary>
+  
   ![trophy](https://github-profile-trophy.vercel.app/?username=AnzenKodo&no-bg=true&no-frame=true&theme=onestar&column=10)
   ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&theme=dracula)
 
@@ -100,9 +109,10 @@ url: /index.html
 4. ❗️ Opened issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
   <!--END_SECTION:activity-->
   [See More](https://github.com/AnzenKodo)
+  
 </details>
 
-[![Github](https://img.shields.io/badge/-Projects-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
+[![Github](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
 
 ---
 
