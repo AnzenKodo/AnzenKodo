@@ -26,13 +26,16 @@ url: /index.html
   <summary>Goodreads</summary>
   
   ### Read 
-  <!-- GOODREADS_READ:START --><!-- BLOG:END -->
+  <!-- GOODREADS_READ:START -->
+  <!-- GOODREADS_READ:END -->
   
   ### Currently Reading
-  <!-- GOODREADS_READING:START --><!-- BLOG:END -->
+  <!-- GOODREADS_READING:START -->
+  <!-- BLOG:END -->
   
   ### Want to Read
-  <!-- GOODREADS_LATER:START --><!-- BLOG:END -->
+  <!-- GOODREADS_LATER:START -->
+  <!-- BLOG:END -->
 
   
 </details>
