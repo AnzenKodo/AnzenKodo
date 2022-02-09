@@ -27,7 +27,17 @@ url: /index.html
   
   ### Read 
   <!-- GOODREADS_READ:START -->
-  <!-- GOODREADS_READ:END -->
+- [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
+- [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
+- [How to Live: 27 conflicting answers and one weird conclusion](https://www.goodreads.com/review/show/4267203579?utm_medium=api&utm_source=rss)
+- [Immune: a Journey into the Mysterious System that Keeps You Alive](https://www.goodreads.com/review/show/4267202833?utm_medium=api&utm_source=rss)
+- [Beyond Order: 12 More Rules For Life](https://www.goodreads.com/review/show/4264473077?utm_medium=api&utm_source=rss)
+- [Together is Better: A Little Book of Inspiration](https://www.goodreads.com/review/show/4284265375?utm_medium=api&utm_source=rss)
+- [In Order to Live: A North Korean Girl&#39;s Journey to Freedom](https://www.goodreads.com/review/show/4296045027?utm_medium=api&utm_source=rss)
+- [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.goodreads.com/review/show/4267195111?utm_medium=api&utm_source=rss)
+- [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/review/show/4267206382?utm_medium=api&utm_source=rss)
+- [JavaScript Everywhere: Building Cross-Platform Applications with Graphql, React, React Native, and Electron](https://www.goodreads.com/review/show/4268755800?utm_medium=api&utm_source=rss)
+<!-- GOODREADS_READ:END -->
   
   ### Currently Reading
   <!-- GOODREADS_READING:START -->
