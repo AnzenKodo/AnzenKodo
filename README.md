@@ -3,7 +3,7 @@ url: /index.html
 ---
 # [I'm **Tesura**](https://github.com/AnzenKodo/AnzenKodo)
 
-[<img src="https://doodleipsum.com/302/outline" align="right">](https://github.com/AnzenKodo/AnzenKodo)
+[<img src="logo.svg" width="50%" align="right">](https://github.com/AnzenKodo/AnzenKodo)
 
 ## Blogs
 
