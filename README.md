@@ -3,7 +3,7 @@ url: /index.html
 ---
 # [I'm **Tesura**](https://github.com/AnzenKodo/AnzenKodo)
 
-[<img src="https://doodleipsum.com/302/outline" align="right" />](https://github.com/AnzenKodo/AnzenKodo)
+[<img src="https://doodleipsum.com/302/outline" align="right">](https://github.com/AnzenKodo/AnzenKodo)
 
 ## Blogs
 
@@ -27,6 +27,40 @@ url: /index.html
   
 </details>
 
+## 📦 Projects
+
+<details>
+  <summary>📊 Stats</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&langs_count=10" align="left">
+    
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&include_all_commits=true&count_private=true)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnzenKodo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000&ring=F20544&fire=F20544&currStreakNum=0583F2&sideNums=0583F2&currStreakLabel=0583F2&sideLabels=0583F2&stroke=F20544&dates=0583F2)](https://github-readme-streak-stats.herokuapp.com/demo/?user=AnzenKodo&theme=default&hide_border=true&date_format=j%2Fn%5B%2FY%5D&properties=border&background=%2300000000&ring=%23F20544FF&fire=%23F20544FF&currStreakNum=%230583F2FF&sideNums=%230583F2FF&currStreakLabel=%230583F2&sideLabels=%230583F2&stroke=%23F20544&dates=%230583F2)
+  
+</details>
+
+<details>
+  <summary>🤝 Contribution</summary>
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=AnzenKodo&no-bg=true&no-frame=true&theme=nord&column=10)
+  ![Tesura's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&bg_color=000000000&color=0583F2&line=f20544&point=0583F2&area_color=0583F2&hide_border=true&area=true)
+
+</details>
+
+<details>
+  <summary>🔨 Activities</summary>
+  
+  <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
+2. 🗣 Commented on [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
+3. 🗣 Commented on [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
+4. ❗️ Opened issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
+  <!--END_SECTION:activity-->
+  [See More](https://github.com/AnzenKodo)
+  
+</details>
+
+[![Github](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
 
 ## Books
 
@@ -77,42 +111,7 @@ url: /index.html
   
 </details>
 
-[![Goodreads](https://img.shields.io/badge/-@AnzenKodo-2C3E50?style=for-the-badge&logo=goodreads&color=ece9d4&logoColor=814910)](https://twitter.com/AnzenKodo)
-
-## Projects
-
-<details>
-  <summary>Github Stats</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&langs_count=10" align="left">
-    
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&include_all_commits=true&count_private=true)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnzenKodo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000&ring=F20544&fire=F20544&currStreakNum=0583F2&sideNums=0583F2&currStreakLabel=0583F2&sideLabels=0583F2&stroke=F20544&dates=0583F2)](https://github-readme-streak-stats.herokuapp.com/demo/?user=AnzenKodo&theme=default&hide_border=true&date_format=j%2Fn%5B%2FY%5D&properties=border&background=%2300000000&ring=%23F20544FF&fire=%23F20544FF&currStreakNum=%230583F2FF&sideNums=%230583F2FF&currStreakLabel=%230583F2&sideLabels=%230583F2&stroke=%23F20544&dates=%230583F2)
-  
-</details>
-
-<details>
-  <summary>Github Contribution</summary>
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=AnzenKodo&no-bg=true&no-frame=true&theme=onestar&column=10)
-  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&theme=dracula)
-
-</details>
-
-<details>
-  <summary>Github Activity</summary>
-  
-  <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
-2. 🗣 Commented on [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
-3. 🗣 Commented on [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
-4. ❗️ Opened issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
-  <!--END_SECTION:activity-->
-  [See More](https://github.com/AnzenKodo)
-  
-</details>
-
-[![Github](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
+[![Goodreads](https://img.shields.io/badge/-@AnzenKodo-2C3E50?style=for-the-badge&logo=goodreads&color=ece9d4&logoColor=814910)](https://www.goodreads.com/AnzenKodo)
 
 ---
 
