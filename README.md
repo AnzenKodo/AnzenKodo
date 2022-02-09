@@ -1,9 +1,10 @@
 ---
 url: /index.html
 ---
-# [I'm **Tesura**](https://github.com/AnzenKodo/AnzenKodo)
 
-[<img src="Header.gif" width="200rem" align="right">](https://github.com/AnzenKodo/AnzenKodo)
+[<img src="Header.gif">](https://github.com/AnzenKodo/AnzenKodo)
+
+# [I'm **Tesura**](https://github.com/AnzenKodo/AnzenKodo)
 
 ## Now
 
