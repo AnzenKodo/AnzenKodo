@@ -4,8 +4,6 @@ url: /index.html
 
 [<img src="Header.gif">](https://github.com/AnzenKodo/AnzenKodo)
 
-# [I'm **Tesura**](https://github.com/AnzenKodo/AnzenKodo)
-
 ## Now
 
 ## Blogs
@@ -118,7 +116,4 @@ url: /index.html
 
 ---
 
-🔨 Made by [AnzenKodo ©️ 2021](/LICENSE)
-
-ℹ️ Made with [Lume](https://lumeland.github.io/) /
-[Source](https://github.com/AnzenKodo/AnzenKodo)
+[![License: GPL v3.0](https://img.shields.io/badge/-GPL%20v3.0-2C3E50?style=for-the-badge&label=license&color=bd0000&labelColor=000&logoColor=814910)](/LICENSE)
