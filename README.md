@@ -5,29 +5,33 @@ url: /index.html
 
 [<img src="https://doodleipsum.com/302/outline" align="right" />](https://github.com/AnzenKodo/AnzenKodo)
 
-## 🌐 Social Media
-
-[![Twitter](https://img.shields.io/badge/-MicroBlog-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
-[![Github](https://img.shields.io/badge/-Projects-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
-
 ## Blogs
 
-### My blog
-<!-- BLOG:START -->
-- [This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)
-- [This is something](https://ionote.vercel.app/This-is-something.html)
-<!-- BLOG:END -->
-[See More](https://ionote.vercel.app) or Subsribe to [![RSS](https://img.shields.io/badge/-RSS-2C3E50?style=for-the-badge&logo=rss&color=161b22&logoColor=fff)](https://ionote.vercel.app/feed.xml)
+<details>
+  <summary>📝 Blogs</summary>
+  
+  <!-- BLOG:START -->
+  - [This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)
+  - [This is something](https://ionote.vercel.app/This-is-something.html)
+  <!-- BLOG:END -->
+  [See More](https://ionote.vercel.app) or Subsribe to [![RSS](https://img.shields.io/badge/-RSS-f99b39?style=for-the-badge&logo=rss&color=f99b39&logoColor=fff)](https://ionote.vercel.app/feed.xml)
+  
+</details>
 
-### My Mircoblog on Twitter
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo)](https://twitter.com/AnzenKodo)
+<details>
+  <summary>🐦 Microblog on Twitter</summary>
+  
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo)](https://twitter.com/AnzenKodo)
 
-[![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
+  [![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
+  
+</details>
+
 
 ## Books
 
 <details>
-  <summary>Currently Reading</summary>
+  <summary>📖 Currently Reading</summary>
   
   <!-- GOODREADS_READING:START -->
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4264472547?utm_medium=api&utm_source=rss)
@@ -36,7 +40,7 @@ url: /index.html
 </details>
 
 <details>
-  <summary>Read</summary>
+  <summary>📕 Read</summary>
   
   <!-- GOODREADS_READ:START -->
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
@@ -54,7 +58,7 @@ url: /index.html
 </details>
 
 <details>
-  <summary>Want to Read</summary>
+  <summary>📗 Want to Read</summary>
   
   <!-- GOODREADS_LATER:START -->
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/4525055942?utm_medium=api&utm_source=rss)
@@ -71,6 +75,8 @@ url: /index.html
   [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=to-read)
   
 </details>
+
+## Projects
 
 <details>
   <summary>Github Stats</summary>
@@ -93,8 +99,10 @@ url: /index.html
 3. 🗣 Commented on [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
 4. ❗️ Opened issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
   <!--END_SECTION:activity-->
-  
+  [See More](https://github.com/AnzenKodo)
 </details>
+
+[![Github](https://img.shields.io/badge/-Projects-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
 
 ---
 
