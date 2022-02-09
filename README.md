@@ -15,8 +15,8 @@ url: /index.html
       <img src="https://img.shields.io/badge/Blog-F88900?style=for-the-badge&logo=rss&logoColor=white"/>
     </a></summary>
   
-  <!-- STACKOVERFLOW:START -->
-  <!-- STACKOVERFLOW:END -->
+  <!-- BLOG:START -->
+  <!-- BLOG:END -->
   
 </details>
 
