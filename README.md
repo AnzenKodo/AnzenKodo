@@ -10,22 +10,34 @@ url: /index.html
 [![Twitter](https://img.shields.io/badge/-MicroBlog-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
 [![Github](https://img.shields.io/badge/-Projects-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
 
-<details>
-  <summary><a href="https://ionote.vercel.app">
-      <img src="https://img.shields.io/badge/Blog-F88900?style=for-the-badge&logo=rss&logoColor=white"/>
-    </a></summary>
-  
-  <!-- BLOG:START -->
+## Blogs
+
+### My blog
+<!-- BLOG:START -->
 - [This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)
 - [This is something](https://ionote.vercel.app/This-is-something.html)
 <!-- BLOG:END -->
+[See More](https://ionote.vercel.app) or Subsribe to [![RSS](https://img.shields.io/badge/-RSS-2C3E50?style=for-the-badge&logo=rss&color=161b22&logoColor=fff)](https://ionote.vercel.app/feed.xml)
+
+### My Mircoblog on Twitter
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo)](https://twitter.com/AnzenKodo)
+
+[![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
+
+## Books
+
+<details>
+  <summary>Currently Reading</summary>
+  
+  <!-- GOODREADS_READING:START -->
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4264472547?utm_medium=api&utm_source=rss)
+<!-- GOODREADS_READING:END -->
   
 </details>
 
 <details>
-  <summary>Goodreads</summary>
+  <summary>Read</summary>
   
-  ### Read 
   <!-- GOODREADS_READ:START -->
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
@@ -38,13 +50,12 @@ url: /index.html
 - [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/review/show/4267206382?utm_medium=api&utm_source=rss)
 - [JavaScript Everywhere: Building Cross-Platform Applications with Graphql, React, React Native, and Electron](https://www.goodreads.com/review/show/4268755800?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ:END -->
+  [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=read)
+</details>
+
+<details>
+  <summary>Want to Read</summary>
   
-  ### Currently Reading
-  <!-- GOODREADS_READING:START -->
-- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4264472547?utm_medium=api&utm_source=rss)
-<!-- GOODREADS_READING:END -->
-  
-  ### Want to Read
   <!-- GOODREADS_LATER:START -->
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/4525055942?utm_medium=api&utm_source=rss)
 - [Blueprint: The Evolutionary Origins of a Good Society](https://www.goodreads.com/review/show/4525055224?utm_medium=api&utm_source=rss)
@@ -57,7 +68,7 @@ url: /index.html
 - [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.goodreads.com/review/show/4305300184?utm_medium=api&utm_source=rss)
 - [When Breath Becomes Air](https://www.goodreads.com/review/show/4300415807?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_LATER:END -->
-
+  [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=to-read)
   
 </details>
 
@@ -84,8 +95,6 @@ url: /index.html
   <!--END_SECTION:activity-->
   
 </details>
-
-![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo)
 
 ---
 
