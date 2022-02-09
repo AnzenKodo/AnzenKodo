@@ -41,7 +41,8 @@ url: /index.html
   
   ### Currently Reading
   <!-- GOODREADS_READING:START -->
-  <!-- GOODREADS_READING:END -->
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4264472547?utm_medium=api&utm_source=rss)
+<!-- GOODREADS_READING:END -->
   
   ### Want to Read
   <!-- GOODREADS_LATER:START -->
