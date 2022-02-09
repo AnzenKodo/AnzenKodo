@@ -26,6 +26,10 @@ url: /index.html
 <details>
   <summary>Github Stats</summary>
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
+2. 🗣 Commented on [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
+3. 🗣 Commented on [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
+4. ❗️ Opened issue [#2](https://github.com/ije/land/issues/2) in [ije/land](https://github.com/ije/land)
   <!--END_SECTION:activity-->
 </details>
 
