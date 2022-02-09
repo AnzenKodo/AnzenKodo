@@ -1,10 +1,9 @@
-name: Update README
+name: Updated README with recent activity
 
 on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
-  push:
 
 jobs:
   build:
