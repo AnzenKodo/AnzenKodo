@@ -1,0 +1,19 @@
+{
+  "name": "11ty Minimalist Blog Theme",
+  "short_name": "1MBT",
+  "start_url": "https://ionote.vercel.app/",
+  "description": "The Eleventy static site generator theme for minimalist.",
+  "author": "AnzenKodo",
+  "email": "AnzenKodo@altmails.com",
+  "portfolio": "https://anzenkodo.github.io/AnzenKodo",
+  "lang": "en-US",
+  "repository": "https://github.com/AnzenKodo/io-note",
+  "theme_color": "#F20544",
+  "background_color": "#FEFBFE",
+  "forground_color": "#000000",
+  "font": "JetBrains Mono",
+  "display": "minimal-ui",
+  "orientation": "portrait",
+  "layout": "../base.njk",
+  "templateEngine": "njk,md"
+}

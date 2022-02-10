@@ -1,0 +1,166 @@
+@import "highlight.css";
+
+:root {
+  --fg-color: var(--fg);
+  --bg-color: var(--bg);
+  --border: 1px solid var(--fg-color);
+  outline: var(--border)
+}
+
+::selection {
+	color: #FEFBFE;
+	background: #0583F2;
+}
+
+::-webkit-scrollbar {
+	border: 1px solid var(--fg-color);
+	width: 1rem;
+}
+
+::-webkit-scrollar-track {
+	background: var(--fg-color);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--fg-color);
+}
+
+body {
+	font-family: var(--font-name), Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+	background: var(--bg-color);
+	color: var(--fg-color);
+	font-variant-ligatures: normal;
+	accent-color: var(--link-color);
+	font-size: 1.2rem;
+	max-width: 50rem;
+	margin: auto;
+  padding: 0 .5em
+}
+
+/* Link tag */
+
+a {
+  color: var(--link-color);
+}
+
+a:hover,
+a:focus {
+  background: var(--link-color);
+  color: var(--bg-color);
+}
+
+/* H tags */
+
+h1 a {
+  font-weight: bolder;
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-decoration: underline var(--link-color);
+  width: fit-content;
+}
+
+:is(h2, h3, h4, h5, h6) a {
+  text-decoration: underline var(--link-color);
+  width: fit-content;
+}
+
+:is(h2, h3, h4, h5, h6):hover {
+	color: var(--bg-color);
+  background: var(--link-color);
+}
+
+:is(h2, h3, h4, h5, h6) a:hover {
+	color: var(--bg-color);
+  background: var(--link-color);
+}
+
+/* Summary tags */
+
+summary {
+  background: var(--link-color);
+  color: var(--bg-color);
+  padding: .5em;
+}
+
+details[open] {
+  border: var(--border);
+  padding: .5em;
+}
+
+/* table tags */
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: var(--border);
+  padding: 0.3em;
+  font-size: 1.3rem;
+}
+
+th {
+  font-weight: bold;
+  background: var(--fg-color);
+  color: var(--bg-color);
+  text-align: center;
+  outline: 1px solid var(--bg-color);
+}
+
+/* Blockquote tag */
+
+blockquote {
+  border: var(--border);
+  border-left: 1em solid var(--fg-color);
+  font-style: italic;
+}
+
+blockquote p {
+  margin: 0.5em;
+}
+
+blockquote p::before,
+blockquote p::after {
+  content: '"';
+}
+
+/* Dilated list tags */
+
+dt {
+  font-weight: bold;
+  background: var(--fg-color);
+  color: var(--bg-color);
+  width: fit-content;
+  padding: .3em;
+}
+
+dd {
+  outline: var(--border);
+  padding: .4em;
+  margin-bottom: 1em;
+}
+
+/* Code block */
+
+code {
+  border: var(--border);
+  padding: .2em;
+}
+
+img {
+	max-width: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg-color: var(--fg);
+		--fg-color: var(--bg);
+	}
+}
