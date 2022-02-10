@@ -2,60 +2,113 @@
 url: /index.html
 ---
 
-# 👋, I'm **Tesura**
+# [I'm **Tesura**](https://github.com/AnzenKodo/AnzenKodo)
 
-[
-<img src="https://doodleipsum.com/302/flat" align="right" />
-](https://github.com/AnzenKodo/AnzenKodo)
+## Hello
 
-## 🌐 Social Meadia
+### Hi
 
-[
-![Twitter](https://img.shields.io/badge/-MicroBlog-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)
-](https://twitter.com/AnzenKodo)
-[
-![Github](https://img.shields.io/badge/-Projects-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)
-](https://twitter.com/AnzenKodo)
+![image](photo.jpg)
+
+1. List 1
+2. List 2
+   - List 3
+   - List 4
+     - List 5
+
+footnote [^1]
+[^1]: footnote
+
+<sup>sup</sup> <sub>sub</sub>
+~~wrong~~ **bold** _italic_ **_bold and italic_**
+<kbd>kbd</kbd> <sub><sup>small</sub></sup> <ins>underline</ins>
+<ins>insert</ins>[WZ]
+<del>delete</del>[WZ]
+`code`
+
+> The blockquote element is used to indicate the quotation of a large section of text from another source. Using the default HTML styling of most web browsers, it will indent the right and left margins both on the display and in printed form, but this may be overridden by Cascading Style Sheets (CSS).
+
+<dl>
+  <dt>Lower cost</dt>
+  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt>Easier to use</dt>
+  <dd>We've changed the product so that it's much easier to use!</dd>
+  <dt>Safe for kids</dt>
+  <dd>You can leave your kids alone in a room with this product and they
+      won't get hurt (not a guarantee).</dd>
+</dl>
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
+- [x] checkbox
+- [ ] checkbox
+
+| Markdown  | Rendered HTML |
+| --------- | ------------- | --- |
+| _Italic_  | _Italic_      | \   |
+|           |               |
+| - Item 1  | - Item 1      | \   |
+| - Item 2  | - Item 2      |
+| ```python | ```python \   |
+| .1 + .2   | .1 + .2 \     |
+| ```       | ```           |
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    ...
+    <link href="https://{{cdn}}/prism@v1.x/themes/prism.css" rel="stylesheet" />
+  </head>
+  <body>
+    ...
+    <script src="https://{{cdn}}/prism@v1.x/components/prism-core.min.js"></script>
+    <script src="https://{{cdn}}/prism@v1.x/plugins/autoloader/prism-autoloader.min.js"></script>
+  </body>
+</html>
+```
+
+[<img src="https://doodleipsum.com/302/flat" align="right" />](https://github.com/AnzenKodo/AnzenKodo)
+
+## 🌐 Social Media
+
+[![Twitter](https://img.shields.io/badge/-MicroBlog-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
+[![Github](https://img.shields.io/badge/-Projects-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
 
 ## 🧰 Stack
 
 ### 🖱️ Tools Stack
 
-[
-![Figma](https://img.shields.io/badge/-UX/UI-2C3E50?style=for-the-badge&logo=figma "User Experience / User Interface")
-](https://figma.com)
-[
-![VSCode](https://img.shields.io/badge/-IDE-2C3E50?style=for-the-badge&logo=visual-studio-code&logoColor=1481ca "Visual Studio Code")
-](https://code.visualstudio.com)
-[
-![ZSH](https://img.shields.io/badge/-Shell-2C3E50?style=for-the-badge&logo=gnu-bash&logoColor=white "Z Shell")
-](https://ohmyz.sh)
-[
-![NixOS](https://img.shields.io/badge/-OS-2C3E50?style=for-the-badge&logo=nixos&logoColor=0068c8)
-](https://lubuntu.net)
-[
-![Chrome](https://img.shields.io/badge/-Browser-2C3E50?style=for-the-badge&logo=google-chrome)
-](https://google.com/chrome)
-[
-![Metamask](https://img.shields.io/badge/-🦊%20%20Wallet-2C3E50?style=for-the-badge)
-](https://metamask.io)
+[![Figma](https://img.shields.io/badge/-UX/UI-2C3E50?style=for-the-badge&logo=figma "User Experience / User Interface")](https://figma.com)
+[![VSCode](https://img.shields.io/badge/-IDE-2C3E50?style=for-the-badge&logo=visual-studio-code&logoColor=1481ca "Visual Studio Code")](https://code.visualstudio.com)
+[![ZSH](https://img.shields.io/badge/-Shell-2C3E50?style=for-the-badge&logo=gnu-bash&logoColor=white "Z Shell")](https://ohmyz.sh)
+[![NixOS](https://img.shields.io/badge/-OS-2C3E50?style=for-the-badge&logo=nixos&logoColor=0068c8)](https://lubuntu.net)
+[![Chrome](https://img.shields.io/badge/-Browser-2C3E50?style=for-the-badge&logo=google-chrome)](https://google.com/chrome)
+[![Metamask](https://img.shields.io/badge/-🦊%20%20Wallet-2C3E50?style=for-the-badge)](https://metamask.io)
 
 ## 📊 Github Stats
 
 ![Languages Data](https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=ECF0F1&title_color=2980B9&langs_count=10)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=00000000&hide_border=true&text_color=ECF0F1&title_color=2980B9&include_all_commits=true&count_private=true)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&bg_color=00000000&color=ECF0F1&line=3498DB&point=E74C3C&area_color=34495E&hide_border=true&area=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnzenKodo&no-bg=true&no-frame=true&theme=onestar&column=3)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnzenKodo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&ring=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=DD2727)
 ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=AnzenKodo&show_border=off)
-
 
 ![Years Badge](https://badges.pufler.dev/years/AnzenKodo)
 ![Repos Badge](https://badges.pufler.dev/repos/AnzenKodo)
 ![Gists Badge](https://badges.pufler.dev/gists/AnzenKodo)
 ![Commits Badge](https://badges.pufler.dev/commits/yearly/AnzenKodo)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AnzenKodo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
 
 🔨 Made by [AnzenKodo ©️ 2021](/LICENSE)
 
