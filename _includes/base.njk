@@ -1,4 +1,8 @@
-{% set fontname = font | replace(' ', '+') %}
+{% set localUrl = '/' | url(true) %}
+
+{% if localUrl == 'http://localhost:3000/' %}
+	{% set start_url = localUrl %}
+{% endif %}
 
 <!doctype html>
 <html lang="{{ lang }}">
@@ -9,7 +13,7 @@
 		<title>{{ name }}</title>
 		<meta name="author" content="{{ author }}">
 		<meta name="description" content="{{ description }}">
-		<link rel="icon" href="/img/favicon.png" type="image/svg+xml">
+		<link rel="icon" href="{{ start_url }}/img/favicon.png" type="image/svg+xml">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@{{ author }}">
 		<meta name="twitter:creator" content="@{{ author }}">
@@ -17,11 +21,11 @@
 		<meta property="og:title" content="{{ name }}">
 		<meta property="og:description" content="{{ description }}">
 		<meta property="og:image" content="http://graphics8.nytimes.com/images/2011/1">
-		<!--<link rel="manifest" href="_data.json">-->
+		<!--<link rel="manifest" href="{{ start_url }}_data.json">-->
 		<link href="{{ repository }}" rel="me">
 		<link rel="webmention" href="https://webmention.io/ionote.vercel.app/webmention">
 		<link rel="pingback" href="https://webmention.io/ionote.vercel.app/xmlrpc">
-		<link rel="stylesheet" href="/style/style.css">
+		<link rel="stylesheet" href="{{ start_url }}style/style.css">
 		<style>
 			@font-face {
 				font-family: 'Punk Mono';

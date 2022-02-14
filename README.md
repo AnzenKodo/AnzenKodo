@@ -122,4 +122,4 @@ url: /index.html
 
 ---
 
-[![License: GP404 /header.gifL v3.0](https://img.shields.io/badge/-GPL%20v3.0-2C3E50?style=for-the-badge&label=license&color=bd0000&labelColor=000&logoColor=814910)](/LICENSE)
+[![License: GP404 /header.gifL v3.0](https://img.shields.io/badge/-GPL%20v3.0-2C3E50?style=for-the-badge&label=license&color=bd0000&labelColor=000&logoColor=814910)](LICENSE)
