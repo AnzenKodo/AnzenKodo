@@ -2,7 +2,7 @@
 url: /index.html
 ---
 
-[<img src="/img/header.gif">](https://github.com/AnzenKodo/AnzenKodo)
+[<img src="img/header.gif">](https://github.com/AnzenKodo/AnzenKodo)
 
 <div align="center">
   <a href="mailto:AnzenKodo@altmails.com">
