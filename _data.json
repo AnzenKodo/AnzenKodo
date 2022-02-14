@@ -1,8 +1,8 @@
 {
   "name": "Tesura",
   "short_name": "AnzenKodo",
-  "start_url": "https://AnzenKodo.github.io/",
-  "description": "The Eleventy static site generator theme for minimalist.",
+  "start_url": "https://AnzenKodo.github.io/AnzenKodo/",
+  "description": "Portfolio and Main website of Tesura",
   "author": "AnzenKodo",
   "email": "AnzenKodo@altmails.com",
   "lang": "en-US",
