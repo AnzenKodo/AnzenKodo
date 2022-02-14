@@ -26,15 +26,18 @@
 }
 
 body {
-	font-family: var(--font-name), Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+	font-family: 'Punk Mono', monospace;
 	background: var(--bg-color);
 	color: var(--fg-color);
 	font-variant-ligatures: normal;
 	accent-color: var(--link-color);
-	font-size: 1.2rem;
+	font-size: 1.5rem;
 	max-width: 50rem;
 	margin: auto;
-  padding: 0 .5em
+  padding: 0 1rem;
+  letter-spacing: .01em;
+  word-spacing: .1em;
+  line-height: 1.8em;
 }
 
 /* Link tag */
@@ -84,14 +87,14 @@ h6 {
 /* Summary tags */
 
 summary {
-  background: var(--link-color);
-  color: var(--bg-color);
+  color: var(--fg-color);
   padding: .5em;
 }
 
 details[open] {
   border: var(--border);
   padding: .5em;
+  margin-bottom: 1rem;
 }
 
 /* table tags */

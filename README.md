@@ -2,7 +2,13 @@
 url: /index.html
 ---
 
-[<img src="Header.gif">](https://github.com/AnzenKodo/AnzenKodo)
+[<img src="/img/header.gif">](https://github.com/AnzenKodo/AnzenKodo)
+
+<div align="center">
+  <a href="mailto:AnzenKodo@altmails.com">
+    <img width="300em" alt="Email link" src="https://img.shields.io/badge/-AnzenKodo@altmails.com-f99b39?style=for-the-badge&logo=gmail&color=ea4335&logoColor=fff">
+  </a>
+</div>
 
 ## Now
 
@@ -22,13 +28,13 @@ url: /index.html
 <details>
   <summary>🐦 Microblog on Twitter</summary>
 
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo)](https://twitter.com/AnzenKodo)
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo&layout=wide)](https://twitter.com/AnzenKodo)
 
   [![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
 
 </details>
 
-## 📦 Projects
+## Projects
 
 <details>
   <summary>📊 Stats</summary>
@@ -116,4 +122,4 @@ url: /index.html
 
 ---
 
-[![License: GPL v3.0](https://img.shields.io/badge/-GPL%20v3.0-2C3E50?style=for-the-badge&label=license&color=bd0000&labelColor=000&logoColor=814910)](/LICENSE)
+[![License: GP404 /header.gifL v3.0](https://img.shields.io/badge/-GPL%20v3.0-2C3E50?style=for-the-badge&label=license&color=bd0000&labelColor=000&logoColor=814910)](/LICENSE)

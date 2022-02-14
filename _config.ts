@@ -8,6 +8,7 @@ import checkbox from "https://jspm.dev/markdown-it-checkbox";
 import table from "https://jspm.dev/markdown-it-multimd-table";
 
 const site = lume({
+  location: new URL("https://anzenkodo.github.io/AnzenKodo"),
   src: ".",
   dest: "_site",
   prettyUrls: true,
@@ -21,6 +22,8 @@ const site = lume({
 });
 
 site.loadAssets([".css"])
+  .copy("img")
+  .copy("fonts")
   .use(codeHighlight())
   .use(minify({
     extensions: [".css", ".html"],
