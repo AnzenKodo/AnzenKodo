@@ -1,38 +1,56 @@
 @font-face {
-	font-family: 'Punk Mono';
-	font-display: swap;
-	font-weight: 400;
-	font-stretch: normal;
-	font-style: normal;
-  src: url('https://raw.githubusercontent.com/AnzenKodo/punk-mono/master/woff2/punk-mono-regular.woff2') format('woff2');
+  font-family: "Punk Mono";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("https://raw.githubusercontent.com/AnzenKodo/punk-mono/master/punk-mono/woff2/punk-mono-regular.woff2")
+    format("woff2");
 }
 
 :root {
-	--punk-bg: #fefbfe;
-	--punk-fg: #170327;
-	--punk-bg-color: var(--punk-bg);
+  --punk-bg: #fefbfe;
+  --punk-fg: #170327;
+  --punk-bg-color: var(--punk-bg);
   --punk-fg-color: var(--punk-fg);
-	--punk-red-color: #f20544;
-	--punk-blue-color: #0583f2;
-	--punk-brown-color: #B35C5D;
-	--punk-green-color: #01a252;
-	--punk-yellow-color: #F2B705;
-	--punk-magenta-color: #36a598;
+  --punk-red-color: #f20544;
+  --punk-blue-color: #0583f2;
+  --punk-brown-color: #b35c5d;
+  --punk-green-color: #01a252;
+  --punk-yellow-color: #f2b705;
+  --punk-magenta-color: #36a598;
 }
-
+pre::selection {
+  color: #fefbfe;
+  background: #0583f2;
+}
 pre::-webkit-scrollbar {
-	border: 1px solid var(--punk-fg-color);
-	width: 1rem;
+  border: 1px solid var(--punk-fg-color);
+  width: 1rem;
 }
 pre::-webkit-scrollar-track {
-	background: var(--punk-fg-color);
+  background: var(--punk-fg-color);
 }
 pre::-webkit-scrollbar-thumb {
-	background: var(--punk-fg-color);
+  background: var(--punk-fg-color);
+}
+
+pre {
+  color: var(--punk-fg-color);
+  font-size: 1.3rem;
+}
+code:not([class*="language-"]) {
+  font-family: "Punk Mono", monospace;
+  background: var(--punk-bg-color);
+  padding: 0.2em;
+  border: 1px solid var(--punk-fg-color);
+}
+pre[class*="language-"] {
+  border: 1px solid var(--punk-fg-color);
 }
 
 pre code.hljs {
-	font-family: 'Punk Mono', monospace;
+  font-family: "Punk Mono", monospace;
   display: block;
   overflow-x: auto;
   padding: 1em;
@@ -99,8 +117,8 @@ code.hljs {
 }
 
 @media (prefers-color-scheme: dark) {
-	:root {
-		--punk-bg-color: #000000;
-		--punk-fg-color: #fefbfe;
-	}
+  :root {
+    --punk-bg-color: #000000;
+    --punk-fg-color: #fefbfe;
+  }
 }

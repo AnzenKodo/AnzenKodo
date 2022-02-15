@@ -7,29 +7,35 @@ import anchor from "https://jspm.dev/markdown-it-anchor";
 import checkbox from "https://jspm.dev/markdown-it-checkbox";
 import table from "https://jspm.dev/markdown-it-multimd-table";
 
-const site = lume({
-  location: new URL("https://anzenkodo.github.io/AnzenKodo"),
-  src: ".",
-  dest: "_site",
-  prettyUrls: true,
-  server: {
-    page404: "/",
+const site = lume(
+  {
+    location: new URL("https://anzenkodo.github.io/AnzenKodo"),
+    src: ".",
+    dest: "_site",
+    prettyUrls: true,
+    server: {
+      page404: "/",
+    },
   },
-}, {
-  markdown: {
-    plugins: [anchor, footnote, checkbox, table],
-  },
-});
+  {
+    markdown: {
+      plugins: [anchor, footnote, checkbox, table],
+    },
+  }
+);
 
-site.loadAssets([".css"])
+site
+  .loadAssets([".css"])
   .copy("img")
   .copy("fonts")
   .use(codeHighlight())
-  .use(minify({
-    extensions: [".css", ".html"],
-    htmlOptions: {
-      minifyCSS: true,
-    },
-  }));
+  .use(
+    minify({
+      extensions: [".css", ".html"],
+      htmlOptions: {
+        minifyCSS: true,
+      },
+    })
+  );
 
 export default site;

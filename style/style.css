@@ -1,42 +1,46 @@
-@import "highlight.css";
+@import "punk.css";
 
 :root {
   --fg-color: var(--fg);
   --bg-color: var(--bg);
   --border: 1px solid var(--fg-color);
-  outline: var(--border)
+  outline: var(--border);
+}
+
+*:focus {
+  outline: var(--border);
 }
 
 ::selection {
-	color: #FEFBFE;
-	background: #0583F2;
+  color: #fefbfe;
+  background: #0583f2;
 }
 
 ::-webkit-scrollbar {
-	border: 1px solid var(--fg-color);
-	width: 1rem;
+  border: 1px solid var(--fg-color);
+  width: 1rem;
 }
 
 ::-webkit-scrollar-track {
-	background: var(--fg-color);
+  background: var(--fg-color);
 }
 
 ::-webkit-scrollbar-thumb {
-	background: var(--fg-color);
+  background: var(--fg-color);
 }
 
 body {
-	font-family: 'Punk Mono', monospace;
-	background: var(--bg-color);
-	color: var(--fg-color);
-	font-variant-ligatures: normal;
-	accent-color: var(--link-color);
-	font-size: 1.5rem;
-	max-width: 50rem;
-	margin: auto;
+  font-family: "Punk Mono", monospace;
+  background: var(--bg-color);
+  color: var(--fg-color);
+  font-variant-ligatures: normal;
+  accent-color: var(--link-color);
+  font-size: 1.5rem;
+  max-width: 50rem;
+  margin: auto;
   padding: 0 1rem;
-  letter-spacing: .01em;
-  word-spacing: .1em;
+  letter-spacing: 0.01em;
+  word-spacing: 0.1em;
   line-height: 1.8em;
 }
 
@@ -75,12 +79,12 @@ h6 {
 }
 
 :is(h2, h3, h4, h5, h6):hover {
-	color: var(--bg-color);
+  color: var(--bg-color);
   background: var(--link-color);
 }
 
 :is(h2, h3, h4, h5, h6) a:hover {
-	color: var(--bg-color);
+  color: var(--bg-color);
   background: var(--link-color);
 }
 
@@ -88,12 +92,12 @@ h6 {
 
 summary {
   color: var(--fg-color);
-  padding: .5em;
+  padding: 0.5em;
 }
 
 details[open] {
   border: var(--border);
-  padding: .5em;
+  padding: 0.5em;
   margin-bottom: 1rem;
 }
 
@@ -141,12 +145,12 @@ dt {
   background: var(--fg-color);
   color: var(--bg-color);
   width: fit-content;
-  padding: .3em;
+  padding: 0.3em;
 }
 
 dd {
   outline: var(--border);
-  padding: .4em;
+  padding: 0.4em;
   margin-bottom: 1em;
 }
 
@@ -154,16 +158,16 @@ dd {
 
 code {
   border: var(--border);
-  padding: .2em;
+  padding: 0.2em;
 }
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 @media (prefers-color-scheme: dark) {
-	:root {
-		--bg-color: var(--fg);
-		--fg-color: var(--bg);
-	}
+  :root {
+    --bg-color: var(--fg);
+    --fg-color: var(--bg);
+  }
 }

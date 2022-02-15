@@ -2,7 +2,7 @@ name: Updated README with recent activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 10         
+          MAX_LINES: 10
