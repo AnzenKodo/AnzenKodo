@@ -90,7 +90,6 @@ url: /index.html
   <summary>📕 Read</summary>
 
 <!-- GOODREADS_READ:START -->
-
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
 - [How to Live: 27 conflicting answers and one weird conclusion](https://www.goodreads.com/review/show/4267203579?utm_medium=api&utm_source=rss)
@@ -101,7 +100,7 @@ url: /index.html
 - [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.goodreads.com/review/show/4267195111?utm_medium=api&utm_source=rss)
 - [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/review/show/4267206382?utm_medium=api&utm_source=rss)
 - [JavaScript Everywhere: Building Cross-Platform Applications with Graphql, React, React Native, and Electron](https://www.goodreads.com/review/show/4268755800?utm_medium=api&utm_source=rss)
-  <!-- GOODREADS_READ:END -->
+<!-- GOODREADS_READ:END -->
   [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=read)
 
 </details>
