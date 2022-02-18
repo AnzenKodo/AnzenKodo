@@ -83,6 +83,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
+- [The Paradox of Choice: Why More Is Less](https://www.goodreads.com/review/show/4557708261?utm_medium=api&utm_source=rss)
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4264472547?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
