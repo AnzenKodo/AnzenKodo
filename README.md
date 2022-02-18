@@ -112,6 +112,7 @@ url: /index.html
   <summary>📗 Want to Read</summary>
 
 <!-- GOODREADS_LATER:START -->
+- [The Paradox of Choice: Why More Is Less](https://www.goodreads.com/review/show/4557708261?utm_medium=api&utm_source=rss)
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/4525055942?utm_medium=api&utm_source=rss)
 - [Blueprint: The Evolutionary Origins of a Good Society](https://www.goodreads.com/review/show/4525055224?utm_medium=api&utm_source=rss)
 - [Upheaval: Turning Points for Nations in Crisis](https://www.goodreads.com/review/show/4495185602?utm_medium=api&utm_source=rss)
@@ -121,7 +122,6 @@ url: /index.html
 - [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
 - [Ten Global Trends That Every Smart Person Needs to Know: And Many Other Trends You Will Find Interesting](https://www.goodreads.com/review/show/4277878892?utm_medium=api&utm_source=rss)
 - [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.goodreads.com/review/show/4305300184?utm_medium=api&utm_source=rss)
-- [When Breath Becomes Air](https://www.goodreads.com/review/show/4300415807?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_LATER:END -->
   [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=to-read)
 
