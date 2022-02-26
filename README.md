@@ -60,9 +60,9 @@ url: /index.html
   <summary>🔨 Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AnzenKodo/punk.css/pull/1) in [AnzenKodo/punk.css](https://github.com/AnzenKodo/punk.css)
-2. 💪 Opened PR [#1](https://github.com/AnzenKodo/punk.css/pull/1) in [AnzenKodo/punk.css](https://github.com/AnzenKodo/punk.css)
-3. 🎉 Merged PR [#1](https://github.com/AnzenKodo/1mbt/pull/1) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
+1. 💪 Opened PR [#314](https://github.com/fransallen/thedev.id/pull/314) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+2. 🎉 Merged PR [#1](https://github.com/AnzenKodo/punk.css/pull/1) in [AnzenKodo/punk.css](https://github.com/AnzenKodo/punk.css)
+3. 💪 Opened PR [#1](https://github.com/AnzenKodo/punk.css/pull/1) in [AnzenKodo/punk.css](https://github.com/AnzenKodo/punk.css)
 <!--END_SECTION:activity-->
 
 </details>
