@@ -18,6 +18,7 @@ url: /index.html
   <summary>📝 Blogs</summary>
 
 <!-- BLOG:START -->
+- [Hello Post](https://ionote.vercel.app/Hello%20Post.html)
 - [This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)
 - [This is something](https://ionote.vercel.app/This-is-something.html)
 <!-- BLOG:END --> 
