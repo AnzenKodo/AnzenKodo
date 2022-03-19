@@ -125,5 +125,4 @@ url: /index.html
 ---
 
 [![License: GPL v3.0](https://img.shields.io/badge/-GPL%20v3.0-2C3E50?style=for-the-badge&label=license&color=bd0000&labelColor=000&logoColor=814910)](LICENSE)
-[![Theme used is Github Readme Website](https://img.shields.io/badge/-Github%20%20Readme%20%20Webiste-2C3E50?style=for-the-badge&label=theme&color=519872&labelColor=433520&logoColor=814910)](https://github.com/AnzenKodo/github-readme-website)
 [![Made by AnzenKodo](https://img.shields.io/badge/-@AnzenKodo-2C3E50?style=for-the-badge&label=Made%20%20by&color=f20544&labelColor=170327&logoColor=814910)](https://AnzenKodo.github.io/AnzenKodo)
