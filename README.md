@@ -61,9 +61,9 @@ url: /index.html
   <summary>🔨 Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AnzenKodo/1mbt/pull/2) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
-2. 🎉 Merged PR [#3](https://github.com/AnzenKodo/1mbt/pull/3) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
-3. 🎉 Merged PR [#4](https://github.com/AnzenKodo/1mbt/pull/4) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
+1. 🎉 Merged PR [#1](https://github.com/AnzenKodo/io-note/pull/1) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
+2. 🎉 Merged PR [#2](https://github.com/AnzenKodo/io-note/pull/2) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
+3. 🎉 Merged PR [#3](https://github.com/AnzenKodo/io-note/pull/3) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
 <!--END_SECTION:activity-->
 
 </details>
