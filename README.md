@@ -76,9 +76,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
-- [An Elegant Defense: The Extraordinary New Science of the Immune System: A Tale in Four Lives](https://www.goodreads.com/review/show/4557717062?utm_medium=api&utm_source=rss)
-- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4264472547?utm_medium=api&utm_source=rss)
+- [The Martian](https://www.goodreads.com/review/show/4619856788?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
