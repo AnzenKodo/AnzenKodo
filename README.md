@@ -104,6 +104,9 @@ url: /index.html
   <summary>📗 Want to Read</summary>
 
 <!-- GOODREADS_LATER:START -->
+- [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
+- [An Elegant Defense: The Extraordinary New Science of the Immune System: A Tale in Four Lives](https://www.goodreads.com/review/show/4557717062?utm_medium=api&utm_source=rss)
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4264472547?utm_medium=api&utm_source=rss)
 - [Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork](https://www.goodreads.com/review/show/4575444657?utm_medium=api&utm_source=rss)
 - [Do Humankind&#39;s Best Days Lie Ahead?](https://www.goodreads.com/review/show/4276900244?utm_medium=api&utm_source=rss)
 - [The Paradox of Choice: Why More Is Less](https://www.goodreads.com/review/show/4557708261?utm_medium=api&utm_source=rss)
@@ -111,9 +114,6 @@ url: /index.html
 - [Blueprint: The Evolutionary Origins of a Good Society](https://www.goodreads.com/review/show/4525055224?utm_medium=api&utm_source=rss)
 - [Upheaval: Turning Points for Nations in Crisis](https://www.goodreads.com/review/show/4495185602?utm_medium=api&utm_source=rss)
 - [Collapse: How Societies Choose to Fail or Succeed](https://www.goodreads.com/review/show/4495185536?utm_medium=api&utm_source=rss)
-- [Stalin: The Court of the Red Tsar](https://www.goodreads.com/review/show/4418288882?utm_medium=api&utm_source=rss)
-- [Rationality: What It Is, Why It Seems Scarce, Why It Matters](https://www.goodreads.com/review/show/4414733659?utm_medium=api&utm_source=rss)
-- [Ten Global Trends That Every Smart Person Needs to Know: And Many Other Trends You Will Find Interesting](https://www.goodreads.com/review/show/4277878892?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_LATER:END -->
   [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=to-read)
 
