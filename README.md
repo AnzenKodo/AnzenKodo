@@ -61,9 +61,9 @@ url: /index.html
   <summary>🔨 Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AnzenKodo/io-note/pull/1) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
-2. 🎉 Merged PR [#2](https://github.com/AnzenKodo/io-note/pull/2) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
-3. 🎉 Merged PR [#3](https://github.com/AnzenKodo/io-note/pull/3) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
+1. ❌ Closed PR [#2](https://github.com/AnzenKodo/AnzenKodo/pull/2) in [AnzenKodo/AnzenKodo](https://github.com/AnzenKodo/AnzenKodo)
+2. 💪 Opened PR [#2](https://github.com/AnzenKodo/AnzenKodo/pull/2) in [AnzenKodo/AnzenKodo](https://github.com/AnzenKodo/AnzenKodo)
+3. 🎉 Merged PR [#1](https://github.com/AnzenKodo/io-note/pull/1) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
 <!--END_SECTION:activity-->
 
 </details>
