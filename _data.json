@@ -14,5 +14,5 @@
   "display": "minimal-ui",
   "orientation": "portrait",
   "layout": "base.njk",
-  "templateEngine": "njk,md",
+  "templateEngine": "njk,md"
 }
