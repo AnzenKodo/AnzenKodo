@@ -1,5 +1,6 @@
 import lume from "lume/mod.ts";
 import codeHighlight from "lume/plugins/code_highlight.ts";
+import resolveUrls from "lume/plugins/resolve_urls.ts";
 import minify from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/minify/minify.ts";
 
 import footnote from "https://jspm.dev/markdown-it-footnote";
@@ -29,6 +30,7 @@ site
   .copy("img")
   .copy("fonts")
   .use(codeHighlight())
+  .use(resolveUrls())
   .use(
     minify({
       extensions: [".css", ".html"],
