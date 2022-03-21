@@ -1,5 +1,7 @@
 # Read
 
+<div>
+  
 <!-- GOODREADS_READ_FULL:START -->
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
 - [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.goodreads.com/review/show/4619752786?utm_medium=api&utm_source=rss)
@@ -87,3 +89,5 @@
 - [The Internet of Money Volume Three: A Collection of Talks by Andreas M. Antonopoulos: 3](https://www.goodreads.com/review/show/4264430389?utm_medium=api&utm_source=rss)
 - [The Internet of Money](https://www.goodreads.com/review/show/4264430339?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ_FULL:END -->
+
+</div>
