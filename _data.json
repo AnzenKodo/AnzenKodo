@@ -15,5 +15,4 @@
   "orientation": "portrait",
   "layout": "base.njk",
   "templateEngine": "njk,md",
-  "permalink": "{{page.fileSlug | replace('/root/', '/')}}.html"
 }
