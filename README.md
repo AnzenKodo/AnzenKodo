@@ -30,10 +30,11 @@ url: /index.html
 
 <details>
   <summary>🐦 Microblog on Twitter</summary>
+  
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo&layout=wide)](https://twitter.com/AnzenKodo)
-
-[![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
+See more on [![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
 
 </details>
 
