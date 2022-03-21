@@ -17,7 +17,7 @@ url: /index.html
 <details>
   <summary>📝 Blogs</summary>
 
-<!-- BLOG:START -->Mar-19-2022:[Hello Post](https://ionote.vercel.app/Hello%20Post.html)Mar-19-2022:[This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)Mar-19-2022:[This is something](https://ionote.vercel.app/This-is-something.html)<!-- BLOG:END --> 
+<!-- BLOG:START -->Sat Mar 19 2022 5:39 PM:[Hello Post](https://ionote.vercel.app/Hello%20Post.html)Sat Mar 19 2022 5:39 PM:[This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)Sat Mar 19 2022 5:39 PM:[This is something](https://ionote.vercel.app/This-is-something.html)<!-- BLOG:END --> 
 
 [See More](https://ionote.vercel.app) or Subsribe to
   [![RSS](https://img.shields.io/badge/-RSS-f99b39?style=for-the-badge&logo=rss&color=f99b39&logoColor=fff)](https://ionote.vercel.app/feed.xml)
