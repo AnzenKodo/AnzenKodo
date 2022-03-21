@@ -31,36 +31,9 @@ url: /index.html
 <details>
   <summary>🐦 Microblog on Twitter</summary>
   
-<!-- TWITTER:START -->
-- [Build the simplest thing that can possibly work, and only add complexity when it’s warranted by requirements.](https://twitter.com/AnzenKodo/status/1505572300107952131)
-- [Most of writers time will be spent making sentences in their head.](https://twitter.com/AnzenKodo/status/1505420390541434887)
-- [You’ll make long sentences again, but they’ll be short sentences at heart.](https://twitter.com/AnzenKodo/status/1505317963267985408)
-- [Short sentences aren’t hard to make. The difficulty is forcing yourself to keep them short.](https://twitter.com/AnzenKodo/status/1505317098729652226)
-- [Developers are not more inclined to masochism than the general population. Actually, they are probably more lazy than anyone: they want to write less code (so they get less bugs), they want to automate processes (to avoid human mistakes)…](https://twitter.com/AnzenKodo/status/1500882092036882432)
-- [@nato_mitsu You look like real life dressup darling 🤩](https://twitter.com/AnzenKodo/status/1498992328820031499)
-- [If your existence is all about work, and work goes to shit, then life goes to shit too. If you live for your hobby, and your hobby hits the wall, then your life crashes too. If everything else is waiting until you hang with your mates, and your mates fade away, then you fade too.](https://twitter.com/AnzenKodo/status/1498991351865970692)
-- [Health care was the most highly regulated industry in the country and for good reason: 
-
-The lives of patients were at stake.](https://twitter.com/AnzenKodo/status/1497675297071984640)
-- [pic.twitter.com/cKXxnFrXxC](https://twitter.com/AnzenKodo/status/1494790768795742208)
-- [Love of close family is one of the most important features of the social suite.](https://twitter.com/AnzenKodo/status/1492978268055945216)
-- [@VineetJadhav7 @DailyOPMemes colors maybe](https://twitter.com/AnzenKodo/status/1489129519533289474)
-- [Many are called, but few are chosen.](https://twitter.com/AnzenKodo/status/1488322903079022592)
-- [Humans can do many things for which there was no evolutionary pressure. 
-
-Eg: Our brains did not evolve to program computers or make ice cream—both are recent inventions. The fact that we can do these things tells us that the brain relies on a general-purpose method of learning](https://twitter.com/AnzenKodo/status/1482920073878978563)
-- [Darwin proposed that the diversity of life is due to one basic algorithm. 
-
-Mountcastle proposed that the diversity of intelligence is also due to one basic algorithm.](https://twitter.com/AnzenKodo/status/1482919842198192134)
-- [Shallow rivers are noisy. Deep lakes are silent.](https://twitter.com/AnzenKodo/status/1482301421689405442)
-- [There’s no deeper happiness than wanting nothing.](https://twitter.com/AnzenKodo/status/1482300902384238593)
-- [When you blame your location, culture, race, or history, you’re abdicating your autonomy.](https://twitter.com/AnzenKodo/status/1482169659965452289)
-- [The only way to be deeply happy is to break all dependencies.](https://twitter.com/AnzenKodo/status/1482164916815802368)
-- [Perfect is the enemy of good.](https://twitter.com/AnzenKodo/status/1482152914882023424)
-- [We just find that if a potential mate has a different immune system, he or she smells sexier.](https://twitter.com/AnzenKodo/status/1482125330207113216)
-<!-- TWITTER:END -->
-
-See more on [![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo&layout=wide)](https://twitter.com/AnzenKodo)
+  
+  [![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
 
 </details>
 
