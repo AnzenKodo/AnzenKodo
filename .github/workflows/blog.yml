@@ -18,3 +18,9 @@ jobs:
           commit_message: "Updated readme with the latest Blog data"
           feed_list: "https://ionote.vercel.app/feed.xml"
           max_post_count: 10
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "TWITTER"
+          commit_message: "Updated readme with the latest Twitter data"
+          feed_list: "https://nitter.net/AnzenKodo/rss"
+          max_post_count: 100
