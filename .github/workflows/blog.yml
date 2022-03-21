@@ -24,3 +24,4 @@ jobs:
           commit_message: "Updated readme with the latest Twitter data"
           feed_list: "https://feed.eugenemolotov.ru/?action=display&bridge=Twitter&context=By+keyword+or+hashtag&q=AnzenKodo&format=Atom"
           max_post_count: 100
+          disable_html_encoding: true
