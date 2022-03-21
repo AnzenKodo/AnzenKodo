@@ -30,3 +30,24 @@ jobs:
           commit_message: "Updated readme with the latest Goodread want to read data"
           feed_list: "https://www.goodreads.com/review/list_rss/141100671?key=ml90gMmc42ivHC14PhwJ70GJ5E0YWBCLodO1V4SJaaX-ZyCe&shelf=to-read"
           max_post_count: 10
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GOODREADS_READ_FULL"
+          commit_message: "Updated readme with the latest Goodreads read book data"
+          feed_list: "https://www.goodreads.com/review/list_rss/141100671?key=ml90gMmc42ivHC14PhwJ70GJ5E0YWBCLodO1V4SJaaX-ZyCe&shelf=read"
+          max_post_count: 10
+          readme_path: ./read.md
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GOODREADS_READING_FULL"
+          commit_message: "Updated readme with the latest Goodreads currently reading data"
+          feed_list: "https://www.goodreads.com/review/list_rss/141100671?key=ml90gMmc42ivHC14PhwJ70GJ5E0YWBCLodO1V4SJaaX-ZyCe&shelf=currently-reading"
+          max_post_count: 10
+          readme_path: ./reading.md
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GOODREADS_LATER_FULL"
+          commit_message: "Updated readme with the latest Goodread want to read data"
+          feed_list: "https://www.goodreads.com/review/list_rss/141100671?key=ml90gMmc42ivHC14PhwJ70GJ5E0YWBCLodO1V4SJaaX-ZyCe&shelf=to-read"
+          max_post_count: 10
+          readme_path: ./later.md
