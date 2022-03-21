@@ -19,7 +19,6 @@ jobs:
           feed_list: "https://ionote.vercel.app/feed.xml"
           max_post_count: 10
           template: $date:[$title]($url)
-          date_format: UTC:mmm-dd-yyyy
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
