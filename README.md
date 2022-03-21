@@ -96,7 +96,7 @@ url: /index.html
 - [Together is Better: A Little Book of Inspiration](https://www.goodreads.com/review/show/4284265375?utm_medium=api&utm_source=rss)
 - [In Order to Live: A North Korean Girl&#39;s Journey to Freedom](https://www.goodreads.com/review/show/4296045027?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ:END -->
-  [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=read)
+  [See More](read)
 
 </details>
 
@@ -115,7 +115,7 @@ url: /index.html
 - [Upheaval: Turning Points for Nations in Crisis](https://www.goodreads.com/review/show/4495185602?utm_medium=api&utm_source=rss)
 - [Collapse: How Societies Choose to Fail or Succeed](https://www.goodreads.com/review/show/4495185536?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_LATER:END -->
-  [See More](https://www.goodreads.com/review/list/141100671-tesura?ref=nav_mybooks&shelf=to-read)
+  [See More](later)
 
 </details>
 
