@@ -5,8 +5,8 @@ url: /index.html
 [<img src="img/header.gif">](https://github.com/AnzenKodo/AnzenKodo)
 
 <div align="center">
-  <a href="mailto:AnzenKodo@secret.fyi">
-    <img width="300em" alt="Email link" src="https://img.shields.io/badge/-AnzenKodo@secret.fyi-f99b39?style=for-the-badge&logo=gmail&color=ea4335&logoColor=fff">
+  <a href="mailto:AnzenKodo@altmails.com">
+    <img width="300em" alt="Email link" src="https://img.shields.io/badge/-AnzenKodo@altmails.com-f99b39?style=for-the-badge&logo=gmail&color=ea4335&logoColor=fff">
   </a>
 </div>
 
