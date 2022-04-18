@@ -3,10 +3,9 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [The Martian](https://www.goodreads.com/review/show/4619856788?utm_medium=api&utm_source=rss)
 - [無職転生 ～異世界行ったら本気だす～ 1 &lpar;Mushoku Tensei, #1&rpar;](https://www.goodreads.com/review/show/4671257023?utm_medium=api&utm_source=rss)
-- [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.goodreads.com/review/show/4274067084?utm_medium=api&utm_source=rss)
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
-- [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.goodreads.com/review/show/4619752786?utm_medium=api&utm_source=rss)
 - [Several Short Sentences About Writing](https://www.goodreads.com/review/show/4619748816?utm_medium=api&utm_source=rss)
 - [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.goodreads.com/review/show/4605185338?utm_medium=api&utm_source=rss)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
