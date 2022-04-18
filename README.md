@@ -76,7 +76,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [The Martian](https://www.goodreads.com/review/show/4619856788?utm_medium=api&utm_source=rss)
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 2](https://www.goodreads.com/review/show/4675867273?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
