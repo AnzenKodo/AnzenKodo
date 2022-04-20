@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 2](https://www.goodreads.com/review/show/4675867273?utm_medium=api&utm_source=rss)
 - [The Martian](https://www.goodreads.com/review/show/4619856788?utm_medium=api&utm_source=rss)
 - [無職転生 ～異世界行ったら本気だす～ 1 &lpar;Mushoku Tensei, #1&rpar;](https://www.goodreads.com/review/show/4671257023?utm_medium=api&utm_source=rss)
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
