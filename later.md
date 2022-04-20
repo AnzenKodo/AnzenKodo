@@ -3,6 +3,7 @@
 <div>
 
 <!-- GOODREADS_LATER_FULL:START -->
+- [無職転生 ～異世界行ったら本気だす～ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
 - [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
 - [Animal Farm](https://www.goodreads.com/review/show/4662800671?utm_medium=api&utm_source=rss)
 - [1984](https://www.goodreads.com/review/show/4662800623?utm_medium=api&utm_source=rss)
