@@ -76,7 +76,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 2](https://www.goodreads.com/review/show/4675867273?utm_medium=api&utm_source=rss)
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 3](https://www.goodreads.com/review/show/4678512308?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
