@@ -4,7 +4,7 @@ url: /index.html
 
 <div align="center">
   
-  [<img src="https://raw.githubusercontent.com/AnzenKodo/assests/main/my/banner/Banner.gif">](https://github.com/AnzenKodo/AnzenKodo)
+  [<img src="https://raw.githubusercontent.com/AnzenKodo/assests/main/my/banner/Banner.webp">](https://github.com/AnzenKodo/AnzenKodo)
   
   <a href="mailto:AnzenKodo@altmails.com">
     <img width="300em" alt="Email link" src="https://img.shields.io/badge/-AnzenKodo@altmails.com-f99b39?style=for-the-badge&logo=gmail&color=ea4335&logoColor=fff">
