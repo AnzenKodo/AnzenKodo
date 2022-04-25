@@ -105,7 +105,8 @@ url: /index.html
   <summary>📗 Want to Read</summary>
 
 <!-- GOODREADS_LATER:START -->
-- [無職転生 ～異世界行ったら本気だす～ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
+- [Project Hail Mary](https://www.goodreads.com/review/show/4687794069?utm_medium=api&utm_source=rss)
+- [無職転生　～異世界行ったら本気だす～ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
 - [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
 - [Animal Farm](https://www.goodreads.com/review/show/4662800671?utm_medium=api&utm_source=rss)
 - [1984](https://www.goodreads.com/review/show/4662800623?utm_medium=api&utm_source=rss)
