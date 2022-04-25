@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 3](https://www.goodreads.com/review/show/4678512308?utm_medium=api&utm_source=rss)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
 - [JavaScript Everywhere: Building Cross-Platform Applications with Graphql, React, React Native, and Electron](https://www.goodreads.com/review/show/4268755800?utm_medium=api&utm_source=rss)
 - [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/review/show/4267206382?utm_medium=api&utm_source=rss)
