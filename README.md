@@ -105,6 +105,7 @@ url: /index.html
   <summary>📗 Want to Read</summary>
 
 <!-- GOODREADS_LATER:START -->
+- [Attack on Titan: Before the Fall, Vol. 1 &lpar;Attack on Titan: Before the Fall Manga, #1&rpar;](https://www.goodreads.com/review/show/4696667206?utm_medium=api&utm_source=rss)
 - [Project Hail Mary](https://www.goodreads.com/review/show/4687794069?utm_medium=api&utm_source=rss)
 - [無職転生　～異世界行ったら本気だす～ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
 - [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
