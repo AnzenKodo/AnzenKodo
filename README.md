@@ -62,9 +62,9 @@ url: /index.html
   <summary>🔨 Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/ArnaudValensi/ArnaudValensi.github.io/issues/7) in [ArnaudValensi/ArnaudValensi.github.io](https://github.com/ArnaudValensi/ArnaudValensi.github.io)
-2. ❗️ Closed issue [#148548](https://github.com/NixOS/nixpkgs/issues/148548) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❌ Closed PR [#1](https://github.com/AnzenKodo/rss/pull/1) in [AnzenKodo/rss](https://github.com/AnzenKodo/rss)
+1. 🎉 Merged PR [#6](https://github.com/AnzenKodo/1mbt/pull/6) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
+2. 🎉 Merged PR [#5](https://github.com/AnzenKodo/1mbt/pull/5) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
+3. ❗️ Closed issue [#7](https://github.com/ArnaudValensi/ArnaudValensi.github.io/issues/7) in [ArnaudValensi/ArnaudValensi.github.io](https://github.com/ArnaudValensi/ArnaudValensi.github.io)
 <!--END_SECTION:activity-->
 
 </details>
