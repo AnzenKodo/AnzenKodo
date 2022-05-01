@@ -77,7 +77,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [無職転生　～異世界行ったら本気だす～ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
+- [無職転生　～異世界行ったら本気だす～ 6 &lpar;Mushoku Tensei, #6&rpar;](https://www.goodreads.com/review/show/4696933969?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
