@@ -86,6 +86,7 @@ url: /index.html
   <summary>📕 Read</summary>
 
 <!-- GOODREADS_READ:START -->
+- [無職転生　～異世界行ったら本気だす～ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
 - [無職転生 ～異世界行ったら本気だす～ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 3](https://www.goodreads.com/review/show/4678512308?utm_medium=api&utm_source=rss)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
@@ -95,7 +96,6 @@ url: /index.html
 - [Hell Yeah or No: what&#39;s worth doing](https://www.goodreads.com/review/show/4264442979?utm_medium=api&utm_source=rss)
 - [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.goodreads.com/review/show/4264442051?utm_medium=api&utm_source=rss)
 - [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](https://www.goodreads.com/review/show/4264441879?utm_medium=api&utm_source=rss)
-- [Steal Like an Artist: 10 Things Nobody Told You about Being Creative](https://www.goodreads.com/review/show/4264442228?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ:END -->
   [See More](read.md)
 
