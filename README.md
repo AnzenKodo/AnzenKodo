@@ -77,7 +77,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [無職転生　～異世界行ったら本気だす～ 6 &lpar;Mushoku Tensei, #6&rpar;](https://www.goodreads.com/review/show/4696933969?utm_medium=api&utm_source=rss)
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 7](https://www.goodreads.com/review/show/4700621414?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
