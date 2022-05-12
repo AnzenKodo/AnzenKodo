@@ -62,9 +62,9 @@ url: /index.html
   <summary>🔨 Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/AnzenKodo/1mbt/pull/7) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
-2. 🎉 Merged PR [#6](https://github.com/AnzenKodo/1mbt/pull/6) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
-3. 🎉 Merged PR [#5](https://github.com/AnzenKodo/1mbt/pull/5) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
+1. 💪 Opened PR [#2346](https://github.com/is-a-dev/register/pull/2346) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🎉 Merged PR [#7](https://github.com/AnzenKodo/1mbt/pull/7) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
+3. 🎉 Merged PR [#6](https://github.com/AnzenKodo/1mbt/pull/6) in [AnzenKodo/1mbt](https://github.com/AnzenKodo/1mbt)
 <!--END_SECTION:activity-->
 
 </details>
