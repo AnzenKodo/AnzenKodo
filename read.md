@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 8](https://www.goodreads.com/review/show/4703559893?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 7](https://www.goodreads.com/review/show/4700621414?utm_medium=api&utm_source=rss)
 - [無職転生　～異世界行ったら本気だす～ 6 &lpar;Mushoku Tensei, #6&rpar;](https://www.goodreads.com/review/show/4696933969?utm_medium=api&utm_source=rss)
 - [無職転生　～異世界行ったら本気だす～ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
