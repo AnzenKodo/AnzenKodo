@@ -3,7 +3,7 @@
 <div>
 
 <!-- GOODREADS_LATER_FULL:START -->
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 10](https://www.goodreads.com/review/show/4720563695?utm_medium=api&utm_source=rss)
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 11](https://www.goodreads.com/review/show/4726673180?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Roxy Gets Serious Vol. 1](https://www.goodreads.com/review/show/4696942342?utm_medium=api&utm_source=rss)
 - [Attack on Titan: Before the Fall, Vol. 1 &lpar;Attack on Titan: Before the Fall Manga, #1&rpar;](https://www.goodreads.com/review/show/4696667206?utm_medium=api&utm_source=rss)
 - [Project Hail Mary](https://www.goodreads.com/review/show/4687794069?utm_medium=api&utm_source=rss)
