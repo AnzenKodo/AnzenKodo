@@ -86,6 +86,7 @@ url: /index.html
   <summary>📕 Read</summary>
 
 <!-- GOODREADS_READ:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 9](https://www.goodreads.com/review/show/4719011917?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 8](https://www.goodreads.com/review/show/4703559893?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 7](https://www.goodreads.com/review/show/4700621414?utm_medium=api&utm_source=rss)
 - [無職転生　～異世界行ったら本気だす～ 6 &lpar;Mushoku Tensei, #6&rpar;](https://www.goodreads.com/review/show/4696933969?utm_medium=api&utm_source=rss)
@@ -95,7 +96,6 @@ url: /index.html
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
 - [JavaScript Everywhere: Building Cross-Platform Applications with Graphql, React, React Native, and Electron](https://www.goodreads.com/review/show/4268755800?utm_medium=api&utm_source=rss)
 - [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/review/show/4267206382?utm_medium=api&utm_source=rss)
-- [The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company](https://www.goodreads.com/review/show/4264443930?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ:END -->
   [See More](read.md)
 
