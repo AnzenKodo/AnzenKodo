@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Ego Is the Enemy](https://www.goodreads.com/review/show/4807007944?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 9](https://www.goodreads.com/review/show/4719011917?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 8](https://www.goodreads.com/review/show/4703559893?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 7](https://www.goodreads.com/review/show/4700621414?utm_medium=api&utm_source=rss)
