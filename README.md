@@ -77,7 +77,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [1984](https://www.goodreads.com/review/show/4662800623?utm_medium=api&utm_source=rss)
+- [Nineteen Eighty-Four](https://www.goodreads.com/review/show/4662800623?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
