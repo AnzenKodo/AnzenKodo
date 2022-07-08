@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 10](https://www.goodreads.com/review/show/4720563695?utm_medium=api&utm_source=rss)
 - [Think and Grow Rich](https://www.goodreads.com/review/show/4267238917?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 6 &lpar;Mushoku Tensei, #6&rpar;](https://www.goodreads.com/review/show/4696933969?utm_medium=api&utm_source=rss)
 - [Ego Is the Enemy](https://www.goodreads.com/review/show/4807007944?utm_medium=api&utm_source=rss)
