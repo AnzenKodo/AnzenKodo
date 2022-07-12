@@ -3,6 +3,10 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
+- [無職転生 ~異世界行ったら本気だす~ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
+- [無職転生 ~異世界行ったら本気だす~ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
+- [Several Short Sentences About Writing](https://www.goodreads.com/review/show/4619748816?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 10](https://www.goodreads.com/review/show/4720563695?utm_medium=api&utm_source=rss)
 - [Think and Grow Rich](https://www.goodreads.com/review/show/4267238917?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 6 &lpar;Mushoku Tensei, #6&rpar;](https://www.goodreads.com/review/show/4696933969?utm_medium=api&utm_source=rss)
@@ -11,8 +15,6 @@
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 9](https://www.goodreads.com/review/show/4719011917?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 8](https://www.goodreads.com/review/show/4703559893?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 7](https://www.goodreads.com/review/show/4700621414?utm_medium=api&utm_source=rss)
-- [無職転生 ~異世界行ったら本気だす~ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
-- [無職転生 ~異世界行ったら本気だす~ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 3](https://www.goodreads.com/review/show/4678512308?utm_medium=api&utm_source=rss)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/4495154266?utm_medium=api&utm_source=rss)
 - [JavaScript Everywhere: Building Cross-Platform Applications with Graphql, React, React Native, and Electron](https://www.goodreads.com/review/show/4268755800?utm_medium=api&utm_source=rss)
@@ -41,8 +43,6 @@
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 2](https://www.goodreads.com/review/show/4675867273?utm_medium=api&utm_source=rss)
 - [The Martian](https://www.goodreads.com/review/show/4619856788?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 1 &lpar;Mushoku Tensei, #1&rpar;](https://www.goodreads.com/review/show/4671257023?utm_medium=api&utm_source=rss)
-- [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
-- [Several Short Sentences About Writing](https://www.goodreads.com/review/show/4619748816?utm_medium=api&utm_source=rss)
 - [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.goodreads.com/review/show/4605185338?utm_medium=api&utm_source=rss)
 - [How to Live: 27 conflicting answers and one weird conclusion](https://www.goodreads.com/review/show/4267203579?utm_medium=api&utm_source=rss)
 - [Immune: a Journey into the Mysterious System that Keeps You Alive](https://www.goodreads.com/review/show/4267202833?utm_medium=api&utm_source=rss)
