@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 11](https://www.goodreads.com/review/show/4831101667?utm_medium=api&utm_source=rss)
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
