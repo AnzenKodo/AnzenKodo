@@ -3,6 +3,8 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Animal Farm](https://www.goodreads.com/review/show/4662800671?utm_medium=api&utm_source=rss)
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 12](https://www.goodreads.com/review/show/4833414170?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 11](https://www.goodreads.com/review/show/4831101667?utm_medium=api&utm_source=rss)
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
@@ -12,7 +14,6 @@
 - [Think and Grow Rich](https://www.goodreads.com/review/show/4267238917?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 6 &lpar;Mushoku Tensei, #6&rpar;](https://www.goodreads.com/review/show/4696933969?utm_medium=api&utm_source=rss)
 - [Ego Is the Enemy](https://www.goodreads.com/review/show/4807007944?utm_medium=api&utm_source=rss)
-- [Animal Farm](https://www.goodreads.com/review/show/4662800671?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 9](https://www.goodreads.com/review/show/4719011917?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 8](https://www.goodreads.com/review/show/4703559893?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 7](https://www.goodreads.com/review/show/4700621414?utm_medium=api&utm_source=rss)
