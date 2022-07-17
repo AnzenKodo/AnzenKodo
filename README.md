@@ -86,6 +86,7 @@ url: /index.html
   <summary>📕 Read</summary>
 
 <!-- GOODREADS_READ:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 14](https://www.goodreads.com/review/show/4846448828?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 13](https://www.goodreads.com/review/show/4845072346?utm_medium=api&utm_source=rss)
 - [Animal Farm](https://www.goodreads.com/review/show/4662800671?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 12](https://www.goodreads.com/review/show/4833414170?utm_medium=api&utm_source=rss)
@@ -95,7 +96,6 @@ url: /index.html
 - [無職転生 ~異世界行ったら本気だす~ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
 - [Several Short Sentences About Writing](https://www.goodreads.com/review/show/4619748816?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 10](https://www.goodreads.com/review/show/4720563695?utm_medium=api&utm_source=rss)
-- [Think and Grow Rich](https://www.goodreads.com/review/show/4267238917?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ:END -->
   [See More](read.md)
 
