@@ -105,7 +105,7 @@ url: /index.html
   <summary>📗 Want to Read</summary>
 
 <!-- GOODREADS_LATER:START -->
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 14](https://www.goodreads.com/review/show/4846448828?utm_medium=api&utm_source=rss)
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 15](https://www.goodreads.com/review/show/4852938072?utm_medium=api&utm_source=rss)
 - [Nineteen Eighty-Four](https://www.goodreads.com/review/show/4662800623?utm_medium=api&utm_source=rss)
 - [Project Hail Mary](https://www.goodreads.com/review/show/4687794069?utm_medium=api&utm_source=rss)
 - [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
