@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 13](https://www.goodreads.com/review/show/4845072346?utm_medium=api&utm_source=rss)
 - [Animal Farm](https://www.goodreads.com/review/show/4662800671?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 12](https://www.goodreads.com/review/show/4833414170?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 11](https://www.goodreads.com/review/show/4831101667?utm_medium=api&utm_source=rss)
