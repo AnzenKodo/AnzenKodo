@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 16](https://www.goodreads.com/review/show/4854348951?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 15](https://www.goodreads.com/review/show/4852938072?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 14](https://www.goodreads.com/review/show/4846448828?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 13](https://www.goodreads.com/review/show/4845072346?utm_medium=api&utm_source=rss)
@@ -102,7 +103,6 @@
 - [21 Great Ways to Meet and Marry the Man of Your Dreams](https://www.goodreads.com/review/show/4264432282?utm_medium=api&utm_source=rss)
 - [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market](https://www.goodreads.com/review/show/4264431734?utm_medium=api&utm_source=rss)
 - [The Internet of Money Volume Three: A Collection of Talks by Andreas M. Antonopoulos: 3](https://www.goodreads.com/review/show/4264430389?utm_medium=api&utm_source=rss)
-- [The Internet of Money](https://www.goodreads.com/review/show/4264430339?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ_FULL:END -->
 
 </div>
