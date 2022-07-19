@@ -86,6 +86,7 @@ url: /index.html
   <summary>📕 Read</summary>
 
 <!-- GOODREADS_READ:START -->
+- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 16](https://www.goodreads.com/review/show/4854348951?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 15](https://www.goodreads.com/review/show/4852938072?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 14](https://www.goodreads.com/review/show/4846448828?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 13](https://www.goodreads.com/review/show/4845072346?utm_medium=api&utm_source=rss)
@@ -95,7 +96,6 @@ url: /index.html
 - [The Psychology of Money](https://www.goodreads.com/review/show/4495177279?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 5 &lpar;Mushoku Tensei, #5&rpar;](https://www.goodreads.com/review/show/4687790214?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 4 &lpar;Mushoku Tensei, #4&rpar;](https://www.goodreads.com/review/show/4678512623?utm_medium=api&utm_source=rss)
-- [Several Short Sentences About Writing](https://www.goodreads.com/review/show/4619748816?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ:END -->
   [See More](read.md)
 
