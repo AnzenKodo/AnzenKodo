@@ -3,7 +3,7 @@
 <div>
 
 <!-- GOODREADS_LATER_FULL:START -->
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 17](https://www.goodreads.com/review/show/4854583009?utm_medium=api&utm_source=rss)
+- [無職転生 ~異世界行ったら本気だす~ 18](https://www.goodreads.com/review/show/4857471624?utm_medium=api&utm_source=rss)
 - [Nineteen Eighty-Four](https://www.goodreads.com/review/show/4662800623?utm_medium=api&utm_source=rss)
 - [Project Hail Mary](https://www.goodreads.com/review/show/4687794069?utm_medium=api&utm_source=rss)
 - [Will](https://www.goodreads.com/review/show/4414728022?utm_medium=api&utm_source=rss)
