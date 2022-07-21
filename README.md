@@ -62,9 +62,9 @@ url: /index.html
   <summary>🔨 Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2632](https://github.com/denoland/deno/issues/2632) in [denoland/deno](https://github.com/denoland/deno)
-2. 🎉 Merged PR [#5](https://github.com/AnzenKodo/io-note/pull/5) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
-3. 💪 Opened PR [#2346](https://github.com/is-a-dev/register/pull/2346) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#3](https://github.com/AnzenKodo/AnzenKodo/pull/3) in [AnzenKodo/AnzenKodo](https://github.com/AnzenKodo/AnzenKodo)
+2. 🗣 Commented on [#2632](https://github.com/denoland/deno/issues/2632) in [denoland/deno](https://github.com/denoland/deno)
+3. 🎉 Merged PR [#5](https://github.com/AnzenKodo/io-note/pull/5) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
 <!--END_SECTION:activity-->
 
 </details>
