@@ -69,7 +69,7 @@ url: /index.html
 
 </details>
 
-[![Github](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://twitter.com/AnzenKodo)
+[![Github](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://github.com/AnzenKodo)
 
 ## Books
 
