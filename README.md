@@ -77,7 +77,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [無職転生 ~異世界行ったら本気だす~ 18](https://www.goodreads.com/review/show/4857471624?utm_medium=api&utm_source=rss)
+- [無職転生 ~ 20 [Young Man Period - Zanoba Chapter] &lpar;Mushoku Tensei, #20&rpar;](https://www.goodreads.com/review/show/4864221673?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
