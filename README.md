@@ -105,6 +105,7 @@ url: /index.html
   <summary>📗 Want to Read</summary>
 
 <!-- GOODREADS_LATER:START -->
+- [無職転生 ~ 20.5 [Intermission Chapter] &lpar;Mushoku Tensei, #20.5&rpar;](https://www.goodreads.com/review/show/4864222026?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 19 [Mushoku Tensei ~ Isekai Ittara Honki Dasu~ 19]](https://www.goodreads.com/review/show/4859481384?utm_medium=api&utm_source=rss)
 - [Nineteen Eighty-Four](https://www.goodreads.com/review/show/4662800623?utm_medium=api&utm_source=rss)
 - [Project Hail Mary](https://www.goodreads.com/review/show/4687794069?utm_medium=api&utm_source=rss)
