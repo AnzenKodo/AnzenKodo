@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [無職転生 ~異世界行ったら本気だす~ 18](https://www.goodreads.com/review/show/4857471624?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 17](https://www.goodreads.com/review/show/4854583009?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 16](https://www.goodreads.com/review/show/4854348951?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 15](https://www.goodreads.com/review/show/4852938072?utm_medium=api&utm_source=rss)
@@ -102,7 +103,6 @@
 - [Your Music and People: creative and considerate fame](https://www.goodreads.com/review/show/4264443104?utm_medium=api&utm_source=rss)
 - [Before You Start Up: How to Prepare to Make Your Startup Dream a Reality](https://www.goodreads.com/review/show/4264433686?utm_medium=api&utm_source=rss)
 - [21 Great Ways to Meet and Marry the Man of Your Dreams](https://www.goodreads.com/review/show/4264432282?utm_medium=api&utm_source=rss)
-- [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market](https://www.goodreads.com/review/show/4264431734?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ_FULL:END -->
 
 </div>
