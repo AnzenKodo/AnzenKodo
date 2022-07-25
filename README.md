@@ -77,8 +77,8 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
+- [無職転生 ~ 20.5 [Intermission Chapter] &lpar;Mushoku Tensei, #20.5&rpar;](https://www.goodreads.com/review/show/4864222026?utm_medium=api&utm_source=rss)
 - [Einstein: His Life and Universe](https://www.goodreads.com/review/show/4868841709?utm_medium=api&utm_source=rss)
-- [無職転生 ~ 20 [Young Man Period - Zanoba Chapter] &lpar;Mushoku Tensei, #20&rpar;](https://www.goodreads.com/review/show/4864221673?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
 </details>
