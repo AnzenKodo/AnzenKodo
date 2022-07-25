@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [無職転生 ~ 20 [Young Man Period - Zanoba Chapter] &lpar;Mushoku Tensei, #20&rpar;](https://www.goodreads.com/review/show/4864221673?utm_medium=api&utm_source=rss)
 - [無職転生 ~異世界行ったら本気だす~ 18](https://www.goodreads.com/review/show/4857471624?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 17](https://www.goodreads.com/review/show/4854583009?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 16](https://www.goodreads.com/review/show/4854348951?utm_medium=api&utm_source=rss)
@@ -102,7 +103,6 @@
 - [Anything You Want](https://www.goodreads.com/review/show/4264442335?utm_medium=api&utm_source=rss)
 - [Your Music and People: creative and considerate fame](https://www.goodreads.com/review/show/4264443104?utm_medium=api&utm_source=rss)
 - [Before You Start Up: How to Prepare to Make Your Startup Dream a Reality](https://www.goodreads.com/review/show/4264433686?utm_medium=api&utm_source=rss)
-- [21 Great Ways to Meet and Marry the Man of Your Dreams](https://www.goodreads.com/review/show/4264432282?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ_FULL:END -->
 
 </div>
