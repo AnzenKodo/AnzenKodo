@@ -77,7 +77,7 @@ url: /index.html
   <summary>📖 Currently Reading</summary>
 
 <!-- GOODREADS_READING:START -->
-- [無職転生 ~ 21 [Young Man Period - Cliff Chapter] &lpar;Mushoku Tensei, #21&rpar;](https://www.goodreads.com/review/show/4870705917?utm_medium=api&utm_source=rss)
+- [無職転生 ~ 22 [Young Man Period - Organization Chapter] &lpar;Mushoku Tensei #22&rpar;](https://www.goodreads.com/review/show/4873004217?utm_medium=api&utm_source=rss)
 - [Einstein: His Life and Universe](https://www.goodreads.com/review/show/4868841709?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READING:END -->
 
