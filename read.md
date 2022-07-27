@@ -3,6 +3,7 @@
 <div>
   
 <!-- GOODREADS_READ_FULL:START -->
+- [無職転生 ~ 21 [Young Man Period - Cliff Chapter] &lpar;Mushoku Tensei, #21&rpar;](https://www.goodreads.com/review/show/4870705917?utm_medium=api&utm_source=rss)
 - [無職転生 ~ 20.5 [Intermission Chapter] &lpar;Mushoku Tensei, #20.5&rpar;](https://www.goodreads.com/review/show/4864222026?utm_medium=api&utm_source=rss)
 - [無職転生 ~ 20 [Young Man Period - Zanoba Chapter] &lpar;Mushoku Tensei, #20&rpar;](https://www.goodreads.com/review/show/4871017756?utm_medium=api&utm_source=rss)
 - [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 17](https://www.goodreads.com/review/show/4854583009?utm_medium=api&utm_source=rss)
@@ -102,7 +103,6 @@
 - [The Internet of Money Volume Two](https://www.goodreads.com/review/show/4264430369?utm_medium=api&utm_source=rss)
 - [Love Is Not Enough](https://www.goodreads.com/review/show/4264438320?utm_medium=api&utm_source=rss)
 - [Anything You Want](https://www.goodreads.com/review/show/4264442335?utm_medium=api&utm_source=rss)
-- [Your Music and People: creative and considerate fame](https://www.goodreads.com/review/show/4264443104?utm_medium=api&utm_source=rss)
 <!-- GOODREADS_READ_FULL:END -->
 
 </div>
