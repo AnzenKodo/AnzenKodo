@@ -1,125 +1,160 @@
----
-url: /index.html
----
+# AK
+<!-- banner:start --><a href="https://AnzenKodo.github.io/AnzenKodo/"><img src="https://i.pinimg.com/originals/50/bf/91/50bf9179a68d1df68a1609249e5c4cf4.jpg" loading="lazy"></a><!-- banner:end -->
 
-<div align="center">
-  
-  [<img src="https://raw.githubusercontent.com/AnzenKodo/assests/main/my/banner/Banner.webp">](https://github.com/AnzenKodo/AnzenKodo)
-  
-  <a href="mailto:AnzenKodo@altmails.com">
-    <img width="300em" alt="Email link" src="https://img.shields.io/badge/-AnzenKodo@altmails.com-f99b39?style=for-the-badge&logo=gmail&color=ea4335&logoColor=fff">
-  </a>
-</div>
+<pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/AnzenKodo/blog">Blog</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/db">Db</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/pen">Pen</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/todo">Todo</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/awesome">Awesome</a><!-- nav:end --></pre>
+
+## About
+
+<!-- logo:start --><img alt="Logo of Tesura" src="https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg" align="right" width="30%" loading="lazy"><!-- logo:end -->
+
+- **Name:** <!-- name:start -->Tesura<!-- name:end -->
+  (<!-- username:start -->AnzenKodo<!-- username:end -->)
+- **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
+- **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
+- **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
+- **Bio:**
+  <!-- description:start -->Programming nerd who is obsessed with JavaScript.<!-- description:end -->
+- **Favourite Color:** <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
+- **Socials:**
+  <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
+  <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a><!-- social:end -->
+- **Programming Languages:** <!-- languages:start -->[HTML](https://github.com/topics/HTML) / [JavaScript](https://github.com/topics/JavaScript) / [Python](https://github.com/topics/Python) / [Shell](https://github.com/topics/Shell) / [Nix](https://github.com/topics/Nix) / [Lua](https://github.com/topics/Lua) / [CSS](https://github.com/topics/CSS) / [PHP](https://github.com/topics/PHP) / [Nunjucks](https://github.com/topics/Nunjucks) / [TypeScript](https://github.com/topics/TypeScript) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
 
 ## Now
+This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
+[nownownow.com](https://nownownow.com/). This is the convenient spot to find
+out: "What I been up to?".
 
-## Blogs
+### What I have been writing in:
 
-<details>
-  <summary>📝 Blogs</summary>
+#### Blog
+<!-- blog:start -->
+- [First Post](https://AnzenKodo.github.io/dblog/posts/First-Post.html)
+- [dblog Docs](https://AnzenKodo.github.io/dblog/posts/dblog-Docs.html)
+- See More on [AK#Blog](https://AnzenKodo.github.io/AnzenKodo/blog)
+<!-- blog:end -->
 
-<!-- BLOG:START -->
-- [Hello Post](https://ionote.vercel.app/Hello%20Post.html)
-- [This is my first post](https://ionote.vercel.app/This-is-my-first-post.html)
-- [This is something](https://ionote.vercel.app/This-is-something.html)
-<!-- BLOG:END --> 
+#### Microblog
+<!-- microblog:start -->
+> Sympathy is changing your profile picture on social media for whatever the new cause du jour is. Compassion is actually giving time or money to victims, listening to their stories, helping them rebuild their lives.
+> 
+> https://markmanson.net/how-much-pain-can-you-take
+> 
+> <a href="https://twitter.com/AnzenKodo/status/1579753753326256129#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+<!-- microblog:end -->
 
-[See More](https://ionote.vercel.app) or Subsribe to
-  [![RSS](https://img.shields.io/badge/-RSS-f99b39?style=for-the-badge&logo=rss&color=f99b39&logoColor=fff)](https://ionote.vercel.app/feed.xml)
+### What I have been working on:
+<!-- working:start -->
+- Database of Personal stuff
+- Portfolio
+- Snippets
+- See More on [AK#Todo](https://AnzenKodo.github.io/AnzenKodo/todo)
+<!-- working:end -->
 
-</details>
+### What I have been:
 
-<details>
-  <summary>🐦 Microblog on Twitter</summary>
-  
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Anzenkodo&layout=wide)](https://twitter.com/AnzenKodo)
-  
-  [![Twitter](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=twitter&color=1da1f2&logoColor=fff)](https://twitter.com/AnzenKodo)
+#### Reading
 
-</details>
+##### Online
+<!-- pinboard:start -->
+- [On blogging and blogging platforms. - Ru](https://rusingh.com/on-blogging-and-platforms/)
+- [Just get moving](https://world.hey.com/jason/just-get-moving-37503f0e)
+- [How to Create a Simple HTML/CSS Notice Box - Kev Quirk](https://kevquirk.com/how-to-create-a-simple-html-css-notice-box/)
+- See More on [AK#Pinboard](https://AnzenKodo.github.io/AnzenKodo/pinboard)
+<!-- pinboard:end -->
 
-## Projects
+##### Books
+<!-- reading:start -->
 
-<details>
-  <summary>📊 Stats</summary>
+- [進撃の巨人 Before the Fall [Shingeki no Kyojin: Before the Fall 1] (Attack on Titan: Before the Fall Light Novels, #1)](https://www.goodreads.com/book/show/18324047) by [Ryo Suzukaze](#)
+<!-- reading:end -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzenKodo&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&langs_count=10" align="left">
+##### Manga
+<!-- manga:start -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AnzenKodo&show_icons=true&bg_color=00000000&hide_border=true&text_color=0583F2&title_color=F20544&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnzenKodo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=00000000&ring=F20544&fire=F20544&currStreakNum=0583F2&sideNums=0583F2&currStreakLabel=0583F2&sideLabels=0583F2&stroke=F20544&dates=0583F2)](https://github-readme-streak-stats.herokuapp.com/demo/?user=AnzenKodo&theme=default&hide_border=true&date_format=j%2Fn%5B%2FY%5D&properties=border&background=%2300000000&ring=%23F20544FF&fire=%23F20544FF&currStreakNum=%230583F2FF&sideNums=%230583F2FF&currStreakLabel=%230583F2&sideLabels=%230583F2&stroke=%23F20544&dates=%230583F2)
+- [Spy×Family 4 (SpyxFamily, #4)](https://www.goodreads.com/book/show/49252613) by [Tatsuya Endo](#)
+- [Ranking of Kings T01](https://www.goodreads.com/book/show/60071774) by [Sousuke Toka](#)
+- [One-Punch Man, Vol. 1](https://www.goodreads.com/book/show/25783832) by [ONE](#)
+<!-- manga:end -->
 
-</details>
+#### Listening
 
-<details>
-  <summary>🤝 Contribution</summary>
+##### Music
+<!-- music:start -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AnzenKodo&no-bg=true&no-frame=true&theme=nord&column=10)
-![Tesura's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnzenKodo&bg_color=000000000&color=0583F2&line=f20544&point=0583F2&area_color=0583F2&hide_border=true&area=true)
+- [One Day](#) by [axaero](#)
+- [Up Now](#) by [axaero](#)
+- [Narcos ft. Shady MOON(Prod. gosha)*ALL PLATS*](#) by [Lil Dew’](#)
+<!-- music:end -->
+##### Audiobook
+<!-- audiobook:start -->
 
-</details>
+- [Einstein: His Life and Universe](https://www.goodreads.com/book/show/10884) by [Walter Isaacson](#)
+<!-- audiobook:end -->
 
-<details>
-  <summary>🔨 Activities</summary>
+#### Watching
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AnzenKodo/AnzenKodo/pull/3) in [AnzenKodo/AnzenKodo](https://github.com/AnzenKodo/AnzenKodo)
-2. 🗣 Commented on [#2632](https://github.com/denoland/deno/issues/2632) in [denoland/deno](https://github.com/denoland/deno)
-3. 🎉 Merged PR [#5](https://github.com/AnzenKodo/io-note/pull/5) in [AnzenKodo/io-note](https://github.com/AnzenKodo/io-note)
-<!--END_SECTION:activity-->
+##### Anime
+<!-- anime:start -->
 
-</details>
+- [Yofukashi no Uta](https://simkl.com/anime/1880420)
+<!-- anime:end -->
+<!-- ona:start -->
 
-[![Github](https://img.shields.io/badge/-@Anzenkodo-2C3E50?style=for-the-badge&logo=github&color=161b22&logoColor=fff)](https://github.com/AnzenKodo)
 
-## Books
+<!-- ona:end -->
 
-<details>
-  <summary>📖 Currently Reading</summary>
+##### Shows
+<!-- watching:start -->
 
-<!-- GOODREADS_READING:START -->
-- [無職転生 ~ 22 [Young Man Period - Organization Chapter] &lpar;Mushoku Tensei #22&rpar;](https://www.goodreads.com/review/show/4873004217?utm_medium=api&utm_source=rss)
-- [Einstein: His Life and Universe](https://www.goodreads.com/review/show/4868841709?utm_medium=api&utm_source=rss)
-<!-- GOODREADS_READING:END -->
+- [The Mandalorian](https://simkl.com/anime/1067626)
+- [Arcane](https://simkl.com/anime/1188702)
+<!-- watching:end -->
 
-</details>
+<!-- db:start -->
 
-<details>
-  <summary>📕 Read</summary>
+### See More on [AK#Db](https://AnzenKodo.github.io/AnzenKodo/db)
+<!-- db:end -->
 
-<!-- GOODREADS_READ:START -->
-- [無職転生 ~ 21 [Young Man Period - Cliff Chapter] &lpar;Mushoku Tensei, #21&rpar;](https://www.goodreads.com/review/show/4870705917?utm_medium=api&utm_source=rss)
-- [無職転生 ~ 20.5 [Intermission Chapter] &lpar;Mushoku Tensei, #20.5&rpar;](https://www.goodreads.com/review/show/4864222026?utm_medium=api&utm_source=rss)
-- [無職転生 ~ 20 [Young Man Period - Zanoba Chapter] &lpar;Mushoku Tensei, #20&rpar;](https://www.goodreads.com/review/show/4871017756?utm_medium=api&utm_source=rss)
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 17](https://www.goodreads.com/review/show/4854583009?utm_medium=api&utm_source=rss)
-- [無職転生 ~異世界行ったら本気だす~ 18](https://www.goodreads.com/review/show/4857471624?utm_medium=api&utm_source=rss)
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 15](https://www.goodreads.com/review/show/4852938072?utm_medium=api&utm_source=rss)
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 16](https://www.goodreads.com/review/show/4854348951?utm_medium=api&utm_source=rss)
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 9](https://www.goodreads.com/review/show/4719011917?utm_medium=api&utm_source=rss)
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 10](https://www.goodreads.com/review/show/4720563695?utm_medium=api&utm_source=rss)
-- [Mushoku Tensei: Jobless Reincarnation &lpar;Light Novel&rpar; Vol. 11](https://www.goodreads.com/review/show/4831101667?utm_medium=api&utm_source=rss)
-<!-- GOODREADS_READ:END -->
-  [See More](read.md)
+## DevInfo
 
-</details>
+### Projects
+<!-- projects:start -->
+[![Banner of dblog project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=dblog&username=AnzenKodo&title_color=#f20544)](https://github.com/AnzenKodo/dblog)
+[![Banner of punk project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=punk&username=AnzenKodo&title_color=#f20544)](https://github.com/AnzenKodo/punk)
+[![Banner of mizlink project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=mizlink&username=AnzenKodo&title_color=#f20544)](https://github.com/AnzenKodo/mizlink)
+[![Banner of rss-atom-parser project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=rss-atom-parser&username=AnzenKodo&title_color=#f20544)](https://github.com/AnzenKodo/rss-atom-parser)
 
-<details>
-  <summary>📗 Want to Read</summary>
+ See More on [GitHub](https://github.com/AnzenKodo?tab=repositories)
+<!-- projects:end -->
 
-<!-- GOODREADS_LATER:START -->
-- [無職転生 ~ 23 [Young Man Period - Decisive Battle Chapter] &lpar;Mushoku Tensei #23&rpar;](https://www.goodreads.com/review/show/4875938018?utm_medium=api&utm_source=rss)
-- [86—EIGHTY-SIX, Vol. 1](https://www.goodreads.com/review/show/4875477150?utm_medium=api&utm_source=rss)
-- [Orc Eroica, Vol. 1 &lpar;light novel&rpar;: Conjecture Chronicles &lpar;Orc Eroica &lpar;light novel&rpar;&rpar;](https://www.goodreads.com/review/show/4871010378?utm_medium=api&utm_source=rss)
-- [進撃の巨人 Before the Fall [Shingeki no Kyojin: Before the Fall 1] &lpar;Attack on Titan: Before the Fall Light Novels, #1&rpar;](https://www.goodreads.com/review/show/4870996823?utm_medium=api&utm_source=rss)
-- [Leonardo da Vinci](https://www.goodreads.com/review/show/4868841894?utm_medium=api&utm_source=rss)
-- [無職転生 ~異世界行ったら本気だす~ 19 [Mushoku Tensei ~ Isekai Ittara Honki Dasu~ 19]](https://www.goodreads.com/review/show/4859481384?utm_medium=api&utm_source=rss)
-<!-- GOODREADS_LATER:END -->
-  [See More](later.md)
+### More
+<!-- devmore:start -->
+- **Micro Projects:** [AK#Pen](https://AnzenKodo.github.io/AnzenKodo/pen)
+- **Website and Project Links:** [AK#Awesome](https://AnzenKodo.github.io/AnzenKodo/awesome)
+- **System Configuration:** [AK#Dotfiles](https://AnzenKodo.github.io/AnzenKodo/dotfiles)
+- **API's:** [AK#Apis](https://AnzenKodo.github.io/AnzenKodo/api/ak.json)
+<!-- devmore:end -->
 
-</details>
-
-[![Goodreads](https://img.shields.io/badge/-@AnzenKodo-2C3E50?style=for-the-badge&logo=goodreads&color=ece9d4&logoColor=814910)](https://www.goodreads.com/AnzenKodo)
-
----
-
-[![License: GPL v3.0](https://img.shields.io/badge/-GPL%20v3.0-2C3E50?style=for-the-badge&label=license&color=bd0000&labelColor=000&logoColor=814910)](LICENSE)
-[![Made by AnzenKodo](https://img.shields.io/badge/-@AnzenKodo-2C3E50?style=for-the-badge&label=Made%20%20by&color=f20544&labelColor=170327&logoColor=814910)](https://AnzenKodo.github.io/AnzenKodo)
+## Support
+I am just a small dev who lives in Mom's Basement. The stuff that I create takes lots of hard work. If you like what I have been doing please consider supporting.
+<!-- support:start -->
+<details><summary>ETHEREUM</summary><pre>0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A</pre><pre align="center">
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀█ █▄▀ ▀▀█▄▄▄█ ▄▄▄▄▄ █
+█ █   █ █▀▀▀█ █  ▄▀ ▄ █ █   █ █
+█ █▄▄▄█ █▀ █▀▀▀█ ▄▀▀▄▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀ ▀▄█ ▀ █▄█ █▄▄▄▄▄▄▄█
+█   ▄ ▀▄▄ ▄▀▄▀▄▄ ▀█▀▀▄▄▀▄▀▄▀▄▀█
+█ █ ▀██▄▄▀█▄█▀▄▄  ▄▄█▀▀▀▄▀▄█▄██
+█▀█▄▀ █▄▀▀ ▄█▄▄▀ ▀▄▄█▀▄▀▄▀ ▄▀██
+██ ▀██▀▄  ▀▀ ▄█▄ ▀▄█▀▄███ ██▀██
+█▀█ ▄▄▄▄ ▀▀▄▄▀▄▀▄▄ ▄▀▀▄▀▄▀▄▄▄ █
+█ █▀▄ ▄▄ █▄██▀▄▀▄▀█ █ ▄█▀▀█▄▀██
+█▄█▄███▄█ ▄██▄█▄▄▄▄▄█ ▄▄▄ ▄▄▄▀█
+█ ▄▄▄▄▄ █▄█▄ ▄█▀  █▀  █▄█  █ ▀█
+█ █   █ █ █▄▄▀▀█ ▀▄▄█ ▄▄ ▄█▄  █
+█ █▄▄▄█ █ ▀▀█▀ ▄▄█▄█ ▀ ▄█  █ ██
+█▄▄▄▄▄▄▄█▄▄▄█▄█▄▄▄▄▄████▄▄█▄███
+</pr></details>
+<!-- support:end -->
