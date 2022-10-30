@@ -3,9 +3,9 @@
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/AnzenKodo/blog">Blog</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/db">Db</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/pen">Pen</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/todo">Todo</a> | <a href="https://AnzenKodo.github.io/AnzenKodo/awesome">Awesome</a><!-- nav:end --></pre>
 
-## About
-
 <!-- logo:start --><img alt="Logo of Tesura" src="https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg" align="right" width="30%" loading="lazy"><!-- logo:end -->
+
+## About
 
 - **Name:** <!-- name:start -->Tesura<!-- name:end -->
   (<!-- username:start -->AnzenKodo<!-- username:end -->)
