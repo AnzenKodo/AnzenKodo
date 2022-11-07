@@ -1,14 +1,17 @@
 import commentMark from "https://esm.sh/comment-mark@1.1.1";
 import { parseFeed } from "https://deno.land/x/rss@0.5.6/mod.ts";
-import qrcode from "https://deno.land/x/qrcode_terminal/mod.js";
+import qrcode from "https://deno.land/x/qrcode_terminal@v1.1.1/mod.js";
 
 const repos = ["dblog", "punk", "mizlink", "rss-atom-parser"];
 const nav = ["blog", "blogroll", "db", "pinboard", "pen", "todo", "awesome"];
-const md = Deno.readTextFileSync("../README.md");
+const md = Deno.readTextFileSync("README.md");
 
-const data = JSON.parse(Deno.readTextFileSync("../site/api/ak.json"));
-const pinboard = JSON.parse(Deno.readTextFileSync("../site/api/pinboard.json"));
-const db = JSON.parse(Deno.readTextFileSync("../site/api/db.json"));
+const data = await fetch("https://anzenkodo.github.io/api/ak.json")
+  .then((res) => res.json());
+const pinboard = await fetch("https://anzenkodo.github.io/api/pinboard.json")
+  .then((res) => res.json());
+const db = await fetch("https://anzenkodo.github.io/api/db.json")
+  .then((res) => res.json());
 
 data.banner =
   `<a href="${data.website}"><img src="${data.banner}" loading="lazy"></a>`;
@@ -20,12 +23,10 @@ data.nav = nav.map((val) =>
 ).join(" | ");
 
 data.logo =
-  `<img alt="Logo of ${data.name}" src="${data.mascot.svg}" align="right" width="30%" loading="lazy">`;
+  `<img alt="Logo of ${data.name}" src="${data.mascot}.png" align="right" width="30%" loading="lazy">`;
 
 data.favcolor =
-  `<img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=${
-    data.color.substring(1)
-  }" width="11em" loading="lazy"> ${data.color}`;
+  `<img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=${data.color}" width="11em" loading="lazy"> #${data.color}`;
 
 data.languages = data.languages.join(" / ")
   .replace(/\w+/g, "[$&](https://github.com/topics/$&)");
@@ -80,11 +81,13 @@ function getDb(items) {
   return "\n" + items
     .slice(0, 3)
     .map((item) => {
-      let creator = "", creator_url = "";
+      let creator = "";
 
-      if (item.creator_url) creator_url = item.creator_url;
+      if (item.creator_url) {
+        creator = ` by [${item.creator}](${item.creator_url || "#"})`;
+      }
       if (item.creator) {
-        creator = ` by [${item.creator}](${creator_url || "#"})`;
+        creator = ` by ${item.creator}`;
       }
 
       return `- [${item.name}](${item.url || "#"})${creator}`;
@@ -121,4 +124,4 @@ data.support = Object.entries(data.support).map((val) => {
 }).join("");
 
 const modifyMd = commentMark(md, data);
-Deno.writeTextFileSync("../README.md", modifyMd);
+Deno.writeTextFileSync("README.md", modifyMd);
