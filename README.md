@@ -1,5 +1,5 @@
 # AK
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img src="https://i.pinimg.com/originals/4e/ac/f3/4eacf36c28d8cca5a9fd60ed509acab0.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img src="https://i.pinimg.com/originals/85/6e/9f/856e9fabf4031c60508af19b6f870373.jpg" loading="lazy"></a><!-- banner:end -->
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/blog">Blog</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
 
@@ -73,9 +73,9 @@ out: "What I been up to?".
 ##### Manga
 <!-- manga:start -->
 
+- [Mimi's Ghost Stories; ミミの怪談; Mimi no Kaidan](https://www.goodreads.com/book/show/11928699) by Junji Ito
 - [Tokyo Revengers, Vol. 1](https://www.goodreads.com/book/show/42650362) by Ken Wakui
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
-- [Ranking of Kings T01](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
 <!-- manga:end -->
 
 #### Listening
