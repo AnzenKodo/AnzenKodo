@@ -1,5 +1,5 @@
 # AK
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img src="https://i.pinimg.com/originals/50/bf/91/50bf9179a68d1df68a1609249e5c4cf4.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img src="https://i.pinimg.com/originals/4e/ac/f3/4eacf36c28d8cca5a9fd60ed509acab0.jpg" loading="lazy"></a><!-- banner:end -->
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/blog">Blog</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
 
@@ -41,7 +41,7 @@ out: "What I been up to?".
 > 
 > https://github.com/AnzenKodo/punk/tree/main/mono
 > 
-> <a href="https://twitter.com/ful1e5/status/1589490938610880512#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="http://nitter.net/ful1e5/status/1589490938610880512#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
@@ -83,9 +83,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Asgore (Undertale Remix)](#) by GameChops, dj-Jo
-- [Teeth](https://musicbrainz.org/recording/8271911f-9505-4f03-a045-adaa092c31b7) by 5 Seconds of Summer
-- [Bad Time Trio Nitro](#) by Nick Nitro
+- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
+- [dumb dumb (sped up)](https://musicbrainz.org/recording/3aeee775-7138-4c42-877e-69378b969030) by mazie
+- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
