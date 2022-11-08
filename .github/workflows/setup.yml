@@ -42,3 +42,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
+
+      - name: Save files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save files
