@@ -83,9 +83,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
-- [dumb dumb (sped up)](https://musicbrainz.org/recording/3aeee775-7138-4c42-877e-69378b969030) by mazie
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
+- [100 Years](#) by Or3o
+- [Spider Dance](#) by Holder
+- [Wannabe (Sped Up Version)](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
