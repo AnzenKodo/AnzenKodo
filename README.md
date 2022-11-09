@@ -83,9 +83,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [100 Years](#) by Or3o
-- [Spider Dance](#) by Holder
-- [Wannabe (Sped Up Version)](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
+- [God-ish](#) by PinocchioP
+- [劣等上等 (feat. 鏡音リン・レン)](https://musicbrainz.org/recording/32d0c8ea-3308-41ca-944e-4051a97d2845) by Giga
+- [【GUMI】エンヴィーベイビー【Kanaria】](#) by Kanaria
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
