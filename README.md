@@ -83,9 +83,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Good-bye Declaration](https://musicbrainz.org/recording/e006f1b9-2d43-41e7-9258-33bf8f6a79c2) by Chinozo
 - [God-ish](#) by PinocchioP
 - [劣等上等 (feat. 鏡音リン・レン)](https://musicbrainz.org/recording/32d0c8ea-3308-41ca-944e-4051a97d2845) by Giga
-- [【GUMI】エンヴィーベイビー【Kanaria】](#) by Kanaria
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
