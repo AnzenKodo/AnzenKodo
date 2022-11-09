@@ -41,7 +41,7 @@ out: "What I been up to?".
 > 
 > https://github.com/AnzenKodo/punk/tree/main/mono
 > 
-> <a href="http://nitter.net/ful1e5/status/1589490938610880512#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://nitter.it/ful1e5/status/1589490938610880512#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
