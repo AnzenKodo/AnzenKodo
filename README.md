@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Karma](#) by or3o
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
-- [Betty Boop](#) by Mr Puth
+- [ish](#) by God
+- [パリピ孔明](#) by QUEENDOM / チキチキバンバン（TVアニメ
+- [エゴロック (long ver.)](https://musicbrainz.org/recording/85401fb6-ba39-400e-b22c-e75f72b09f2d) by すりぃ
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
