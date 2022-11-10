@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img src="https://i.pinimg.com/originals/ed/45/92/ed4592abb18bc7fbfd8252256ab86daf.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/ed/45/92/ed4592abb18bc7fbfd8252256ab86daf.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/blog">Blog</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ish](#) by God
-- [Okusuri Nonde Neyo (feat. Hatsune Miku)](#) by mochiutsune
-- [Good-bye Declaration](https://musicbrainz.org/recording/e006f1b9-2d43-41e7-9258-33bf8f6a79c2) by Chinozo
+- [Karma](#) by or3o
+- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
+- [Betty Boop](#) by Mr Puth
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
