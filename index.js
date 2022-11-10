@@ -14,7 +14,7 @@ const db = await fetch("https://anzenkodo.github.io/api/db.json")
   .then((res) => res.json());
 
 data.banner =
-  `<a href="${data.website}"><img src="${data.banner}" loading="lazy"></a>`;
+  `<a href="${data.website}"><img width="100%" src="${data.banner}" loading="lazy"></a>`;
 
 data.nav = nav.map((val) =>
   `<a href="${data.website}${val}">${
