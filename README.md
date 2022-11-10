@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img src="https://i.pinimg.com/originals/ed/45/92/ed4592abb18bc7fbfd8252256ab86daf.jpg" loading="lazy" width="100%"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img src="https://i.pinimg.com/originals/ed/45/92/ed4592abb18bc7fbfd8252256ab86daf.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/blog">Blog</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [ish](#) by God
+- [Okusuri Nonde Neyo (feat. Hatsune Miku)](#) by mochiutsune
 - [Good-bye Declaration](https://musicbrainz.org/recording/e006f1b9-2d43-41e7-9258-33bf8f6a79c2) by Chinozo
-- [God-ish](#) by PinocchioP
-- [劣等上等 (feat. 鏡音リン・レン)](https://musicbrainz.org/recording/32d0c8ea-3308-41ca-944e-4051a97d2845) by Giga
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
