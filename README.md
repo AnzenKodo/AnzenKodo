@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ish](#) by God
-- [パリピ孔明](#) by QUEENDOM / チキチキバンバン（TVアニメ
-- [エゴロック (long ver.)](https://musicbrainz.org/recording/85401fb6-ba39-400e-b22c-e75f72b09f2d) by すりぃ
+- [エゴロック (long ver.)](https://musicbrainz.org/recording/f56a2d49-9299-420f-a523-db5e5c503555) by すりぃ
+- [ヴァンパイア](https://musicbrainz.org/recording/1eed5213-de2f-447d-8225-57982198fbba) by DECO*27
+- [Good-bye Declaration](https://musicbrainz.org/recording/e006f1b9-2d43-41e7-9258-33bf8f6a79c2) by Chinozo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
