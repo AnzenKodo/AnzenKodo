@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [エゴロック (long ver.)](https://musicbrainz.org/recording/f56a2d49-9299-420f-a523-db5e5c503555) by すりぃ
-- [ヴァンパイア](https://musicbrainz.org/recording/1eed5213-de2f-447d-8225-57982198fbba) by DECO*27
-- [Good-bye Declaration](https://musicbrainz.org/recording/e006f1b9-2d43-41e7-9258-33bf8f6a79c2) by Chinozo
+- [TONDEMO-WONDERZ](#) by sasakure.UK
+- [Viva Happy (feat. HatsuneMiku)](#) by Mitchie M
+- [テレキャスタービーボーイ – long ver.](https://musicbrainz.org/recording/3ca5b918-9d03-4b27-b117-cea16c34aa94) by すりぃ
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
