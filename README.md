@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [God-ish](#) by pinocchioP
-- [God-ish](#) by pinocchioP
-- [Unholy](https://musicbrainz.org/recording/1a774967-444d-42de-aa65-b6160d1205e4) by Sam Smith & Kim Petras
+- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
+- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
+- [Betty Boop](#) by Mr Puth
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
