@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
-- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
-- [Betty Boop](#) by Mr Puth
+- [Drop It Like It's Hot!](https://musicbrainz.org/recording/a47b7957-f4f1-4169-83e3-ec47ac13d57f) by Haarper & Luga
+- [Liu Kang](#) by 1nonly
+- [ILY BABY (feat. Shady Moon & Larrrycroft)](https://musicbrainz.org/recording/f5bd3796-f22e-48f2-b0ac-408b8b5565de) by Softwilly, void & 1nonly
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
