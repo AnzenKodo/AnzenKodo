@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [TONDEMO-WONDERZ](#) by sasakure.UK
-- [Viva Happy (feat. HatsuneMiku)](#) by Mitchie M
-- [テレキャスタービーボーイ – long ver.](https://musicbrainz.org/recording/3ca5b918-9d03-4b27-b117-cea16c34aa94) by すりぃ
+- [Wannabe (Sped Up Version)](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
+- [Hymn for the Weekend](https://musicbrainz.org/recording/ea9f40ba-837a-4bf9-96a2-0639d98beb06) by Coldplay
+- [Thunder](https://musicbrainz.org/recording/2199bf89-2583-4368-8f85-3b0bb8f994d4) by Imagine Dragons
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
