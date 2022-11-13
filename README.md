@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Bad Time Trio Nitro](#) by Nick Nitro
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
-- [Lofi Hip Hop | Leaves](#) by TSN Vibes
+- [Spider Dance](#) by Holder
+- [Thunder](https://musicbrainz.org/recording/2199bf89-2583-4368-8f85-3b0bb8f994d4) by Imagine Dragons
+- [Karma](#) by or3o
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
