@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Bad Time Trio Nitro](#) by Nick Nitro
 - [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 - [Lofi Hip Hop | Leaves](#) by TSN Vibes
-- [Shinobi](#) by Rude.
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
