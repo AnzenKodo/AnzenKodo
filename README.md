@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Spider Dance](#) by Holder
-- [Thunder](https://musicbrainz.org/recording/2199bf89-2583-4368-8f85-3b0bb8f994d4) by Imagine Dragons
-- [Karma](#) by or3o
+- [Living On](#) by or3o
+- [WORTH NOTHING (feat. Oliver Tree)](#) by Twisted
+- [Join Us for a Bite (feat. Andrea Storm Kaden)](https://musicbrainz.org/recording/f3380c14-65ec-425d-8e09-f45eb9ca954b) by JT Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
