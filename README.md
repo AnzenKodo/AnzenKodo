@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [Lofi Hip Hop | Leaves](#) by TSN Vibes
 - [Shinobi](#) by Rude.
-- [Work Hard](https://musicbrainz.org/recording/20d7eb83-b143-4d55-8300-0745deb68b3f) by Hiboky
-- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
