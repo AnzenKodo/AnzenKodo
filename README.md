@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Living On](#) by or3o
-- [WORTH NOTHING (feat. Oliver Tree)](#) by Twisted
-- [Join Us for a Bite (feat. Andrea Storm Kaden)](https://musicbrainz.org/recording/f3380c14-65ec-425d-8e09-f45eb9ca954b) by JT Music
+- [Sweater Weather (Jomarijan Remix)](#) by The Neighborhood
+- [Wrap Me In Plastic (Marcus Layton Radio Edit)](#) by CHROMANCE, Marcus Layton
+- [To the Bone](#) by J.T. Machinima
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
