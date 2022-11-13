@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
-- [Drop It Like It's Hot!](https://musicbrainz.org/recording/a47b7957-f4f1-4169-83e3-ec47ac13d57f) by Haarper & Luga
-- [Liu Kang](#) by 1nonly
+- [Wannabe](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
+- [Living Life, In The Night](#) by Sierra Kidd & Cheriimoya
+- [Lofi Hip Hop | Are you okay](#) by TSN Vibes
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
