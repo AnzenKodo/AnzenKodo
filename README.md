@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
 - [Drop It Like It's Hot!](https://musicbrainz.org/recording/a47b7957-f4f1-4169-83e3-ec47ac13d57f) by Haarper & Luga
 - [Liu Kang](#) by 1nonly
-- [ILY BABY (feat. Shady Moon & Larrrycroft)](https://musicbrainz.org/recording/f5bd3796-f22e-48f2-b0ac-408b8b5565de) by Softwilly, void & 1nonly
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
