@@ -85,9 +85,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Wannabe](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
-- [Living Life, In The Night](#) by Sierra Kidd & Cheriimoya
-- [Lofi Hip Hop | Are you okay](#) by TSN Vibes
+- [Shinobi](#) by Rude.
+- [Work Hard](https://musicbrainz.org/recording/20d7eb83-b143-4d55-8300-0745deb68b3f) by Hiboky
+- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
