@@ -36,14 +36,13 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: 06/50 - Punk Mono
+> RT by @AnzenKodo: I’m seeing a growing number of students complain: “My grade doesn’t reflect the effort I put into the course.”
 > 
-> Designed by: AnzenKodo @AnzenKodo, Belleve Invis @belleveinvis
-> License: Free for commercial use
+> Public service announcement: You don’t get an A for effort. You earn it for excellence.
 > 
-> https://github.com/AnzenKodo/punk/tree/main/mono
+> Success is measured by the level of mastery you show, not how hard you work.
 > 
-> <a href="https://nitter.it/ful1e5/status/1589490938610880512#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://nitter.it/AdamMGrant/status/1592552616831389698#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
