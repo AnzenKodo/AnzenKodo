@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/20/86/8d/20868d3d5f98417d16a51cb39657132c.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/9f/7d/22/9f7d22a0a46992bd92518f8c75828ce6.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/blog">Blog</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -74,7 +74,7 @@ out: "What I been up to?".
 ##### Manga
 <!-- manga:start -->
 
-- [Tokyo Revengers, Vol. 1](https://www.goodreads.com/book/show/42650362) by Ken Wakui
+- [Tomie](https://www.goodreads.com/book/show/29632242) by Junji Ito
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
 - [Ranking of Kings T01](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
 <!-- manga:end -->
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Sweater Weather (Jomarijan Remix)](#) by The Neighborhood
-- [Wrap Me In Plastic (Marcus Layton Radio Edit)](#) by CHROMANCE, Marcus Layton
-- [To the Bone](#) by J.T. Machinima
+- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
+- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
+- [STAR WALKIN' (League of Legends Worlds Anthem)](https://musicbrainz.org/recording/579d9e78-1089-4051-824c-e40aa63f56f6) by Lil Nas X
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
