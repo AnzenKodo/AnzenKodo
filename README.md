@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Illusive Azure](https://musicbrainz.org/recording/4ac69f5b-f75c-432a-88b9-7b42246abb1b) by Blazo
 - [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
 - [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
-- [STAR WALKIN' (League of Legends Worlds Anthem)](https://musicbrainz.org/recording/579d9e78-1089-4051-824c-e40aa63f56f6) by Lil Nas X
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
