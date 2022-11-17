@@ -47,9 +47,7 @@ out: "What I been up to?".
 
 ### What I have been working on:
 <!-- working:start -->
-- Database of Personal stuff
-- Portfolio
-- Snippets
+- Make Math project for learning math.
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
