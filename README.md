@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Mine](#) by 1nonly
-- [Illusive Azure](https://musicbrainz.org/recording/4ac69f5b-f75c-432a-88b9-7b42246abb1b) by Blazo
-- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
+- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
+- [EVANGELION OPENING TRAP REMIX EXTENDED VERSION (a cruel angel thesis remix)](#) by apollw
+- [God-ish](#) by pinocchioP
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
