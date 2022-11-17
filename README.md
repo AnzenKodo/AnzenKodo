@@ -36,9 +36,9 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: lets gooooo https://twitter.com/i/broadcasts/1zqJVPnYLYdKB
+> RT by @AnzenKodo: Where crypto went wrong is when it became an investment instead of a technology
 > 
-> <a href="https://nitter.it/realGeorgeHotz/status/1593109753579786240#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://nitter.it/WholeMarsBlog/status/1593156772214493188#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
