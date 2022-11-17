@@ -36,13 +36,9 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: I’m seeing a growing number of students complain: “My grade doesn’t reflect the effort I put into the course.”
+> RT by @AnzenKodo: lets gooooo https://twitter.com/i/broadcasts/1zqJVPnYLYdKB
 > 
-> Public service announcement: You don’t get an A for effort. You earn it for excellence.
-> 
-> Success is measured by the level of mastery you show, not how hard you work.
-> 
-> <a href="https://nitter.it/AdamMGrant/status/1592552616831389698#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://nitter.it/realGeorgeHotz/status/1593109753579786240#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
