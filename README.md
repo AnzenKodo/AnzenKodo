@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Missing You](https://musicbrainz.org/recording/9b3d2980-6802-4401-88c1-a0bad23d1aeb) by Purrple Cat
-- [Luv U](#) by Seycara Orchestral
-- [Are you okay](#) by TSN Vibes
+- [Super Mario World Game Over LoFi Hip Hop Remix](#) by Phillip Schlosser [HephestosMusic]
+- [bossa uh](https://musicbrainz.org/recording/dba0c970-7ebb-4f90-9231-a9cbf63d46e9) by potsu
+- [The Girl I Haven't Met](https://musicbrainz.org/recording/46d4e632-70fb-4539-ae45-086063d53be9) by Kudasaibeats
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
