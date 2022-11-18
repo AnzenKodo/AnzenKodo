@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
-- [EVANGELION OPENING TRAP REMIX EXTENDED VERSION (a cruel angel thesis remix)](#) by apollw
-- [God-ish](#) by pinocchioP
+- [Missing You](https://musicbrainz.org/recording/9b3d2980-6802-4401-88c1-a0bad23d1aeb) by Purrple Cat
+- [Luv U](#) by Seycara Orchestral
+- [Are you okay](#) by TSN Vibes
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
