@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Spider Dance](#) by Holder
+- [Bad Time Trio Nitro](#) by Nick Nitro
 - [Gurenge - Demon Slayer (Lofi Remix)](#) by Palademix
-- [Silhouette (Naruto Shippuden)](#) by Kayou. Beats
-- [I Was Born For This](https://musicbrainz.org/recording/d6690712-6442-42cf-aab5-a16cca657aa6) by Austin Wintory, London Symphony Orchestra
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
