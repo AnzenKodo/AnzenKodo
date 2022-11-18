@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [I Was Born For This](https://musicbrainz.org/recording/d6690712-6442-42cf-aab5-a16cca657aa6) by Austin Wintory, London Symphony Orchestra
+- [watermelon sugar x seb - seaside (slowed + reverb)](#) by Harry Styles
 - [Super Mario World Game Over LoFi Hip Hop Remix](#) by Phillip Schlosser [HephestosMusic]
-- [bossa uh](https://musicbrainz.org/recording/dba0c970-7ebb-4f90-9231-a9cbf63d46e9) by potsu
-- [The Girl I Haven't Met](https://musicbrainz.org/recording/46d4e632-70fb-4539-ae45-086063d53be9) by Kudasaibeats
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
