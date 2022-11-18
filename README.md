@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Spider Dance](#) by Holder
-- [Bad Time Trio Nitro](#) by Nick Nitro
-- [Gurenge - Demon Slayer (Lofi Remix)](#) by Palademix
+- [Betty Boop](#) by Mr Puth
+- [Tokyovania Nitro](#) by Nick Nitro
+- [Press Start](https://musicbrainz.org/recording/6e3aec1a-2d7d-48a7-ba3d-1735baf91dfb) by MDK
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
