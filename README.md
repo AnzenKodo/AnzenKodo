@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Gurenge - Demon Slayer (Lofi Remix)](#) by Palademix
+- [Silhouette (Naruto Shippuden)](#) by Kayou. Beats
 - [I Was Born For This](https://musicbrainz.org/recording/d6690712-6442-42cf-aab5-a16cca657aa6) by Austin Wintory, London Symphony Orchestra
-- [watermelon sugar x seb - seaside (slowed + reverb)](#) by Harry Styles
-- [Super Mario World Game Over LoFi Hip Hop Remix](#) by Phillip Schlosser [HephestosMusic]
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
