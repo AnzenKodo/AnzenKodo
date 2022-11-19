@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Hunter x Hunter - Requiem Aranea (Remix)](https://musicbrainz.org/recording/cd71b706-dccd-49aa-905c-17487cf0c3aa) by Rifti Beats
-- [Agni Kai](#) by Musicality
-- [Samidare (Odece Trap Remix)](#) by Naruto Shippuden
+- [Leaves](#) by LoFi Hip Hop
+- [Eternal Youth](https://musicbrainz.org/recording/923bff86-8cad-4c22-84ec-a9c5a0efe91f) by Rude.
+- [Work Hard](https://musicbrainz.org/recording/20d7eb83-b143-4d55-8300-0745deb68b3f) by Hiboky
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
