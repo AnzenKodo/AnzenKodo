@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Next To You but is it okay if it's lofi?](#) by Kijugo
-- [Shisui Uchiha](#) by NKOHA
-- [Distancia](#) by Musicality
+- [GigaChad Theme (Phonk House Version) (Slowed)](#) by g3ox_em
+- [Spider Dance](#) by Holder
+- [Play Date](#) by Nightcore
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
