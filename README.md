@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [EVANGELION OPENING TRAP REMIX EXTENDED VERSION (a cruel angel thesis remix)](#) by apollw
-- [Tragic (Anigam3 Remix)](#) by Naruto Shippuden
-- [Sadness and Sorrow (LSB & BrøkuzBeatz Remix)](#) by Naruto
+- [Loneliness](#) by Rude.
+- [Espada](#) by Musicality
+- [Zenitsu Theme (Remix)](#) by Rifti Beats
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
