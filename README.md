@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [三原色](https://musicbrainz.org/recording/b9e7a59d-b3a1-4ca2-830c-12179e97547e) by yoasobi
-- [1](https://musicbrainz.org/recording/0fb007a4-7570-4a5d-848a-564160437477) by MOB CHOIR
-- [優しい彗星](https://musicbrainz.org/recording/3f1a122a-9f5d-4106-94bc-833f3eeef2df) by yoasobi
+- [geki](#) by zonji
+- [Viva Happy (feat. HatsuneMiku)](#) by Mitchie M
+- [Crazy Noisy Bizarre Town](https://musicbrainz.org/recording/3de38067-9baa-4934-a760-de532753819b) by The Du
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
