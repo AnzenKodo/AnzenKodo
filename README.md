@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Metal Crusher (Death by Glamour)](#) by Holder
-- [Hallway To Hell (Castlevania - Heart of Fire) (feat. Joshua Morse)](#) by Gamechops
-- [Overwhelmed](#) by Nightcore
+- [It's Been So Long](https://musicbrainz.org/recording/fc2a6908-51d0-4db4-adbf-85730452587c) by The Living Tombstone
+- [Pixel Galaxy](https://musicbrainz.org/recording/c38c85bc-a5dc-41ee-a82a-ce6659f5311e) by Snail's house
+- [Insane](https://musicbrainz.org/recording/b8e0f1d2-5b58-4b1b-858e-76c6c08c05c1) by Black Gryph0n, Baasik
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
