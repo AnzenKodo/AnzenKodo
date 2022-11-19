@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n, Baasik
-- [Living On](#) by or3o
-- [She Wants Me Dead (feat. The High)](#) by AronChupa, Cazzette
+- [Metal Crusher (Death by Glamour)](#) by Holder
+- [Hallway To Hell (Castlevania - Heart of Fire) (feat. Joshua Morse)](#) by Gamechops
+- [Overwhelmed](#) by Nightcore
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
