@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [hot girl bummer (slowed + reverb)](https://musicbrainz.org/recording/2fe836a2-0dcc-4a56-978c-ac1690df8dbe) by Blackbear
-- [Hislerim (feat. Zerrin)](https://musicbrainz.org/recording/f60bc72a-2285-4e32-8f4d-172534c57689) by Serhat Durmuş
-- [MIDDLE OF THE NIGHT](https://musicbrainz.org/recording/2099fed1-d4ec-4dfd-8bc7-cb34c82adedf) by Elley Duhé
+- [三原色](https://musicbrainz.org/recording/b9e7a59d-b3a1-4ca2-830c-12179e97547e) by yoasobi
+- [1](https://musicbrainz.org/recording/0fb007a4-7570-4a5d-848a-564160437477) by MOB CHOIR
+- [優しい彗星](https://musicbrainz.org/recording/3f1a122a-9f5d-4106-94bc-833f3eeef2df) by yoasobi
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
