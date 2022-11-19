@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [DANCE! (feat. Wassup Rocker & Ciscaux)](#) by 1nonly
-- [Kill Yourself (Part III)](https://musicbrainz.org/recording/e443b3af-f3a6-4a38-a0ed-bc0197934fbd) by $uicideboy$
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [Genie High Rhapsody](#) by Genie High
+- [Genie High Rhapsody](#) by Genie High
+- [Genie High Rhapsody](#) by Genie High
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
