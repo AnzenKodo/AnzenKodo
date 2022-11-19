@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [EVANGELION OPENING TRAP REMIX EXTENDED VERSION (a cruel angel thesis remix)](#) by apollw
+- [Tragic (Anigam3 Remix)](#) by Naruto Shippuden
 - [Sadness and Sorrow (LSB & BrøkuzBeatz Remix)](#) by Naruto
-- [Man of the World (Odece Trap Remix)](#) by Naruto Shippuden
-- [Nightfall & Despair (NKZ Remix)](#) by Naruto Shippuden
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
