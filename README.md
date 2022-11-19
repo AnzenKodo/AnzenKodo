@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
+- [Unholy](https://musicbrainz.org/recording/1a774967-444d-42de-aa65-b6160d1205e4) by Sam Smith, Kim Petras
 - [Betty Boop](#) by Mr Puth
-- [Tokyovania Nitro](#) by Nick Nitro
-- [Press Start](https://musicbrainz.org/recording/6e3aec1a-2d7d-48a7-ba3d-1735baf91dfb) by MDK
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
