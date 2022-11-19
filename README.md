@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [It's Been So Long](https://musicbrainz.org/recording/fc2a6908-51d0-4db4-adbf-85730452587c) by The Living Tombstone
-- [Pixel Galaxy](https://musicbrainz.org/recording/c38c85bc-a5dc-41ee-a82a-ce6659f5311e) by Snail's house
-- [Insane](https://musicbrainz.org/recording/b8e0f1d2-5b58-4b1b-858e-76c6c08c05c1) by Black Gryph0n, Baasik
+- [DANCE! (feat. Wassup Rocker & Ciscaux)](#) by 1nonly
+- [Kill Yourself (Part III)](https://musicbrainz.org/recording/e443b3af-f3a6-4a38-a0ed-bc0197934fbd) by $uicideboy$
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
