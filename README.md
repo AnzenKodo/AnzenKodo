@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Genie High Rhapsody](#) by Genie High
-- [Genie High Rhapsody](#) by Genie High
-- [Genie High Rhapsody](#) by Genie High
+- [fantompower- blankets](#) by Chillhop Records
+- [Plead](https://musicbrainz.org/recording/477f792c-6568-4e66-90bf-debd7855f364) by JinSang
+- [Blossom](https://musicbrainz.org/recording/f10f2abb-e50b-4883-8048-d40943967d71) by Swum & Jinsang
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
