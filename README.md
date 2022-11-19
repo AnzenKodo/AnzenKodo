@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [fantompower- blankets](#) by Chillhop Records
-- [Plead](https://musicbrainz.org/recording/477f792c-6568-4e66-90bf-debd7855f364) by JinSang
-- [Blossom](https://musicbrainz.org/recording/f10f2abb-e50b-4883-8048-d40943967d71) by Swum & Jinsang
+- [Give Thanks (Prod. By Kero One)](https://musicbrainz.org/recording/807f005b-01f3-41c5-bb92-23bdc983e661) by Kero One
+- [Murmuration (feat. Shopan)](#) by Blue Wednesday
+- [gang gang, etc.](#) by tkdwn.
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
