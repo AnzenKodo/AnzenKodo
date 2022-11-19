@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [geki](#) by zonji
-- [Viva Happy (feat. HatsuneMiku)](#) by Mitchie M
-- [Crazy Noisy Bizarre Town](https://musicbrainz.org/recording/3de38067-9baa-4934-a760-de532753819b) by The Du
+- [Sadness and Sorrow (LSB & BrøkuzBeatz Remix)](#) by Naruto
+- [Man of the World (Odece Trap Remix)](#) by Naruto Shippuden
+- [Nightfall & Despair (NKZ Remix)](#) by Naruto Shippuden
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
