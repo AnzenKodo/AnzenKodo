@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Loneliness](#) by Rude.
-- [Espada](#) by Musicality
-- [Zenitsu Theme (Remix)](#) by Rifti Beats
+- [Hunter x Hunter - Requiem Aranea (Remix)](https://musicbrainz.org/recording/cd71b706-dccd-49aa-905c-17487cf0c3aa) by Rifti Beats
+- [Agni Kai](#) by Musicality
+- [Samidare (Odece Trap Remix)](#) by Naruto Shippuden
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
