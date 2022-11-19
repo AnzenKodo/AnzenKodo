@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Leaves](#) by LoFi Hip Hop
-- [Eternal Youth](https://musicbrainz.org/recording/923bff86-8cad-4c22-84ec-a9c5a0efe91f) by Rude.
-- [Work Hard](https://musicbrainz.org/recording/20d7eb83-b143-4d55-8300-0745deb68b3f) by Hiboky
+- [Next To You but is it okay if it's lofi?](#) by Kijugo
+- [Shisui Uchiha](#) by NKOHA
+- [Distancia](#) by Musicality
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
