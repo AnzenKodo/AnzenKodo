@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [GigaChad Theme (Phonk House Version) (Slowed)](#) by g3ox_em
-- [Spider Dance](#) by Holder
-- [Play Date](#) by Nightcore
+- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n, Baasik
+- [Living On](#) by or3o
+- [She Wants Me Dead (feat. The High)](#) by AronChupa, Cazzette
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
