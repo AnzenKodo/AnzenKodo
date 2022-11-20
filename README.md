@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [flow on](https://musicbrainz.org/recording/9af0148c-0a59-419f-9f7b-98de6adda628) by JinSang
-- [Growth](https://musicbrainz.org/recording/8ec4e301-2879-498d-97c3-eee98c77abca) by JinSang
-- [Belief In Us](https://musicbrainz.org/recording/dc3810ad-62d6-4c24-b0cf-859c73ac7259) by Trebles and Blues
+- [Summer Nights](#) by Aso
+- [let.go [one 4 jun]](https://musicbrainz.org/recording/fb1d71e9-056b-422c-a2ee-9e8a03de478e) by JinSang
+- [NIGHTLIGHTS](https://musicbrainz.org/recording/980e5756-890e-4aa3-95ea-1a9a2bb804e8) by Edamame
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
