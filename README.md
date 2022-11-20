@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ICU (feat. See Dee)](https://musicbrainz.org/recording/31a6e763-36db-4614-9cdf-211f4ed3fb8f) by Evil Needle
-- [Abracadabra](https://musicbrainz.org/recording/31218378-1bf0-4a6f-9129-9c756273cec8) by Emancipator
-- [Grotto](https://musicbrainz.org/recording/6ec52263-4975-4bd4-8669-df40b64a44ca) by JinSang
+- [Summer's Day [v2]](https://musicbrainz.org/recording/54071aa1-4eb1-42b1-b7cf-f5e9fbaeb4fb) by JinSang
+- [droplet](https://musicbrainz.org/recording/d465eda4-444c-4919-a4d6-953b37a78e14) by JinSang
+- [Day 12 - Too Soulful](https://musicbrainz.org/recording/39c63c25-a776-43af-99c1-b8ae84e92b30) by Trebles and Blues
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
