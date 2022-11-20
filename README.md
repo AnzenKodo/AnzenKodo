@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Oceans](#) by Aso
-- [Give Thanks (Prod. By Kero One)](https://musicbrainz.org/recording/807f005b-01f3-41c5-bb92-23bdc983e661) by Kero One
-- [Murmuration (feat. Shopan)](#) by Blue Wednesday
+- [Aurora.](https://musicbrainz.org/recording/16756849-f75a-406e-8859-86f5cb80c8a1) by JinSang
+- [Maraya](https://musicbrainz.org/recording/65182132-6fa7-4360-b6fe-67f62cd23d1a) by Edamame
+- [Bright.](https://musicbrainz.org/recording/68c8254d-1c8c-4d1e-a9bc-7113bbcc8aa8) by JinSang
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
