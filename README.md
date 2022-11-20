@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Aurora.](https://musicbrainz.org/recording/16756849-f75a-406e-8859-86f5cb80c8a1) by JinSang
-- [Maraya](https://musicbrainz.org/recording/65182132-6fa7-4360-b6fe-67f62cd23d1a) by Edamame
-- [Bright.](https://musicbrainz.org/recording/68c8254d-1c8c-4d1e-a9bc-7113bbcc8aa8) by JinSang
+- [flow on](https://musicbrainz.org/recording/9af0148c-0a59-419f-9f7b-98de6adda628) by JinSang
+- [Growth](https://musicbrainz.org/recording/8ec4e301-2879-498d-97c3-eee98c77abca) by JinSang
+- [Belief In Us](https://musicbrainz.org/recording/dc3810ad-62d6-4c24-b0cf-859c73ac7259) by Trebles and Blues
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
