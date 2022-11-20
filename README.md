@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [island](https://musicbrainz.org/recording/d382c14a-b11a-4ddb-b978-25ac053d5f20) by JinSang
-- [Lzy](https://musicbrainz.org/recording/927faa38-fdb8-4f99-9a02-c19846a307d6) by Eric Lau
-- [60 Degrees](https://musicbrainz.org/recording/c9ccee4e-c1a7-4fc5-abb8-263a4b4e432c) by JinSang
+- [ICU (feat. See Dee)](https://musicbrainz.org/recording/31a6e763-36db-4614-9cdf-211f4ed3fb8f) by Evil Needle
+- [Abracadabra](https://musicbrainz.org/recording/31218378-1bf0-4a6f-9129-9c756273cec8) by Emancipator
+- [Grotto](https://musicbrainz.org/recording/6ec52263-4975-4bd4-8669-df40b64a44ca) by JinSang
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
