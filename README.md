@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Summer Nights](#) by Aso
-- [let.go [one 4 jun]](https://musicbrainz.org/recording/fb1d71e9-056b-422c-a2ee-9e8a03de478e) by JinSang
-- [NIGHTLIGHTS](https://musicbrainz.org/recording/980e5756-890e-4aa3-95ea-1a9a2bb804e8) by Edamame
+- [island](https://musicbrainz.org/recording/d382c14a-b11a-4ddb-b978-25ac053d5f20) by JinSang
+- [Lzy](https://musicbrainz.org/recording/927faa38-fdb8-4f99-9a02-c19846a307d6) by Eric Lau
+- [60 Degrees](https://musicbrainz.org/recording/c9ccee4e-c1a7-4fc5-abb8-263a4b4e432c) by JinSang
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
