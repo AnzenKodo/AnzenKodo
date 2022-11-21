@@ -19,7 +19,7 @@
 - **Socials:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
   <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a><!-- social:end -->
-- **Programming Languages:** <!-- languages:start -->[HTML](https://github.com/topics/HTML) / [JavaScript](https://github.com/topics/JavaScript) / [Python](https://github.com/topics/Python) / [Shell](https://github.com/topics/Shell) / [Nix](https://github.com/topics/Nix) / [Lua](https://github.com/topics/Lua) / [CSS](https://github.com/topics/CSS) / [PHP](https://github.com/topics/PHP) / [Nunjucks](https://github.com/topics/Nunjucks) / [TypeScript](https://github.com/topics/TypeScript) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start -->[JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [PHP](https://github.com/topics/PHP) / [Shell](https://github.com/topics/Shell) / [CSS](https://github.com/topics/CSS) / [Python](https://github.com/topics/Python) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
 
 ## Now
 This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Summer's Day [v2]](https://musicbrainz.org/recording/54071aa1-4eb1-42b1-b7cf-f5e9fbaeb4fb) by JinSang
-- [droplet](https://musicbrainz.org/recording/d465eda4-444c-4919-a4d6-953b37a78e14) by JinSang
-- [Day 12 - Too Soulful](https://musicbrainz.org/recording/39c63c25-a776-43af-99c1-b8ae84e92b30) by Trebles and Blues
+- [ichimoku](#) by miu
+- [Losstime](#) by Creepy Nuts
+- [Sing The Moon](#) by Tsukuyomi
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
