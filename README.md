@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ichimoku](#) by miu
-- [Losstime](#) by Creepy Nuts
-- [Sing The Moon](#) by Tsukuyomi
+- [Underwater](https://musicbrainz.org/recording/73d61c48-72db-4a77-af2a-43dc94a3c835) by L'indécis
+- [Bonfire](https://musicbrainz.org/recording/9956494d-f447-4a91-9595-d42af50e3b8a) by SAINT WKND
+- [Dilla Love](https://musicbrainz.org/recording/ba64cdb1-e6ef-4362-b66e-2853a43a38b9) by Tom Misch
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
