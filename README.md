@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [yung kage x isaacwhy x yumi](#) by i love you so instrumental remake
-- [Trap Lacrimosa](#) by Codec
-- [エゴロック (long ver.)](https://musicbrainz.org/recording/85401fb6-ba39-400e-b22c-e75f72b09f2d) by すりぃ
+- [Order 66 Theme - Epic Version](https://musicbrainz.org/recording/d2fe2a5b-0de0-49dc-b8ad-f08fef574be0) by Samuel Kim
+- [The Mandalorian](https://musicbrainz.org/recording/3bc4155f-da5a-4681-8728-abe2e57787af) by Ludwig Göransson
+- [Faces in the Rain](#) by Kaho Nakamura
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
