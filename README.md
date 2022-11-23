@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [COLLAB](#) by PHONK WALKER
+- [Ashes on The Fire (Attack on Titan The Final Season Original Soundtrack)](https://musicbrainz.org/recording/692f4728-5337-4be7-8b90-42cd5e17f950) by KOHTA YAMAMOTO
 - [Order 66 Theme - Epic Version](https://musicbrainz.org/recording/d2fe2a5b-0de0-49dc-b8ad-f08fef574be0) by Samuel Kim
-- [The Mandalorian](https://musicbrainz.org/recording/3bc4155f-da5a-4681-8728-abe2e57787af) by Ludwig Göransson
-- [Faces in the Rain](#) by Kaho Nakamura
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
