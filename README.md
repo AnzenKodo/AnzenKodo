@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [fantompower- blankets](#) by Chillhop Records
-- [Life Inside A Nightmare Rectangle](https://musicbrainz.org/recording/8a871ceb-2819-4919-8c18-687986079ef3) by Dotlights
-- [The Other Night](#) by Trebles and Blues
+- [ish](#) by God
+- [Viva Happy (feat. HatsuneMiku)](#) by Mitchie M
+- [Shinunoga E-Wa](#) by fujii kaze
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
