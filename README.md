@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ish](#) by God
-- [Viva Happy (feat. HatsuneMiku)](#) by Mitchie M
-- [Shinunoga E-Wa](#) by fujii kaze
+- [yung kage x isaacwhy x yumi](#) by i love you so instrumental remake
+- [Trap Lacrimosa](#) by Codec
+- [エゴロック (long ver.)](https://musicbrainz.org/recording/85401fb6-ba39-400e-b22c-e75f72b09f2d) by すりぃ
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
