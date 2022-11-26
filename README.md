@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [TUVA DRIP (National Anthem of Tuva ULTIMATE REMIX prod. by European Trap & BBMusic)](#) by BBMusic
+- [I Really Want to Stay at Your House](#) by Hallie Coggins & Rosa Walton
 - [Nobody Makes Sense](#) by pinocchioP
-- [What's Inside](#) by pinocchioP
-- [ありふれたせかいせいふく feat.初音ミク (feat. 初音ミク)](#) by ピノキオP
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
