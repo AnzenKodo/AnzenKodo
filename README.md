@@ -5,11 +5,11 @@
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/blog">Blog</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
 
-<!-- logo:start --><img alt="Logo of Tesura" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
+<!-- logo:start --><img alt="Logo of Axel" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
 
 ## About
 
-- **Name:** <!-- name:start -->Tesura<!-- name:end -->
+- **Name:** <!-- name:start -->Axel<!-- name:end -->
   (<!-- username:start -->AnzenKodo<!-- username:end -->)
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [COLLAB](#) by PHONK WALKER
-- [Ashes on The Fire (Attack on Titan The Final Season Original Soundtrack)](https://musicbrainz.org/recording/692f4728-5337-4be7-8b90-42cd5e17f950) by KOHTA YAMAMOTO
-- [Order 66 Theme - Epic Version](https://musicbrainz.org/recording/d2fe2a5b-0de0-49dc-b8ad-f08fef574be0) by Samuel Kim
+- [Nobody Makes Sense](#) by pinocchioP
+- [What's Inside](#) by pinocchioP
+- [ありふれたせかいせいふく feat.初音ミク (feat. 初音ミク)](#) by ピノキオP
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
