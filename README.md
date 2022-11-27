@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Wannabe](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
-- [Beat It](#) by I Put A Drill Beat Over Michael Jackson
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
+- [watermelon sugar x seb - seaside (slowed + reverb)](#) by Harry Styles
+- [Talking to the Moon (Bruno Mars](#) by Sickick
+- [hot girl bummer (slowed + reverb)](https://musicbrainz.org/recording/2fe836a2-0dcc-4a56-978c-ac1690df8dbe) by Blackbear
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
