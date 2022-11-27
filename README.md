@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Wannabe](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
+- [Beat It](#) by I Put A Drill Beat Over Michael Jackson
 - [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
-- [Unholy](https://musicbrainz.org/recording/1a774967-444d-42de-aa65-b6160d1205e4) by Sam Smith, Kim Petras
-- [DRIFT](#) by YABØII
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
