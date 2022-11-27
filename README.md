@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [U](#) by millennium parade & Belle
-- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
-- [[SOLD] aesthetic rap AV, 1nonly, yung kage, city pop sample type beat - lone](#) by Skisim
+- [Trap Lacrimosa](#) by Codec
+- [Phonk Panther](#) by Prod. $nell$
+- [Hakaishin](#) by SonHisako
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
