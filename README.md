@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Faster (Slowed & Reverb)](#) by A.Oonthebeat, Jupyter
-- [Shamisen Hunter](#) by Satxri
-- [GODZILLA](#) by PHONKWAVE
+- [DRIFT](#) by YABØII
+- [Фонк для мужика](#) by Ya$h, Mexelio
+- [Self-Control](https://musicbrainz.org/recording/70410c35-399a-4ac7-8ead-c51c3a53bcd6) by Cursed Crown
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
