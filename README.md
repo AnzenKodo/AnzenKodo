@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [watermelon sugar x seb - seaside (slowed + reverb)](#) by Harry Styles
-- [Talking to the Moon (Bruno Mars](#) by Sickick
-- [hot girl bummer (slowed + reverb)](https://musicbrainz.org/recording/2fe836a2-0dcc-4a56-978c-ac1690df8dbe) by Blackbear
+- [Sahara](https://musicbrainz.org/recording/cffa8335-6f8e-432f-9ffd-b3781a45b2e9) by Hensonn
+- [In The End (Mellen Gi Remix) (feat. Fleurie)](#) by Tommee Profitt
+- [Way Down We Go (Bandit Remix)](https://musicbrainz.org/recording/efdbd424-8a44-4f9f-88f8-902928fe9440) by Kaleo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
