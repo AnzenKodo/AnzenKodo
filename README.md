@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Trap Lacrimosa](#) by Codec
-- [Phonk Panther](#) by Prod. $nell$
-- [Hakaishin](#) by SonHisako
+- [Artificial](#) by TSN Vibes
+- [La Câlin](https://musicbrainz.org/recording/6e07097d-8e51-4616-8568-a6d4768479fd) by Serhat Durmus
+- [LA DISTANCIA](#) by Eternal Raijin
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
