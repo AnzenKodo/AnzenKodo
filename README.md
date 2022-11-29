@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [*FREE* 1NONLY X CISCAUX TYPE BEAT "NIGHT CITY" (PROD. $UPREME X TYDAVID)](#) by PROD. SUPREME
-- [1nonly - Lovely (Official Instrumental) (prod. prodigy)](#) by okayjml
-- [Sahara](https://musicbrainz.org/recording/cffa8335-6f8e-432f-9ffd-b3781a45b2e9) by Hensonn
+- [Kill Yourself (Part III)](https://musicbrainz.org/recording/e443b3af-f3a6-4a38-a0ed-bc0197934fbd) by $uicideboy$
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [Trap Anthem](https://musicbrainz.org/recording/40905d83-0549-4a08-a68a-66343aaddd3d) by MC Virgins & Yun Head
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
