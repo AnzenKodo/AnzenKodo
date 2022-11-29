@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Kill Yourself (Part III)](https://musicbrainz.org/recording/e443b3af-f3a6-4a38-a0ed-bc0197934fbd) by $uicideboy$
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
-- [Trap Anthem](https://musicbrainz.org/recording/40905d83-0549-4a08-a68a-66343aaddd3d) by MC Virgins & Yun Head
+- [Respected Man](#) by Yung Craka & Shotgun Willy
+- [Virginity Syndrome](#) by ovg!
+- [Shakira!](#) by 1nonly & EGOVERT
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
