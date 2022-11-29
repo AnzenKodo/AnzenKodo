@@ -38,7 +38,7 @@ out: "What I been up to?".
 <!-- microblog:start -->
 > RT by @AnzenKodo: Where crypto went wrong is when it became an investment instead of a technology
 > 
-> <a href="https://nitter.it/WholeMarsBlog/status/1593156772214493188#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://nitter.net/WholeMarsBlog/status/1593156772214493188#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [*FREE* 1NONLY X CISCAUX TYPE BEAT "NIGHT CITY" (PROD. $UPREME X TYDAVID)](#) by PROD. SUPREME
+- [1nonly - Lovely (Official Instrumental) (prod. prodigy)](#) by okayjml
 - [Sahara](https://musicbrainz.org/recording/cffa8335-6f8e-432f-9ffd-b3781a45b2e9) by Hensonn
-- [In The End (Mellen Gi Remix) (feat. Fleurie)](#) by Tommee Profitt
-- [Way Down We Go (Bandit Remix)](https://musicbrainz.org/recording/efdbd424-8a44-4f9f-88f8-902928fe9440) by Kaleo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
