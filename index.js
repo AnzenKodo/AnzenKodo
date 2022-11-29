@@ -42,7 +42,7 @@ data.blog = await fetch(data.api.blog)
   .then((res) => res.slice(0, 5).join("\n")) +
   `\n- See More on [AK#Blog](${data.website}blog)`;
 
-data.microblog = await fetch("https://nitter.it/AnzenKodo/rss")
+data.microblog = await fetch("https://nitter.net/AnzenKodo/rss")
   .then((res) => res.text())
   .then((res) => parseFeed(res))
   .then((res) => res.entries)
