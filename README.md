@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [STAR WALKIN' (League of Legends Worlds Anthem)](https://musicbrainz.org/recording/579d9e78-1089-4051-824c-e40aa63f56f6) by Lil Nas X
-- [chinatown!](#) by 22december & Shady Moon
-- [Move!](#) by 1nonly
+- [Shamisen Hunter](#) by Satxri
+- [Trap Anthem](https://musicbrainz.org/recording/40905d83-0549-4a08-a68a-66343aaddd3d) by MC Virgins & Yun Head
+- [Hentai Bitch (feat. Kodama Boy & Big Gay)](#) by Shiki-Tmns
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
