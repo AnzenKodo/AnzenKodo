@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Respected Man](#) by Yung Craka & Shotgun Willy
-- [Virginity Syndrome](#) by ovg!
-- [Shakira!](#) by 1nonly & EGOVERT
+- [WIN ("The God of HighSchool" ED)](https://musicbrainz.org/recording/be9ea8ad-1c34-41ff-98a8-7a55ccb233aa) by CIX
+- [Inferno](#) by Mrs. GREEN APPLE
+- [Cry Baby](https://musicbrainz.org/recording/4acc28d0-a898-4fc8-963b-9333391e0503) by Official髭男dism
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
