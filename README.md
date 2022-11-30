@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Still Dancing](#) by Or3o
-- [Asgore (Undertale Remix)](#) by GameChops & dj-Jo
-- [100 Years](#) by Or3o
+- [Betty Boop](#) by Mr Puth
+- [dumb dumb (sped up)](https://musicbrainz.org/recording/3aeee775-7138-4c42-877e-69378b969030) by mazie
+- [Dancin](#) by Nightcore Queen
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
