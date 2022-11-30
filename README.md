@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Shamisen Hunter](#) by Satxri
-- [Trap Anthem](https://musicbrainz.org/recording/40905d83-0549-4a08-a68a-66343aaddd3d) by MC Virgins & Yun Head
-- [Hentai Bitch (feat. Kodama Boy & Big Gay)](#) by Shiki-Tmns
+- [Still Dancing](#) by Or3o
+- [Asgore (Undertale Remix)](#) by GameChops & dj-Jo
+- [100 Years](#) by Or3o
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
