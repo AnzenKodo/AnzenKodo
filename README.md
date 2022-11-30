@@ -38,7 +38,7 @@ out: "What I been up to?".
 <!-- microblog:start -->
 > RT by @AnzenKodo: Where crypto went wrong is when it became an investment instead of a technology
 > 
-> <a href="https://nitter.net/WholeMarsBlog/status/1593156772214493188#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://nitter.cz/WholeMarsBlog/status/1593156772214493188#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [WIN ("The God of HighSchool" ED)](https://musicbrainz.org/recording/be9ea8ad-1c34-41ff-98a8-7a55ccb233aa) by CIX
-- [Inferno](#) by Mrs. GREEN APPLE
-- [Cry Baby](https://musicbrainz.org/recording/4acc28d0-a898-4fc8-963b-9333391e0503) by Official髭男dism
+- [STAR WALKIN' (League of Legends Worlds Anthem)](https://musicbrainz.org/recording/579d9e78-1089-4051-824c-e40aa63f56f6) by Lil Nas X
+- [chinatown!](#) by 22december & Shady Moon
+- [Move!](#) by 1nonly
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
