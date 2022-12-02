@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [シンデレラ](https://musicbrainz.org/recording/ae0daf20-0706-404e-a114-84063b1d556e) by サイダーガール
-- [1](https://musicbrainz.org/recording/1d7e20c8-d8b8-4cdb-9cd7-edf7a59334b4) by MOB CHOIR
-- [祝福](https://musicbrainz.org/recording/fc6cd4fa-d078-4d3f-baf0-21740080b65a) by YOASOBI
+- [Shamisen Hunter](#) by Satxri
+- [Overdose](https://musicbrainz.org/recording/0b44c47b-8045-4f3a-bfd0-ebbbd47bae6a) by なとり
+- [寄り酔い](https://musicbrainz.org/recording/b7474012-cdc7-4ef5-87bb-f03f24792312) by Wanuka
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
