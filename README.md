@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Lofi Hip Hop | Are you okay](#) by TSN Vibes
-- [TSN Vibes - War](#) by TSN Vibes
-- [We could have been so good together](#) by lofi music
+- [Hold On (feat. MOONZz)](https://musicbrainz.org/recording/3a350769-2fd5-45cf-a688-39a66c3471ac) by CloZee
+- [Losing Interest](#) by ProdBySunny & Shiloh Dynasty
+- [Eternal Youth](https://musicbrainz.org/recording/923bff86-8cad-4c22-84ec-a9c5a0efe91f) by Rude.
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
