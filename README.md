@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Hold On (feat. MOONZz)](https://musicbrainz.org/recording/3a350769-2fd5-45cf-a688-39a66c3471ac) by CloZee
-- [Losing Interest](#) by ProdBySunny & Shiloh Dynasty
-- [Eternal Youth](https://musicbrainz.org/recording/923bff86-8cad-4c22-84ec-a9c5a0efe91f) by Rude.
+- [My War](#) by Musicality
+- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
+- [Cradles](https://musicbrainz.org/recording/e624cdd4-309b-43e4-818d-034555e8441c) by Sub Urban
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
