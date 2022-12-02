@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
 - [Loneliness](#) by Rude.
 - [Espada](#) by Musicality
-- [Zenitsu Theme (Remix)](#) by Rifti Beats
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
