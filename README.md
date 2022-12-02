@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [エゴロック (long ver.)](https://musicbrainz.org/recording/85401fb6-ba39-400e-b22c-e75f72b09f2d) by すりぃ
-- [テレキャスタービーボーイ – long ver.](https://musicbrainz.org/recording/3ca5b918-9d03-4b27-b117-cea16c34aa94) by すりぃ
-- [Killer Spider](#) by PinocchioP
+- [シンデレラ](https://musicbrainz.org/recording/ae0daf20-0706-404e-a114-84063b1d556e) by サイダーガール
+- [1](https://musicbrainz.org/recording/1d7e20c8-d8b8-4cdb-9cd7-edf7a59334b4) by MOB CHOIR
+- [祝福](https://musicbrainz.org/recording/fc6cd4fa-d078-4d3f-baf0-21740080b65a) by YOASOBI
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
