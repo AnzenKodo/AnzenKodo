@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Build Our Machine](https://musicbrainz.org/recording/6ceba65c-e69e-4250-86e9-26444f62d695) by Dagames
-- [To the Bone](#) by J.T. Machinima
-- [Shamisen Hunter](#) by Satxri
+- [I Really Want to Stay at Your House](#) by Hallie Coggins & Rosa Walton
+- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
+- [Kyoto](#) by Utkersh
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
