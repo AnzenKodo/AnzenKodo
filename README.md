@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Build Our Machine](https://musicbrainz.org/recording/6ceba65c-e69e-4250-86e9-26444f62d695) by Dagames
+- [To the Bone](#) by J.T. Machinima
 - [Shamisen Hunter](#) by Satxri
-- [Overdose](https://musicbrainz.org/recording/0b44c47b-8045-4f3a-bfd0-ebbbd47bae6a) by なとり
-- [寄り酔い](https://musicbrainz.org/recording/b7474012-cdc7-4ef5-87bb-f03f24792312) by Wanuka
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
