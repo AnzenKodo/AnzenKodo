@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [I Really Want to Stay at Your House](#) by Hallie Coggins & Rosa Walton
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
-- [Kyoto](#) by Utkersh
+- [Lofi Hip Hop | Are you okay](#) by TSN Vibes
+- [TSN Vibes - War](#) by TSN Vibes
+- [We could have been so good together](#) by lofi music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
