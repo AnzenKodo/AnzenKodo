@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Moonlight at midday](#) by Tsukuyomi
-- [IF](#) by Tsukuyomi
-- [Mayday](#) by Tsukuyomi
+- [月詠み『新世界から』Music Video](#) by Tsukuyomi
+- [Nightjar](#) by Tsukuyomi
+- [こんな命がなければ](#) by Tsukuyomi
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
