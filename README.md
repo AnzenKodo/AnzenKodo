@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [A Million Miles Away (reprise)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
-- [Swarms of Song (English Version)](https://musicbrainz.org/recording/f54b6858-6e45-4963-b48e-e0f15e0974fe) by Belle
-- [A Million Miles Away (reprise) (English Version)](https://musicbrainz.org/recording/069618c2-0b2d-4baa-b7f0-5fdd17316a71) by Belle
+- [Fama Destinata](https://musicbrainz.org/recording/f980a90e-3a7e-48a7-bcc3-3aac3e726684) by Belle
+- [Zeige Mir Den Weg](#) by Belle
+- [Swarms of Song](https://musicbrainz.org/recording/f54b6858-6e45-4963-b48e-e0f15e0974fe) by Belle
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
