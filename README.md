@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
-- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
-- [Gales of Song](https://musicbrainz.org/recording/aa794a31-007b-4cb7-8dd3-198cf4c2cfa0) by Belle
+- [A Million Miles Away (reprise)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
+- [Swarms of Song (English Version)](https://musicbrainz.org/recording/f54b6858-6e45-4963-b48e-e0f15e0974fe) by Belle
+- [A Million Miles Away (reprise) (English Version)](https://musicbrainz.org/recording/069618c2-0b2d-4baa-b7f0-5fdd17316a71) by Belle
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
