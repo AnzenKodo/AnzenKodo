@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [A Million Miles Away](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
-- [U](https://musicbrainz.org/recording/137cdd6b-80d3-48e3-b542-938440df2d16) by millennium parade, Belle
-- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
+- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
+- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
+- [Gales of Song](https://musicbrainz.org/recording/aa794a31-007b-4cb7-8dd3-198cf4c2cfa0) by Belle
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
