@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Fama Destinata](https://musicbrainz.org/recording/f980a90e-3a7e-48a7-bcc3-3aac3e726684) by Belle
-- [Zeige Mir Den Weg](#) by Belle
-- [Swarms of Song](https://musicbrainz.org/recording/f54b6858-6e45-4963-b48e-e0f15e0974fe) by Belle
+- [To the Bone](#) by J.T. Machinima
+- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n, Baasik
+- [Press Start](https://musicbrainz.org/recording/6e3aec1a-2d7d-48a7-ba3d-1735baf91dfb) by MDK
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
