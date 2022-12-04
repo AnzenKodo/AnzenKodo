@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [To the Bone](#) by J.T. Machinima
-- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n, Baasik
-- [Press Start](https://musicbrainz.org/recording/6e3aec1a-2d7d-48a7-ba3d-1735baf91dfb) by MDK
+- [Dance Monkey](https://musicbrainz.org/recording/c0f89d6a-d740-4f91-b6e1-d5e8572268c1) by Tones and I
+- [Still Dancing](#) by or3o
+- [Asgore (Undertale Remix)](#) by GameChops, dj-Jo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
