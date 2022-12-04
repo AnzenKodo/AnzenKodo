@@ -36,9 +36,11 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Where crypto went wrong is when it became an investment instead of a technology
+> You should not overlook the guidelines of your culture. Life is short, and you don’t have time to figure everything out on your own. The wisdom of the past was hard-earned, and your dead ancestors may have something useful to tell you.
 > 
-> <a href="https://nitter.cz/WholeMarsBlog/status/1593156772214493188#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> - @jordanbpeterson
+> 
+> <a href="https://nitter.cz/AnzenKodo/status/1599483887822204928#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
