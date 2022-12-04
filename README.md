@@ -78,9 +78,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Shamisen Hunter](#) by Satxri
 - [Dance Monkey](https://musicbrainz.org/recording/c0f89d6a-d740-4f91-b6e1-d5e8572268c1) by Tones and I
 - [Still Dancing](#) by or3o
-- [Asgore (Undertale Remix)](#) by GameChops, dj-Jo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
