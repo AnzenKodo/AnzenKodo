@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Man Down](#) by lilbubblegum
-- [Just Got Sued](#) by Shotgun Willy & Yung Craka
-- [Mine](#) by 1nonly
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [STAR WALKIN' (League of Legends Worlds Anthem)](https://musicbrainz.org/recording/579d9e78-1089-4051-824c-e40aa63f56f6) by Lil Nas X
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
