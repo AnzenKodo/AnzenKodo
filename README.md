@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [RiGHT NOW](https://musicbrainz.org/recording/2ac911e8-2c26-4fe3-9471-07b15c7ca55c) by EMPiRE
-- [JUSTadICE](https://musicbrainz.org/recording/9f5a15f2-31cb-403f-b074-46d8e945f182) by 大森靖子
-- [Mukanjyo](https://musicbrainz.org/recording/682b319a-e6a5-486d-8243-812a049a476d) by Survive Said The Prophet
+- [Mine](#) by 1nonly
+- [Lucid Dreams](https://musicbrainz.org/recording/c1a419bd-3e1a-40eb-8b42-288a46ffc89b) by Juice WRLD
+- [The Alchemist](https://musicbrainz.org/recording/f1c34633-3ba1-4609-9695-71715da099dd) by Haarper
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
