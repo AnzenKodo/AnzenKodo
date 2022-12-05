@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [anonymous](#) by SAYURI
 - [月詠み『新世界から』Music Video](#) by Tsukuyomi
 - [Nightjar](#) by Tsukuyomi
-- [こんな命がなければ](#) by Tsukuyomi
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
