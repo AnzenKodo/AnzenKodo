@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Man Down](#) by lilbubblegum
+- [Just Got Sued](#) by Shotgun Willy & Yung Craka
 - [Mine](#) by 1nonly
-- [Lucid Dreams](https://musicbrainz.org/recording/c1a419bd-3e1a-40eb-8b42-288a46ffc89b) by Juice WRLD
-- [The Alchemist](https://musicbrainz.org/recording/f1c34633-3ba1-4609-9695-71715da099dd) by Haarper
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
