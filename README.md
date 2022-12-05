@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [anonymous](#) by SAYURI
-- [月詠み『新世界から』Music Video](#) by Tsukuyomi
-- [Nightjar](#) by Tsukuyomi
+- [Mixed Nuts](#) by OFFICIAL HIGE DANDISM
+- [テレキャスタービーボーイ – long ver.](https://musicbrainz.org/recording/3ca5b918-9d03-4b27-b117-cea16c34aa94) by すりぃ
+- [Killer Spider](#) by PinocchioP
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
