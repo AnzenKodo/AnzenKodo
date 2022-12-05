@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Mixed Nuts](#) by OFFICIAL HIGE DANDISM
-- [テレキャスタービーボーイ – long ver.](https://musicbrainz.org/recording/3ca5b918-9d03-4b27-b117-cea16c34aa94) by すりぃ
-- [Killer Spider](#) by PinocchioP
+- [RiGHT NOW](https://musicbrainz.org/recording/2ac911e8-2c26-4fe3-9471-07b15c7ca55c) by EMPiRE
+- [JUSTadICE](https://musicbrainz.org/recording/9f5a15f2-31cb-403f-b074-46d8e945f182) by 大森靖子
+- [Mukanjyo](https://musicbrainz.org/recording/682b319a-e6a5-486d-8243-812a049a476d) by Survive Said The Prophet
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
