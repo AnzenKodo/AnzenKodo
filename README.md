@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n & Baasik
-- [Shamisen Hunter](#) by Satxri
-- [Trap Bach](#) by Codec
+- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
+- [Betty Boop](#) by Mr Puth
+- [dumb dumb (sped up)](https://musicbrainz.org/recording/3aeee775-7138-4c42-877e-69378b969030) by mazie
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
