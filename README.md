@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
-- [STAR WALKIN' (League of Legends Worlds Anthem)](https://musicbrainz.org/recording/579d9e78-1089-4051-824c-e40aa63f56f6) by Lil Nas X
+- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n & Baasik
+- [Shamisen Hunter](#) by Satxri
+- [Trap Bach](#) by Codec
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
