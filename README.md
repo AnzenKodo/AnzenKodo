@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Raga Hamsadhwani - Teentaal Hansadhwani](#) by Pt. Hariprasad Chaurasia
 - [Raaga Nand](#) by Ronu Majumdar
 - [Tower of Flower](#) by SAYURI
-- [QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）](#) by QUEENDOM
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
