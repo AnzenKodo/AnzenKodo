@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Losstime](#) by Creepy Nuts
-- [Sing The Moon](#) by Tsukuyomi
-- [テレキャスタービーボーイ – long ver.](https://musicbrainz.org/recording/3ca5b918-9d03-4b27-b117-cea16c34aa94) by すりぃ
+- [Tower of Flower](#) by SAYURI
+- [QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）](#) by QUEENDOM
+- [ichimoku](#) by miu
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
