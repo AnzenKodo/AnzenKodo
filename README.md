@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Raaga Nand](#) by Ronu Majumdar
 - [Tower of Flower](#) by SAYURI
 - [QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）](#) by QUEENDOM
-- [ichimoku](#) by miu
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
