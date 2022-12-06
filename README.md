@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
-- [Betty Boop](#) by Mr Puth
-- [dumb dumb (sped up)](https://musicbrainz.org/recording/3aeee775-7138-4c42-877e-69378b969030) by mazie
+- [Losstime](#) by Creepy Nuts
+- [Sing The Moon](#) by Tsukuyomi
+- [テレキャスタービーボーイ – long ver.](https://musicbrainz.org/recording/3ca5b918-9d03-4b27-b117-cea16c34aa94) by すりぃ
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
