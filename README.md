@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Dhun](#) by Vishwa Mohan Bhatt
+- [Raaga Shyam Kalyan](https://musicbrainz.org/recording/701cc269-08b4-4046-9b8b-886547ce56bb) by Shujaat Khan
 - [Raga Charukeshi: Teentaal "Chhayanat - Alaap, Gat"](#) by Ustad Ali Akbar Khan
-- [Raga Yaman](https://musicbrainz.org/recording/a039c368-c520-4574-be8a-9b7ce842a9fc) by Ustad Zia Mohiuddin Dagar
-- [Raga Hamsadhwani - Teentaal Hansadhwani](#) by Pt. Hariprasad Chaurasia
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
