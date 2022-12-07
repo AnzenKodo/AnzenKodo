@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
-- [1nonly - Lovely (Official Instrumental) (prod. prodigy)](#) by okayjml
-- [*SOLD* LETOA TYPE BEAT "CARTEL" (PROD. $UPREME)](#) by PROD. SUPREME
+- [Breakfast in Heaven](#) by Shotgun Willy & Yung Craka
+- [ILY BABY (feat. Shady Moon & Larrrycroft)](https://musicbrainz.org/recording/f5bd3796-f22e-48f2-b0ac-408b8b5565de) by Softwilly, void & 1nonly
+- [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
