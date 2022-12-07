@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 - [1nonly - Lovely (Official Instrumental) (prod. prodigy)](#) by okayjml
 - [*SOLD* LETOA TYPE BEAT "CARTEL" (PROD. $UPREME)](#) by PROD. SUPREME
-- [1nonly - Lovely (Official Instrumental) (prod. prodigy)](#) by okayjml
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
