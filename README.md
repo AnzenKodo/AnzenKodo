@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Fairy Fountain](#) by Mikel & GameChops
-- [Raga - Gorakh Kalyan - Budhaditya Mukherjee](#) by Pt. Budhaditya Mukherjee
-- [Dhun](#) by Vishwa Mohan Bhatt
+- [Gris, Pt. 1](https://musicbrainz.org/recording/a6bdbb2e-d385-46f9-acc7-2820522ed470) by Berlinist
+- [Gris, Pt. 2](https://musicbrainz.org/recording/9b3b1d57-6d93-44fa-815d-81da0267810a) by Berlinist
+- [Gris, Pt. 2](https://musicbrainz.org/recording/9b3b1d57-6d93-44fa-815d-81da0267810a) by Berlinist
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
