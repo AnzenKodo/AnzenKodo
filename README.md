@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Tide](#) by Kendl
-- [small talk](https://musicbrainz.org/recording/be9dcf20-371d-4a6a-b7ea-90c1602f9cd6) by Seb Wildblood
-- [Forces And Beliefs](https://musicbrainz.org/recording/fbab579b-ab9f-4244-9155-de7c658ac0e1) by Fenton
+- [Liverpool Street In The Rain](https://musicbrainz.org/recording/3aea21b6-cbae-437f-88cb-4dfe9a350ffa) by MALL GRAB
+- [Flush with Love](https://musicbrainz.org/recording/83ac2f8a-5661-4233-b4ef-1e5b91c4157a) by Hermitude
+- [The Daisy](https://musicbrainz.org/recording/ca37a1d2-d856-40e6-9110-79771fd06a4b) by Ross From Friends
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
