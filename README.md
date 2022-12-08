@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ILY BABY (feat. Shady Moon & Larrrycroft)](https://musicbrainz.org/recording/f5bd3796-f22e-48f2-b0ac-408b8b5565de) by Softwilly, void & 1nonly
-- [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
-- [Reach](#) by Jox Talay
+- [Atlantis](#) by Applescal
+- [I Chose Violence](https://musicbrainz.org/recording/5b4c08db-6a27-46fc-9a4e-df46191e9a71) by Iamjakehill
+- [west side story](#) by lilbubblegum & Ciscaux
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
