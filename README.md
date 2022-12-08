@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Halving the Compass](https://musicbrainz.org/recording/71af0bd1-8848-487d-ad78-8b2bc7e228d1) by Helios
-- [Overload](https://musicbrainz.org/recording/ce31ad3f-f059-441b-9939-c51dfbe092e6) by Nite Fleit
-- [People of Eve](#) by Rohaan
+- [Higher](https://musicbrainz.org/recording/607bd84d-c74c-4124-9b58-d192a981e423) by Black Loops
+- [Dust](#) by Cruel Clouds
+- [Subtle Ones](https://musicbrainz.org/recording/f0ac4add-a0e5-4c92-abaf-645a75add4de) by Robot Koch, Blankfor.ms, Foam and Sand
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
