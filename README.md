@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Wisp (feat. Baths)](https://musicbrainz.org/recording/b3a49615-6bc6-4f6e-8a88-be6cdcfb7d1a) by D33J
+- [Returning (Rival Consoles Remix)](https://musicbrainz.org/recording/19299bbc-a785-4d70-be40-0bb59fdca94f) by Paul White
 - [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
-- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
-- [Breakfast in Heaven](#) by Shotgun Willy & Yung Craka
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
