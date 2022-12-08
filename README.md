@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Drop Shots Blunted](#) by Ephemera
+- [Andromeda](https://musicbrainz.org/recording/a894ee0a-355a-45fb-b3a8-9d74630a0906) by Be Svendsen
 - [Higher](https://musicbrainz.org/recording/607bd84d-c74c-4124-9b58-d192a981e423) by Black Loops
-- [Dust](#) by Cruel Clouds
-- [Subtle Ones](https://musicbrainz.org/recording/f0ac4add-a0e5-4c92-abaf-645a75add4de) by Robot Koch, Blankfor.ms, Foam and Sand
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
