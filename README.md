@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Liverpool Street In The Rain](https://musicbrainz.org/recording/3aea21b6-cbae-437f-88cb-4dfe9a350ffa) by MALL GRAB
-- [Flush with Love](https://musicbrainz.org/recording/83ac2f8a-5661-4233-b4ef-1e5b91c4157a) by Hermitude
-- [The Daisy](https://musicbrainz.org/recording/ca37a1d2-d856-40e6-9110-79771fd06a4b) by Ross From Friends
+- [Everything Connected (Edit)](https://musicbrainz.org/recording/7110cb7c-c80f-492a-ade2-e49bbfd6fbde) by Jon Hopkins
+- [6000ft.](https://musicbrainz.org/recording/dc054902-f292-42b6-95ed-3f5d558937f2) by Bonobo & Totally Enormous Extinct Dinosaurs
+- [Realise](https://musicbrainz.org/recording/90b0e9be-873d-4550-a0f5-4c036a26fa90) by Floating Points
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
