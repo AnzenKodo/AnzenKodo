@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Stella (Ryan Davis Rethink)](#) by Lycoriscoris
-- [Far Africa](#) by Village
-- [Siren](#) by Tourist
+- [ILY BABY (feat. Shady Moon & Larrrycroft)](https://musicbrainz.org/recording/f5bd3796-f22e-48f2-b0ac-408b8b5565de) by Softwilly, void & 1nonly
+- [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
+- [Reach](#) by Jox Talay
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
