@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Atlantis](#) by Applescal
-- [I Chose Violence](https://musicbrainz.org/recording/5b4c08db-6a27-46fc-9a4e-df46191e9a71) by Iamjakehill
-- [west side story](#) by lilbubblegum & Ciscaux
+- [Tide](#) by Kendl
+- [small talk](https://musicbrainz.org/recording/be9dcf20-371d-4a6a-b7ea-90c1602f9cd6) by Seb Wildblood
+- [Forces And Beliefs](https://musicbrainz.org/recording/fbab579b-ab9f-4244-9155-de7c658ac0e1) by Fenton
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
