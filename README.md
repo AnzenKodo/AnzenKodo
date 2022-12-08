@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [1234](#) by Beshken
+- [They Came From Past](https://musicbrainz.org/recording/d7b578b4-e00e-4b11-87e1-e08298ed363a) by Pablie
 - [Flight](https://musicbrainz.org/recording/4e2c5977-a462-411f-91ad-1aef3ab5b223) by Lycoriscoris
-- [Pigeon Lake](https://musicbrainz.org/recording/ef9046df-188a-4a1b-9a90-d5f8ee6fb36b) by Daniel Steidtmann
-- [Cenote](#) by 8 Bit Cypher
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
