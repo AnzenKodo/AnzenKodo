@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Wisp (feat. Baths)](https://musicbrainz.org/recording/b3a49615-6bc6-4f6e-8a88-be6cdcfb7d1a) by D33J
-- [Returning (Rival Consoles Remix)](https://musicbrainz.org/recording/19299bbc-a785-4d70-be40-0bb59fdca94f) by Paul White
-- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
+- [Halving the Compass](https://musicbrainz.org/recording/71af0bd1-8848-487d-ad78-8b2bc7e228d1) by Helios
+- [Overload](https://musicbrainz.org/recording/ce31ad3f-f059-441b-9939-c51dfbe092e6) by Nite Fleit
+- [People of Eve](#) by Rohaan
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
