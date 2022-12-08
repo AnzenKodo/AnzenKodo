@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Drop Shots Blunted](#) by Ephemera
-- [Andromeda](https://musicbrainz.org/recording/a894ee0a-355a-45fb-b3a8-9d74630a0906) by Be Svendsen
-- [Higher](https://musicbrainz.org/recording/607bd84d-c74c-4124-9b58-d192a981e423) by Black Loops
+- [Flight](https://musicbrainz.org/recording/4e2c5977-a462-411f-91ad-1aef3ab5b223) by Lycoriscoris
+- [Pigeon Lake](https://musicbrainz.org/recording/ef9046df-188a-4a1b-9a90-d5f8ee6fb36b) by Daniel Steidtmann
+- [Cenote](#) by 8 Bit Cypher
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
