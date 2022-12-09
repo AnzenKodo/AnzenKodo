@@ -3,7 +3,7 @@
 <!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/0c/90/6a/0c906acd73ab122f5a4daf2f50692630.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
-<pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/blog">Blog</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
+<pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
 
 <!-- logo:start --><img alt="Logo of Axel" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
 
@@ -35,7 +35,7 @@ out: "What I been up to?".
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
 - [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
-- See More on [AK#Blog](https://AnzenKodo.github.io/blog)
+- See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
