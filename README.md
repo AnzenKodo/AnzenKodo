@@ -28,7 +28,7 @@ out: "What I been up to?".
 
 ### What I have been writing in:
 
-#### Blog
+#### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
