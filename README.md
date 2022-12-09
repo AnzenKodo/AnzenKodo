@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Everything Connected (Edit)](https://musicbrainz.org/recording/7110cb7c-c80f-492a-ade2-e49bbfd6fbde) by Jon Hopkins
-- [6000ft.](https://musicbrainz.org/recording/dc054902-f292-42b6-95ed-3f5d558937f2) by Bonobo & Totally Enormous Extinct Dinosaurs
-- [Realise](https://musicbrainz.org/recording/90b0e9be-873d-4550-a0f5-4c036a26fa90) by Floating Points
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
