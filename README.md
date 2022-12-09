@@ -80,9 +80,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
-- [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
+- [Faces in the Rain](#) by Kaho Nakamura
+- [Faces in the Rain](#) by Kaho Nakamura
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
