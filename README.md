@@ -30,7 +30,11 @@ out: "What I been up to?".
 
 #### Blog
 <!-- blog:start -->
-- [Hello](https://AnzenKodo.github.io/blog/posts/Hello.html)
+- [Home](https://anzenkodo.github.io/notes/)
+- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
+- [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
+- [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
+- [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
 - See More on [AK#Blog](https://AnzenKodo.github.io/blog)
 <!-- blog:end -->
 
