@@ -3,7 +3,7 @@ import { parseFeed } from "https://deno.land/x/rss@0.5.6/mod.ts";
 import qrcode from "https://deno.land/x/qrcode_terminal@v1.1.1/mod.js";
 
 const repos = ["dblog", "punk", "mizlink", "rss-atom-parser"];
-const nav = ["blog", "blogroll", "db", "pinboard", "pen", "todo", "awesome"];
+const nav = ["notes", "blogroll", "db", "pinboard", "pen", "todo", "awesome"];
 const md = Deno.readTextFileSync("README.md");
 
 const data = await fetch("https://anzenkodo.github.io/api/ak.json")
@@ -40,7 +40,7 @@ data.blog = await fetch(data.api.blog)
   .then((res) => res.json())
   .then((res) => res.items.map((item) => `- [${item.title}](${item.url})`))
   .then((res) => res.slice(0, 5).join("\n")) +
-  `\n- See More on [AK#Blog](${data.website}blog)`;
+  `\n- See More on [AK#Notes](${data.website}notes)`;
 
 data.microblog = await fetch("https://nitter.cz/AnzenKodo/rss")
   .then((res) => res.text())
