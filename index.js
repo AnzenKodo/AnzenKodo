@@ -53,7 +53,7 @@ data.microblog = await fetch("https://nitter.cz/AnzenKodo/rss")
         .replace(
           /$/g,
           `\n\n<a href="${
-            re.links[0].href.replace("http://nitter.it", "https://twitter.com")
+            re.links[0].href.replace("https://nitter.cz", "https://twitter.com")
           }">Full Context</a> | See More on <a href="https://twitter.com/${data.username}">Twitter</a>`,
         )
         .replace(/^/gm, "> ")
