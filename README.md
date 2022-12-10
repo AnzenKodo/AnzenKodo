@@ -44,7 +44,7 @@ out: "What I been up to?".
 > 
 > - @jordanbpeterson
 > 
-> <a href="https://nitter.cz/AnzenKodo/status/1599483887822204928#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/AnzenKodo/status/1599483887822204928#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
