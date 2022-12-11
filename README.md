@@ -31,8 +31,8 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
+- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [View From My Window](#) by Hiroshi Yoshimura
-- [The Border Concerto for 3 Horns and Orchestra II. The Scaling (Live)](#) by Joe Hisaishi
-- [Balasong](https://musicbrainz.org/recording/1c1350e6-8c87-4b08-8c4e-1ca0af054a87) by Yoshiaki Ochi
+- [Back To Nature](#) by Fumio Miyashita
+- [Sylvia and Company](#) by Toshifumi Hinata
+- [Voice is far](#) by Chihei Hatakeyama
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
