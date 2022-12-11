@@ -30,11 +30,11 @@ out: "What I been up to?".
 
 #### Notes
 <!-- blog:start -->
-- [Home](https://anzenkodo.github.io/notes/)
-- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
+- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
+- [Home](https://anzenkodo.github.io/notes/)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Sunday Kitchen](#) by U-zhaan, BIGYUKI
-- [owari no kisetsu](https://musicbrainz.org/recording/0d77bece-1cd6-49f8-be6a-440e4fd2d61b) by Rei Harakami
-- [Saigono Rakuen](#) by 細野晴臣
+- [Sleep](#) by Hiroshi Yoshimura
+- [GLASS CHATTERING](https://musicbrainz.org/recording/552e650a-2958-45c0-88dd-10d98ae4fba8) by Yoshio Ojima
+- [Quiet Inlet](https://musicbrainz.org/recording/6d5f28a5-3b12-4cf7-b4cf-ec2060c09065) by Takashi Kokubo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
