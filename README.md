@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
-- [Faces in the Rain](#) by Kaho Nakamura
-- [Faces in the Rain](#) by Kaho Nakamura
+- [Sunday Kitchen](#) by U-zhaan, BIGYUKI
+- [owari no kisetsu](https://musicbrainz.org/recording/0d77bece-1cd6-49f8-be6a-440e4fd2d61b) by Rei Harakami
+- [Saigono Rakuen](#) by 細野晴臣
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
