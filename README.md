@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Blink](#) by Hiroshi Yoshimura
-- [Sealed](https://musicbrainz.org/recording/9df419b2-edba-44fd-b036-d3a60da49b1e) by Yoshio Ojima
-- [Perpetual (Movement)](#) by Jun Fukamachi
+- [Ear Dreamin'](https://musicbrainz.org/recording/be68389f-9345-4676-b5d9-8fb86cfdcb6a) by Yoshiaki Ochi
+- [Tomoshibi](#) by Shiho Yabuki
+- [Wind Invitation](#) by Kitaro
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
