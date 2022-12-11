@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Ear Dreamin'](https://musicbrainz.org/recording/be68389f-9345-4676-b5d9-8fb86cfdcb6a) by Yoshiaki Ochi
-- [Tomoshibi](#) by Shiho Yabuki
-- [Wind Invitation](#) by Kitaro
+- [View From My Window](#) by Hiroshi Yoshimura
+- [The Border Concerto for 3 Horns and Orchestra II. The Scaling (Live)](#) by Joe Hisaishi
+- [Balasong](https://musicbrainz.org/recording/1c1350e6-8c87-4b08-8c4e-1ca0af054a87) by Yoshiaki Ochi
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
