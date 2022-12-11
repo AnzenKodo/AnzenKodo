@@ -31,8 +31,8 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
 - [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
+- [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
 - [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Back To Nature](#) by Fumio Miyashita
-- [Sylvia and Company](#) by Toshifumi Hinata
-- [Voice is far](#) by Chihei Hatakeyama
+- [Time Machine](#) by Fumio Miyashita
+- [風にゆれる光](https://musicbrainz.org/recording/87c1d2a9-ad42-4f97-a7d4-72bb38b1cad2) by 神山 純一
+- [Images Of Broken Light](https://musicbrainz.org/recording/792ad295-ffdf-4537-8073-d8e4782cec6a) by Chihei Hatakeyama
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
