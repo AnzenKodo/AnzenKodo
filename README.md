@@ -30,11 +30,11 @@ out: "What I been up to?".
 
 #### Notes
 <!-- blog:start -->
-- [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
+- [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
+- [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
 - [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
-- [Home](https://anzenkodo.github.io/notes/)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Sleep](#) by Hiroshi Yoshimura
-- [GLASS CHATTERING](https://musicbrainz.org/recording/552e650a-2958-45c0-88dd-10d98ae4fba8) by Yoshio Ojima
-- [Quiet Inlet](https://musicbrainz.org/recording/6d5f28a5-3b12-4cf7-b4cf-ec2060c09065) by Takashi Kokubo
+- [Blink](#) by Hiroshi Yoshimura
+- [Sealed](https://musicbrainz.org/recording/9df419b2-edba-44fd-b036-d3a60da49b1e) by Yoshio Ojima
+- [Perpetual (Movement)](#) by Jun Fukamachi
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
