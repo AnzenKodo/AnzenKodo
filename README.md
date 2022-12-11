@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Time Machine](#) by Fumio Miyashita
-- [風にゆれる光](https://musicbrainz.org/recording/87c1d2a9-ad42-4f97-a7d4-72bb38b1cad2) by 神山 純一
-- [Images Of Broken Light](https://musicbrainz.org/recording/792ad295-ffdf-4537-8073-d8e4782cec6a) by Chihei Hatakeyama
+- [Forest](#) by Keiichiro Shibuya
+- [Loom](https://musicbrainz.org/recording/92947600-f04f-4cb6-b63d-580671bc5b6e) by Yellow Magic Orchestra
+- [Blue Sky And Yellow Sunflower](https://musicbrainz.org/recording/2fac3e1d-adc3-4eb6-ba09-704a5129b0a6) by Susumu Yokota
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
