@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [I LOVE YOU SO - YUNG KAGE x ISAACWHY x YUMI](#) by Softwilly Music
-- [Kill Yourself (Part III)](https://musicbrainz.org/recording/e443b3af-f3a6-4a38-a0ed-bc0197934fbd) by $uicideboy$
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
+- [lilbubblegum - villain (prod $upreme)](#) by lilbubblegum
+- [Stalking (feat. Shady Moon)](#) by 1nonly
+- [Liu Kang](#) by 1nonly
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
