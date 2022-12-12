@@ -30,11 +30,11 @@ out: "What I been up to?".
 
 #### Notes
 <!-- blog:start -->
+- [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
-- [Home](https://anzenkodo.github.io/notes/)
-- [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
+- [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [...And to Those I Love, Thanks for Sticking Around](https://musicbrainz.org/recording/4bdc99d6-5202-413b-bf36-c2dcd443b575) by $uicideboy$
-- [lilbubblegum - villain (prod $upreme)](#) by lilbubblegum
-- [Stalking (feat. Shady Moon)](#) by 1nonly
+- [west side story](#) by lilbubblegum & Ciscaux
+- [Drop It Like It's Hot!](https://musicbrainz.org/recording/a47b7957-f4f1-4169-83e3-ec47ac13d57f) by Haarper & Luga
+- [Lovely](#) by 1nonly
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
