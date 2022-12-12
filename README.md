@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [west side story](#) by lilbubblegum & Ciscaux
-- [Drop It Like It's Hot!](https://musicbrainz.org/recording/a47b7957-f4f1-4169-83e3-ec47ac13d57f) by Haarper & Luga
-- [Lovely](#) by 1nonly
+- [I LOVE YOU SO - YUNG KAGE x ISAACWHY x YUMI](#) by Softwilly Music
+- [Kill Yourself (Part III)](https://musicbrainz.org/recording/e443b3af-f3a6-4a38-a0ed-bc0197934fbd) by $uicideboy$
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
