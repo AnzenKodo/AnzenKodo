@@ -30,9 +30,9 @@ out: "What I been up to?".
 
 #### Notes
 <!-- blog:start -->
-- [Home](https://anzenkodo.github.io/notes/)
-- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
+- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
+- [Home](https://anzenkodo.github.io/notes/)
 - [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
 - [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Trap Anthem](https://musicbrainz.org/recording/40905d83-0549-4a08-a68a-66343aaddd3d) by MC Virgins & Yun Head
-- [Hentai Bitch (feat. Kodama Boy & Big Gay)](#) by Shiki-Tmns
-- [AMV](https://musicbrainz.org/recording/f54dddb5-fd28-4362-90a3-6f51d1c19550) by Lil Darkie
+- [...And to Those I Love, Thanks for Sticking Around](https://musicbrainz.org/recording/4bdc99d6-5202-413b-bf36-c2dcd443b575) by $uicideboy$
+- [lilbubblegum - villain (prod $upreme)](#) by lilbubblegum
+- [Stalking (feat. Shady Moon)](#) by 1nonly
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
