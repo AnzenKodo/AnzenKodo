@@ -19,7 +19,7 @@
 - **Socials:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
   <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a><!-- social:end -->
-- **Programming Languages:** <!-- languages:start -->[JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [PHP](https://github.com/topics/PHP) / [Shell](https://github.com/topics/Shell) / [CSS](https://github.com/topics/CSS) / [Python](https://github.com/topics/Python) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start -->[PHP](https://github.com/topics/PHP) / [CSS](https://github.com/topics/CSS) / [JavaScript](https://github.com/topics/JavaScript) / [Shell](https://github.com/topics/Shell) / [Python](https://github.com/topics/Python) / [Nix](https://github.com/topics/Nix) / [HTML](https://github.com/topics/HTML) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
 
 ## Now
 This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Nee Nee Nee.](#) by PinocchioP
-- [Gourmet Race (From "Kirby Super Star")](https://musicbrainz.org/recording/85227f20-02bf-424d-8542-a166327de090) by Qumu
-- [Bouquet](https://musicbrainz.org/recording/897f4ede-fbcb-4d78-840e-c4cfb8a5b257) by Snail's House
+- [EVANGELION OPENING TRAP REMIX EXTENDED VERSION (a cruel angel thesis remix)](#) by apollw
+- [99.9](https://musicbrainz.org/recording/e7eec9ae-0abf-48fc-a701-725ee1bcb3a8) by MOB CHOIR feat. sajou no hana
+- [WIN (Korean Version)](https://musicbrainz.org/recording/a45d4fda-b38a-41f3-8f7b-d08fb25f6584) by CIX
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
