@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Shamisen Hunter](#) by Satxri
-- [Trap Bach](#) by Codec
-- [Trap Paganini](#) by Codec
+- [Nee Nee Nee.](#) by PinocchioP
+- [Gourmet Race (From "Kirby Super Star")](https://musicbrainz.org/recording/85227f20-02bf-424d-8542-a166327de090) by Qumu
+- [Bouquet](https://musicbrainz.org/recording/897f4ede-fbcb-4d78-840e-c4cfb8a5b257) by Snail's House
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
