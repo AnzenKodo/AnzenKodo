@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [lilbubblegum - villain (prod $upreme)](#) by lilbubblegum
-- [Stalking (feat. Shady Moon)](#) by 1nonly
-- [Liu Kang](#) by 1nonly
+- [Shamisen Hunter](#) by Satxri
+- [Trap Bach](#) by Codec
+- [Trap Paganini](#) by Codec
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
