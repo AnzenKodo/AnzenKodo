@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
+- [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
+- [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
+- [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
