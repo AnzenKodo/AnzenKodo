@@ -33,18 +33,16 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
-- [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
-- [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> You should not overlook the guidelines of your culture. Life is short, and you don’t have time to figure everything out on your own. The wisdom of the past was hard-earned, and your dead ancestors may have something useful to tell you.
+> RT by @AnzenKodo: My god. @BarackObama has gone full MAGA, just like @elonmusk!
 > 
-> - @jordanbpeterson
-> 
-> <a href="https://twitter.com/AnzenKodo/status/1599483887822204928#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/WholeMarsBlog/status/1602781548083716096#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
