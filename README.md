@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [sets](https://anzenkodo.github.io/notes/maths/discrete-mathematics/sets.html)
+- [Set](https://anzenkodo.github.io/notes/maths/discrete-mathematics/set.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -84,9 +84,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [EVANGELION OPENING TRAP REMIX EXTENDED VERSION (a cruel angel thesis remix)](#) by apollw
-- [99.9](https://musicbrainz.org/recording/e7eec9ae-0abf-48fc-a701-725ee1bcb3a8) by MOB CHOIR feat. sajou no hana
-- [WIN (Korean Version)](https://musicbrainz.org/recording/a45d4fda-b38a-41f3-8f7b-d08fb25f6584) by CIX
+- [Naruto Shippuden - Nightfall & Despair (NKZ Remix)](#) by Shinzu Music
+- [Fukashigi no Carte Type Beat (Prod. Heaven)](#) by Heaven
+- [Hikaru Nara but is it okay if it's lofi?](#) by Kijugo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
