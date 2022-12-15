@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
-- [React](https://anzenkodo.github.io/notes/programming/languages/javascript/react.html)
-- [NodeJS](https://anzenkodo.github.io/notes/programming/languages/javascript/nodejs.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
