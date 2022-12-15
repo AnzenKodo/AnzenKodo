@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/study/grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut2-6s.html)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
+- [Final](https://anzenkodo.github.io/notes/programming/languages/php/final.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/php/ut2-6s.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
