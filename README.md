@@ -31,18 +31,18 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [Sample Paper 6S](https://anzenkodo.github.io/notes/programming/languages/python/sample-paper-6s.html)
+- [UT1 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut1-6s.html)
+- [Practical S6](https://anzenkodo.github.io/notes/programming/languages/python/practical-s6.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut2-6s.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: My god. @BarackObama has gone full MAGA, just like @elonmusk!
+> Followers != Friends
 > 
-> <a href="https://twitter.com/WholeMarsBlog/status/1602781548083716096#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/AnzenKodo/status/1603342861369774080#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
