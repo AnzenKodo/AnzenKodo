@@ -31,8 +31,8 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
@@ -40,9 +40,9 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> Followers != Friends
+> R to @AnzenKodo: you might have something to say about a subject, even if the conclusion is “i dunno”, then, it is philosophy.
 > 
-> <a href="https://twitter.com/AnzenKodo/status/1603342861369774080#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/AnzenKodo/status/1603364627194458112#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
