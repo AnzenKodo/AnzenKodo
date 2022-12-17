@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [*FREE* 1NONLY X CISCAUX TYPE BEAT "NIGHT CITY" (PROD. $UPREME X TYDAVID)](#) by PROD. SUPREME
-- [Hueco Mundo](#) by Eternal Raijin
-- [Hunter X Hunter Remix - Riot | Hip Hop / Trap | [Musicality Remix]](#) by Musicality
+- [[SOLD] aesthetic rap AV, 1nonly, yung kage, city pop sample type beat - lone](#) by skisim
+- [AMV](https://musicbrainz.org/recording/f54dddb5-fd28-4362-90a3-6f51d1c19550) by Lil Darkie
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
