@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [MGT](https://anzenkodo.github.io/notes/study/mgt.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
+- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
 - [Naruto Shippuden - Nightfall & Despair (NKZ Remix)](#) by Shinzu Music
-- [Fukashigi no Carte Type Beat (Prod. Heaven)](#) by Heaven
-- [Hikaru Nara but is it okay if it's lofi?](#) by Kijugo
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
