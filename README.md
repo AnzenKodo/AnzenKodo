@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
-- [Viva 6S](https://anzenkodo.github.io/notes/programming/android/viva-6s.html)
-- [Viva 6S sort](https://anzenkodo.github.io/notes/programming/android/viva-6s-sort.html)
-- [Notes](https://anzenkodo.github.io/notes/programming/android/notes.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut2-6s.html)
+- [Sample Paper 6S](https://anzenkodo.github.io/notes/programming/languages/python/sample-paper-6s.html)
+- [UT1 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut1-6s.html)
+- [Practical S6](https://anzenkodo.github.io/notes/programming/languages/python/practical-s6.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
