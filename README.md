@@ -57,9 +57,9 @@ out: "What I been up to?".
 
 ##### Online
 <!-- pinboard:start -->
-- [On blogging and blogging platforms. - Ru](https://rusingh.com/on-blogging-and-platforms/)
-- [Just get moving](https://world.hey.com/jason/just-get-moving-37503f0e)
-- [How to Create a Simple HTML/CSS Notice Box - Kev Quirk](https://kevquirk.com/how-to-create-a-simple-html-css-notice-box/)
+- [1x Engineer](https://1x.engineer/)
+- [37signals - A catalog of ideas, signals, that drive us.](https://37signals.com/)
+- [Please don’t theme our apps](https://stopthemingmy.app/)
 - See More on [AK#Pinboard](https://AnzenKodo.github.io/pinboard)
 <!-- pinboard:end -->
 
