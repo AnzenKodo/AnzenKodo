@@ -40,9 +40,9 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> R to @AnzenKodo: you might have something to say about a subject, even if the conclusion is “i dunno”, then, it is philosophy.
+> RT by @AnzenKodo: Should I step down as head of Twitter? I will abide by the results of this poll.
 > 
-> <a href="https://twitter.com/AnzenKodo/status/1603364627194458112#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/elonmusk/status/1604617643973124097#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
