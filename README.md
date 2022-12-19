@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut2-6s.html)
-- [Sample Paper 6S](https://anzenkodo.github.io/notes/programming/languages/python/sample-paper-6s.html)
-- [UT1 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut1-6s.html)
-- [Practical S6](https://anzenkodo.github.io/notes/programming/languages/python/practical-s6.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [lilbubblegum x letoa - e girl ( Instrumental Beat )](#) by T A K A H I R O 6 6 6
+- [La Espada](#) by Eternal Raijin
 - [[SOLD] aesthetic rap AV, 1nonly, yung kage, city pop sample type beat - lone](#) by skisim
-- [AMV](https://musicbrainz.org/recording/f54dddb5-fd28-4362-90a3-6f51d1c19550) by Lil Darkie
-- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
