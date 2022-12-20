@@ -31,8 +31,8 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Stay With Me](https://musicbrainz.org/recording/927e2a72-6d68-46ad-9e15-3aac42eae24b) by 1nonly
-- [$Outh $Ide $Uicide (feat. Pouya)](https://musicbrainz.org/recording/618702e0-222c-4761-a585-3b89cd3c3528) by $uicideboy$
-- [I LOVE YOU SO - YUNG KAGE x ISAACWHY x YUMI](#) by Softwilly Music
+- [Nightcore - Cheap Thrills](#) by Evercore
+- [Mi Mi Mi](https://musicbrainz.org/recording/49cd75e8-f511-4f6e-ac7f-a79bd541a59e) by SEREBRO
+- [Living On](#) by Or3o
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
