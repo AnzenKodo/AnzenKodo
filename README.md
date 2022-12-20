@@ -31,18 +31,18 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Should I step down as head of Twitter? I will abide by the results of this poll.
+> RT by @AnzenKodo: Should I step down as a Twitter intern? I will abide by the results of this poll. Not a joke.
 > 
-> <a href="https://twitter.com/elonmusk/status/1604617643973124097#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/realGeorgeHotz/status/1604945535227420672#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
