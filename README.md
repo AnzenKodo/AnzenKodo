@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [UT1 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut1-6s.html)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut2-6s.html)
-- [Sample Paper 6S](https://anzenkodo.github.io/notes/programming/languages/python/sample-paper-6s.html)
-- [Notes](https://anzenkodo.github.io/notes/programming/languages/python/notes.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [lilbubblegum x letoa - e girl ( Instrumental Beat )](#) by T A K A H I R O 6 6 6
-- [La Espada](#) by Eternal Raijin
-- [[SOLD] aesthetic rap AV, 1nonly, yung kage, city pop sample type beat - lone](#) by skisim
+- [Stay With Me](https://musicbrainz.org/recording/927e2a72-6d68-46ad-9e15-3aac42eae24b) by 1nonly
+- [$Outh $Ide $Uicide (feat. Pouya)](https://musicbrainz.org/recording/618702e0-222c-4761-a585-3b89cd3c3528) by $uicideboy$
+- [I LOVE YOU SO - YUNG KAGE x ISAACWHY x YUMI](#) by Softwilly Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
