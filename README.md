@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [Viva 6S](https://anzenkodo.github.io/notes/programming/android/viva-6s.html)
+- [Final](https://anzenkodo.github.io/notes/programming/android/final.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
+- [Viva 6S sort](https://anzenkodo.github.io/notes/programming/android/viva-6s-sort.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Nightcore - Cheap Thrills](#) by Evercore
-- [Mi Mi Mi](https://musicbrainz.org/recording/49cd75e8-f511-4f6e-ac7f-a79bd541a59e) by SEREBRO
-- [Living On](#) by Or3o
+- [Build Our Machine](https://musicbrainz.org/recording/6ceba65c-e69e-4250-86e9-26444f62d695) by Dagames
+- [To the Bone](#) by J.T. Machinima
+- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n & Baasik
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
