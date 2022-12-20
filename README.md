@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [Sample Paper 6S](https://anzenkodo.github.io/notes/programming/languages/python/sample-paper-6s.html)
+- [UT1 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut1-6s.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/python/ut2-6s.html)
+- [Finals](https://anzenkodo.github.io/notes/programming/languages/python/finals.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [$Outh $Ide $Uicide (feat. Pouya)](https://musicbrainz.org/recording/618702e0-222c-4761-a585-3b89cd3c3528) by $uicideboy$
+- [ILY BABY - 1NONLY x SHADYMOON x VOID x LARRY](#) by Softwilly Music
 - [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
-- [Old Town Road (Official Movie) ft. Billy Ray Cyrus (feat. Billy Ray Cyrus)](#) by Lil Nas X
-- [Still Dancing](#) by Or3o
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
