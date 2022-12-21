@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [React](https://anzenkodo.github.io/notes/programming/languages/javascript/react.html)
 - [NodeJS](https://anzenkodo.github.io/notes/programming/languages/javascript/nodejs.html)
-- [Pratical Sem6](https://anzenkodo.github.io/notes/programming/languages/php/pratical-sem6.html)
-- [Final](https://anzenkodo.github.io/notes/programming/languages/php/final.html)
+- [JS](https://anzenkodo.github.io/notes/programming/languages/javascript/js.html)
+- [Browser](https://anzenkodo.github.io/notes/programming/languages/javascript/browser.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
