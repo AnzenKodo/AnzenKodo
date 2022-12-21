@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
+- [Viva 6S](https://anzenkodo.github.io/notes/programming/android/viva-6s.html)
+- [Viva 6S sort](https://anzenkodo.github.io/notes/programming/android/viva-6s-sort.html)
+- [Pratical S6](https://anzenkodo.github.io/notes/programming/android/pratical-s6.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Naruto - Sadness and Sorrow (LSB & BrøkuzBeatz Remix)](#) by Shinzu Music
-- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
-- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
+- [Bad Time Trio Nitro](#) by Nick Nitro
+- [カワキヲアメク](#) by Minami
+- [光るなら](https://musicbrainz.org/recording/86361322-8326-4a4a-af26-7ab245d2aa71) by Goose House
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
