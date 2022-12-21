@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [ILY BABY (feat. Shady Moon & Larrrycroft)](https://musicbrainz.org/recording/f5bd3796-f22e-48f2-b0ac-408b8b5565de) by Softwilly, void & 1nonly
-- [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
-- [Stay With Me](https://musicbrainz.org/recording/927e2a72-6d68-46ad-9e15-3aac42eae24b) by 1nonly
+- [Naruto - Sadness and Sorrow (LSB & BrøkuzBeatz Remix)](#) by Shinzu Music
+- [My Hero Academia - United States of Smash (Remix)](https://musicbrainz.org/recording/34d4aec0-20b2-4253-aa10-b4fb1fa1e0c7) by Rifti Beats
+- [My Hero Academia OST - You Say Run + Jet Set Run (You Say Run v2)](#) by Kiranime
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
