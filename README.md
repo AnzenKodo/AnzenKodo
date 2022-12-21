@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [ILY BABY (feat. Shady Moon & Larrrycroft)](https://musicbrainz.org/recording/f5bd3796-f22e-48f2-b0ac-408b8b5565de) by Softwilly, void & 1nonly
+- [Come Thru (feat. Shady Moon & Ciscaux)](#) by 1nonly
 - [Stay With Me](https://musicbrainz.org/recording/927e2a72-6d68-46ad-9e15-3aac42eae24b) by 1nonly
-- [$Outh $Ide $Uicide (feat. Pouya)](https://musicbrainz.org/recording/618702e0-222c-4761-a585-3b89cd3c3528) by $uicideboy$
-- [I LOVE YOU SO - YUNG KAGE x ISAACWHY x YUMI](#) by Softwilly Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
