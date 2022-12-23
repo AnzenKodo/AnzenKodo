@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [Final](https://anzenkodo.github.io/notes/programming/android/final.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
+- [Viva 6S](https://anzenkodo.github.io/notes/programming/android/viva-6s.html)
+- [Viva 6S sort](https://anzenkodo.github.io/notes/programming/android/viva-6s-sort.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Lofi Hip Hop | Artificial](#) by TSN Vibes
-- [La Câlin](https://musicbrainz.org/recording/6e07097d-8e51-4616-8568-a6d4768479fd) by Serhat Durmus
-- [La Distancia](#) by Eternal Raijin
+- [Gris, Pt. 2](https://musicbrainz.org/recording/9b3b1d57-6d93-44fa-815d-81da0267810a) by Berlinist
+- [Gris, Pt. 2](https://musicbrainz.org/recording/9b3b1d57-6d93-44fa-815d-81da0267810a) by Berlinist
+- [In Your Hands](https://musicbrainz.org/recording/79f6a754-1308-477f-9245-5cef750d9aaa) by Berlinist
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
