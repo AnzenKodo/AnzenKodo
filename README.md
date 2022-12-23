@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Final](https://anzenkodo.github.io/notes/programming/android/final.html)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
-- [Viva 6S](https://anzenkodo.github.io/notes/programming/android/viva-6s.html)
-- [Viva 6S sort](https://anzenkodo.github.io/notes/programming/android/viva-6s-sort.html)
+- [React](https://anzenkodo.github.io/notes/programming/languages/javascript/react.html)
+- [Pratical Sem6](https://anzenkodo.github.io/notes/programming/languages/php/pratical-sem6.html)
+- [Final](https://anzenkodo.github.io/notes/programming/languages/php/final.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/php/ut2-6s.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Gris, Pt. 1](https://musicbrainz.org/recording/a6bdbb2e-d385-46f9-acc7-2820522ed470) by Berlinist
+- [Neutron Stars](https://musicbrainz.org/recording/21aaebab-2725-4a50-8d4d-ac64b7af7989) by Epic Mountain
 - [Gris, Pt. 2](https://musicbrainz.org/recording/9b3b1d57-6d93-44fa-815d-81da0267810a) by Berlinist
-- [Gris, Pt. 2](https://musicbrainz.org/recording/9b3b1d57-6d93-44fa-815d-81da0267810a) by Berlinist
-- [In Your Hands](https://musicbrainz.org/recording/79f6a754-1308-477f-9245-5cef750d9aaa) by Berlinist
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
