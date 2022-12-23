@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
+- [Viva 6S](https://anzenkodo.github.io/notes/programming/android/viva-6s.html)
+- [Viva 6S sort](https://anzenkodo.github.io/notes/programming/android/viva-6s-sort.html)
+- [Pratical S6](https://anzenkodo.github.io/notes/programming/android/pratical-s6.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Might*U (from "My Hero Academia: Heroes Rising") (Piano and Rain Version)](#) by Quiet Gaze
-- [Gris, Pt. 1](https://musicbrainz.org/recording/a6bdbb2e-d385-46f9-acc7-2820522ed470) by Berlinist
-- [Neutron Stars](https://musicbrainz.org/recording/21aaebab-2725-4a50-8d4d-ac64b7af7989) by Epic Mountain
+- [Shinunoga E-Wa](#) by Fujii Kaze
+- [Genie High Rhapsody](#) by Genie High
+- [Nee Nee Nee.](#) by PinocchioP
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
