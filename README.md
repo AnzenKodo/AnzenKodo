@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/android/ut2-6s.html)
-- [Viva 6S](https://anzenkodo.github.io/notes/programming/android/viva-6s.html)
-- [Viva 6S sort](https://anzenkodo.github.io/notes/programming/android/viva-6s-sort.html)
-- [Pratical S6](https://anzenkodo.github.io/notes/programming/android/pratical-s6.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Shinunoga E-Wa](#) by Fujii Kaze
-- [Genie High Rhapsody](#) by Genie High
-- [Nee Nee Nee.](#) by PinocchioP
+- [Losstime](#) by Creepy Nuts
+- [Sing The Moon](#) by Tsukuyomi
+- [1](https://musicbrainz.org/recording/1d7e20c8-d8b8-4cdb-9cd7-edf7a59334b4) by MOB CHOIR
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
