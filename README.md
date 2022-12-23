@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Underswap [Undertale AU] - "Reanimation" NITRO Remix](#) by Nick Nitro
-- [Build Our Machine](https://musicbrainz.org/recording/6ceba65c-e69e-4250-86e9-26444f62d695) by Dagames
-- [To the Bone](#) by J.T. Machinima
+- [Lofi Hip Hop | Artificial](#) by TSN Vibes
+- [La Câlin](https://musicbrainz.org/recording/6e07097d-8e51-4616-8568-a6d4768479fd) by Serhat Durmus
+- [La Distancia](#) by Eternal Raijin
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
