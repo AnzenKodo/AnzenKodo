@@ -19,7 +19,7 @@
 - **Socials:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
   <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a><!-- social:end -->
-- **Programming Languages:** <!-- languages:start -->[PHP](https://github.com/topics/PHP) / [CSS](https://github.com/topics/CSS) / [JavaScript](https://github.com/topics/JavaScript) / [Shell](https://github.com/topics/Shell) / [Python](https://github.com/topics/Python) / [Nix](https://github.com/topics/Nix) / [HTML](https://github.com/topics/HTML) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start -->[JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [Python](https://github.com/topics/Python) / [Shell](https://github.com/topics/Shell) / [Nix](https://github.com/topics/Nix) / [PHP](https://github.com/topics/PHP) / [CSS](https://github.com/topics/CSS) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
 
 ## Now
 This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Bad Time Trio Nitro](#) by Nick Nitro
-- [カワキヲアメク](#) by Minami
-- [光るなら](https://musicbrainz.org/recording/86361322-8326-4a4a-af26-7ab245d2aa71) by Goose House
+- [Underswap [Undertale AU] - "Reanimation" NITRO Remix](#) by Nick Nitro
+- [Build Our Machine](https://musicbrainz.org/recording/6ceba65c-e69e-4250-86e9-26444f62d695) by Dagames
+- [To the Bone](#) by J.T. Machinima
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
