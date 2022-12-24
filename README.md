@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/0c/90/6a/0c906acd73ab122f5a4daf2f50692630.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/cd/e7/44/cde7443d181a91918d4460eea5f5e2cf.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - [React](https://anzenkodo.github.io/notes/programming/languages/javascript/react.html)
-- [UT2 6S](https://anzenkodo.github.io/notes/programming/languages/php/ut2-6s.html)
-- [Pratical Sem6](https://anzenkodo.github.io/notes/programming/languages/php/pratical-sem6.html)
-- [Final](https://anzenkodo.github.io/notes/programming/languages/php/final.html)
+- [NodeJS](https://anzenkodo.github.io/notes/programming/languages/javascript/nodejs.html)
+- [JS](https://anzenkodo.github.io/notes/programming/languages/javascript/js.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
