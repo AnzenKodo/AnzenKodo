@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/e4/f9/3a/e4f93a6176401b413f3e02d7ab3de12c.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/5b/4a/67/5b4a6724514f77a7a74e3847915fc4d3.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -82,9 +82,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Losstime](#) by Creepy Nuts
-- [Sing The Moon](#) by Tsukuyomi
-- [1](https://musicbrainz.org/recording/1d7e20c8-d8b8-4cdb-9cd7-edf7a59334b4) by MOB CHOIR
+- [I Really Want to Stay at Your House](#) by Hallie Coggins & Rosa Walton
+- [Living Life, In The Night](#) by Sierra Kidd & Cheriimoya
+- [Betty Boop](#) by Mr Puth
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
