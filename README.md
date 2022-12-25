@@ -31,18 +31,18 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Should I step down as a Twitter intern? I will abide by the results of this poll. Not a joke.
+> RT by @AnzenKodo: Who you are in your head—your thoughts, desires, motivations, emotions, biases—none of it means you’re a good or bad person. All that matters is your behavior. If you have to override your natural inclinations to be a good outward person, that makes you especially admirable.
 > 
-> <a href="https://twitter.com/realGeorgeHotz/status/1604945535227420672#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/waitbutwhy/status/1453693855472275463#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
