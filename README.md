@@ -32,17 +32,22 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [React](https://anzenkodo.github.io/notes/programming/languages/javascript/react.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: elon explained it with this video https://youtu.be/y8OnoxKotPQ
+> RT by @AnzenKodo: Are you concerned about the way social media is impacting society? (You should be)
 > 
-> <a href="https://twitter.com/BillyM2k/status/1606445733930041346#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> My new report explores "Bridging-Based Ranking"—a way to overcome the incentives for the division that destabilizes democracies.
+> 
+> 🧵Here's what you need to know ⤵️
+> https://www.belfercenter.org/publication/bridging-based-ranking
+> 
+> <a href="https://twitter.com/metaviv/status/1529879799862378497#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
