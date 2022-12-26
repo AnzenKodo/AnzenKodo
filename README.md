@@ -19,7 +19,7 @@
 - **Socials:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
   <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a><!-- social:end -->
-- **Programming Languages:** <!-- languages:start -->[JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [Python](https://github.com/topics/Python) / [Shell](https://github.com/topics/Shell) / [Nix](https://github.com/topics/Nix) / [PHP](https://github.com/topics/PHP) / [CSS](https://github.com/topics/CSS) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start -->[PHP](https://github.com/topics/PHP) / [CSS](https://github.com/topics/CSS) / [JavaScript](https://github.com/topics/JavaScript) / [Shell](https://github.com/topics/Shell) / [Python](https://github.com/topics/Python) / [HTML](https://github.com/topics/HTML) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
 
 ## Now
 This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [React](https://anzenkodo.github.io/notes/programming/languages/javascript/react.html)
-- [NodeJS](https://anzenkodo.github.io/notes/programming/languages/javascript/nodejs.html)
-- [JS](https://anzenkodo.github.io/notes/programming/languages/javascript/js.html)
-- [Browser](https://anzenkodo.github.io/notes/programming/languages/javascript/browser.html)
+- [Question Bank](https://anzenkodo.github.io/notes/programming/database/er-diagram/question-bank.html)
+- [ER Diagram](https://anzenkodo.github.io/notes/programming/database/er-diagram/)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [I Really Want to Stay at Your House](#) by Hallie Coggins & Rosa Walton
-- [Living Life, In The Night](#) by Sierra Kidd & Cheriimoya
-- [Betty Boop](#) by Mr Puth
+- [WIN (Korean Version)](https://musicbrainz.org/recording/a45d4fda-b38a-41f3-8f7b-d08fb25f6584) by CIX
+- [Tower of Flower](#) by SAYURI
+- [QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）](#) by QUEENDOM
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
