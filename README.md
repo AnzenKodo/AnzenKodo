@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [WIN (Korean Version)](https://musicbrainz.org/recording/a45d4fda-b38a-41f3-8f7b-d08fb25f6584) by CIX
-- [Tower of Flower](#) by SAYURI
-- [QUEENDOM / チキチキバンバン（TVアニメ「パリピ孔明」スペシャルMV）](#) by QUEENDOM
+- [Japanese Spring](https://musicbrainz.org/recording/28767eb3-63a9-4adb-bad3-fe47469e5c01) by Vindu
+- [Rainy](#) by Cosmonkey
+- [Autumn Morning](https://musicbrainz.org/recording/634e49d9-aab6-4488-b459-5d6d6f9a241f) by softy
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
