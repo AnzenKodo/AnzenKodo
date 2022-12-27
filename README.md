@@ -34,7 +34,7 @@ out: "What I been up to?".
 - [Question Bank](https://anzenkodo.github.io/notes/programming/database/er-diagram/question-bank.html)
 - [ER Diagram](https://anzenkodo.github.io/notes/programming/database/er-diagram/)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
