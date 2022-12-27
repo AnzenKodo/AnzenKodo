@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [ER Diagram](https://anzenkodo.github.io/notes/programming/database/er-diagram/)
-- [Question Bank](https://anzenkodo.github.io/notes/programming/database/er-diagram/question-bank.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
+- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
+- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
+- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -52,7 +52,12 @@ out: "What I been up to?".
 
 ### What I have been working on:
 <!-- working:start -->
-- Make Math project for learning math.
+ - AK#Notes
+  - Fix Image
+  - Remove NavBar
+  - Use index.md as file navigation
+  - Remove unused CSS
+  - Fix RSS Date
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
@@ -87,9 +92,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Autumn Morning](https://musicbrainz.org/recording/634e49d9-aab6-4488-b459-5d6d6f9a241f) by softy
 - [Countdown to Zero](https://musicbrainz.org/recording/ba6fde7b-d847-49f2-837e-53c6f4ed2fdb) by Team Astro
 - [Velocities](https://musicbrainz.org/recording/7d6b7b35-6356-4162-a117-caf667f7ac71) by Sleepy Fish
+- [Awake](https://musicbrainz.org/recording/bde03924-35f6-45d1-b475-1cddc79b61cf) by allem iversom
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
