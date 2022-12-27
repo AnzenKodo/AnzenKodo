@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Question Bank](https://anzenkodo.github.io/notes/programming/database/er-diagram/question-bank.html)
 - [ER Diagram](https://anzenkodo.github.io/notes/programming/database/er-diagram/)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Japanese Spring](https://musicbrainz.org/recording/28767eb3-63a9-4adb-bad3-fe47469e5c01) by Vindu
-- [Rainy](#) by Cosmonkey
 - [Autumn Morning](https://musicbrainz.org/recording/634e49d9-aab6-4488-b459-5d6d6f9a241f) by softy
+- [Countdown to Zero](https://musicbrainz.org/recording/ba6fde7b-d847-49f2-837e-53c6f4ed2fdb) by Team Astro
+- [Velocities](https://musicbrainz.org/recording/7d6b7b35-6356-4162-a117-caf667f7ac71) by Sleepy Fish
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
