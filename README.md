@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [morning rises](#) by Philanthrope, Sleepy Fish & Mommy
+- [Love & Sorrow](#) by Rude.
 - [Wannabe (Sped Up Version)](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
-- [Betty Boop](#) by Mr Puth
-- [POP/STARS (feat. (G)I-DLE, Madison Beer, Jaira Burns & League of Legends)](https://musicbrainz.org/recording/aab79f39-1413-4f97-8967-bb003f12142f) by K/DA
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
