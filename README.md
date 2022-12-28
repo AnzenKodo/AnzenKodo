@@ -31,23 +31,18 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [range](https://anzenkodo.github.io/notes/books/range.html)
+- [enlightenment now](https://anzenkodo.github.io/notes/books/enlightenment-now.html)
+- [newspaper blackout](https://anzenkodo.github.io/notes/books/newspaper-blackout.html)
+- [hell yeah or no](https://anzenkodo.github.io/notes/books/hell-yeah-or-no.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Are you concerned about the way social media is impacting society? (You should be)
+> RT by @AnzenKodo: golang vs rust
 > 
-> My new report explores "Bridging-Based Ranking"—a way to overcome the incentives for the division that destabilizes democracies.
-> 
-> 🧵Here's what you need to know ⤵️
-> https://www.belfercenter.org/publication/bridging-based-ranking
-> 
-> <a href="https://twitter.com/metaviv/status/1529879799862378497#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/xah_lee/status/1607839696587231232#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
