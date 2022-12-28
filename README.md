@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [don't be shy](https://musicbrainz.org/recording/f891ed39-1755-4332-81e9-9fd7f9131dd5) by Sensi Sye
-- [All My Life](#) by Brenk Sinatra
-- [Aftermath](#) by Beamer
+- [Betty Boop](#) by Mr Puth
+- [POP/STARS (feat. (G)I-DLE, Madison Beer, Jaira Burns & League of Legends)](https://musicbrainz.org/recording/aab79f39-1413-4f97-8967-bb003f12142f) by K/DA
+- [Cure For Me](https://musicbrainz.org/recording/a7e41801-db75-473c-91a1-4f2aad535f91) by AURORA
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
