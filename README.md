@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [range](https://anzenkodo.github.io/notes/books/range.html)
-- [enlightenment now](https://anzenkodo.github.io/notes/books/enlightenment-now.html)
-- [newspaper blackout](https://anzenkodo.github.io/notes/books/newspaper-blackout.html)
-- [hell yeah or no](https://anzenkodo.github.io/notes/books/hell-yeah-or-no.html)
+- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
+- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [your first year in code](https://anzenkodo.github.io/notes/books/your-first-year-in-code.html)
+- [originals](https://anzenkodo.github.io/notes/books/originals.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Countdown to Zero](https://musicbrainz.org/recording/ba6fde7b-d847-49f2-837e-53c6f4ed2fdb) by Team Astro
-- [Velocities](https://musicbrainz.org/recording/7d6b7b35-6356-4162-a117-caf667f7ac71) by Sleepy Fish
-- [Awake](https://musicbrainz.org/recording/bde03924-35f6-45d1-b475-1cddc79b61cf) by allem iversom
+- [why dont we](#) by sans
+- [Opiate](https://musicbrainz.org/recording/7099e5dd-4801-47e3-b211-cf4977286276) by Evil Needle
+- [Kyushu](#) by Mrs. Evergreen
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
