@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
 - [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
+- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
 - [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
-- [your first year in code](https://anzenkodo.github.io/notes/books/your-first-year-in-code.html)
-- [originals](https://anzenkodo.github.io/notes/books/originals.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [why dont we](#) by sans
-- [Opiate](https://musicbrainz.org/recording/7099e5dd-4801-47e3-b211-cf4977286276) by Evil Needle
-- [Kyushu](#) by Mrs. Evergreen
+- [don't be shy](https://musicbrainz.org/recording/f891ed39-1755-4332-81e9-9fd7f9131dd5) by Sensi Sye
+- [All My Life](#) by Brenk Sinatra
+- [Aftermath](#) by Beamer
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
