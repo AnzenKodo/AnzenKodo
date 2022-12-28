@@ -31,9 +31,9 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
+- [range](https://anzenkodo.github.io/notes/books/range.html)
+- [originals](https://anzenkodo.github.io/notes/books/originals.html)
+- [give and take](https://anzenkodo.github.io/notes/books/give-and-take.html)
 - [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
