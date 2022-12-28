@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [self discipline](https://anzenkodo.github.io/notes/books/self-discipline.html)
+- [steal like an artist](https://anzenkodo.github.io/notes/books/steal-like-an-artist.html)
 - [an open lette to open minded progressives](https://anzenkodo.github.io/notes/books/an-open-lette-to-open-minded-progressives.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [give and take](https://anzenkodo.github.io/notes/books/give-and-take.html)
+- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Unholy](https://musicbrainz.org/recording/1a774967-444d-42de-aa65-b6160d1205e4) by Sam Smith & Kim Petras
-- [Awake](https://musicbrainz.org/recording/bde03924-35f6-45d1-b475-1cddc79b61cf) by Allem Iversom
-- [Coffee Break](https://musicbrainz.org/recording/3c002897-4d15-4f71-bc58-7e9f0f3fd951) by Ruck P
+- [The Imposter](#) by Yung Nugget
+- [Bunny Girl](https://musicbrainz.org/recording/885a401d-bf90-4014-a90a-0c9c178132d0) by 1nonly
+- [Always Saucy](https://musicbrainz.org/recording/f604f7da-17c3-478b-ae3a-21934ecb6689) by Yung Gravy
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
