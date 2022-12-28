@@ -31,9 +31,9 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
+- [self discipline](https://anzenkodo.github.io/notes/books/self-discipline.html)
+- [an open lette to open minded progressives](https://anzenkodo.github.io/notes/books/an-open-lette-to-open-minded-progressives.html)
 - [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
 - [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [morning rises](#) by Philanthrope, Sleepy Fish & Mommy
-- [Love & Sorrow](#) by Rude.
-- [Wannabe (Sped Up Version)](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
+- [Unholy](https://musicbrainz.org/recording/1a774967-444d-42de-aa65-b6160d1205e4) by Sam Smith & Kim Petras
+- [Awake](https://musicbrainz.org/recording/bde03924-35f6-45d1-b475-1cddc79b61cf) by Allem Iversom
+- [Coffee Break](https://musicbrainz.org/recording/3c002897-4d15-4f71-bc58-7e9f0f3fd951) by Ruck P
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
