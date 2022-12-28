@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
-- [enlightenment now](https://anzenkodo.github.io/notes/books/enlightenment-now.html)
-- [originals](https://anzenkodo.github.io/notes/books/originals.html)
+- [your first year in code](https://anzenkodo.github.io/notes/books/your-first-year-in-code.html)
+- [12 rules of life](https://anzenkodo.github.io/notes/books/12-rules-of-life.html)
+- [steal like an artist](https://anzenkodo.github.io/notes/books/steal-like-an-artist.html)
+- [keep going](https://anzenkodo.github.io/notes/books/keep-going.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
