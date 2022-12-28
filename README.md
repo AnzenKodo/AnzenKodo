@@ -34,7 +34,7 @@ out: "What I been up to?".
 - [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
 - [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
 - [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [your first year in code](https://anzenkodo.github.io/notes/books/your-first-year-in-code.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Wannabe (Sped Up Version)](https://musicbrainz.org/recording/15496e5e-e7e6-48eb-8a51-5206ebb89854) by why mona
 - [Betty Boop](#) by Mr Puth
 - [POP/STARS (feat. (G)I-DLE, Madison Beer, Jaira Burns & League of Legends)](https://musicbrainz.org/recording/aab79f39-1413-4f97-8967-bb003f12142f) by K/DA
-- [Cure For Me](https://musicbrainz.org/recording/a7e41801-db75-473c-91a1-4f2aad535f91) by AURORA
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
