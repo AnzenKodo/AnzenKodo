@@ -34,15 +34,17 @@ out: "What I been up to?".
 - [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
 - [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
 - [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [your first year in code](https://anzenkodo.github.io/notes/books/your-first-year-in-code.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: golang vs rust
+> RT by @AnzenKodo: Today's #AIart prompt keyword is... DUOTONE. Fewer colours (if not always two!) for a more minimalist look...
 > 
-> <a href="https://twitter.com/xah_lee/status/1607839696587231232#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> made in midjourney v4 / prompts in alt / grids in next tweet 👇
+> 
+> <a href="https://twitter.com/GuyP/status/1608053930881175552#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
