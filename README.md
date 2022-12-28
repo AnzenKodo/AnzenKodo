@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/d6/15/2f/d6152f3587d3f05b6477f5749a987aa1.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/29/35/c3/2935c3356c33b22a1f86c59944b88b37.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -31,20 +31,18 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [self discipline](https://anzenkodo.github.io/notes/books/self-discipline.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
 - [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
+- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
+- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
+- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Today's #AIart prompt keyword is... DUOTONE. Fewer colours (if not always two!) for a more minimalist look...
+> RT by @AnzenKodo: New Twitter policy is to follow the science, which necessarily includes reasoned questioning of the science
 > 
-> made in midjourney v4 / prompts in alt / grids in next tweet 👇
-> 
-> <a href="https://twitter.com/GuyP/status/1608053930881175552#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/elonmusk/status/1608175680407191552#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
