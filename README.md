@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/29/35/c3/2935c3356c33b22a1f86c59944b88b37.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/ea/75/bf/ea75bf61e04b474cef1a19264fa6b251.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
+- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
 - [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
 - [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
-- [range](https://anzenkodo.github.io/notes/books/range.html)
-- [newspaper blackout](https://anzenkodo.github.io/notes/books/newspaper-blackout.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
