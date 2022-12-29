@@ -34,7 +34,7 @@ out: "What I been up to?".
 - [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
 - [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
 - [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [your first year in code](https://anzenkodo.github.io/notes/books/your-first-year-in-code.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
