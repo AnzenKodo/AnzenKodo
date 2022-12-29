@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Trap Paganini](#) by Codec
+- [Noot Noot Theme Mozart Lacrimosa (Epic Version)](#) by Carameii
 - [The Imposter](#) by Yung Nugget
-- [Bunny Girl](https://musicbrainz.org/recording/885a401d-bf90-4014-a90a-0c9c178132d0) by 1nonly
-- [Always Saucy](https://musicbrainz.org/recording/f604f7da-17c3-478b-ae3a-21934ecb6689) by Yung Gravy
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
