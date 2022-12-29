@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Last Chance](#) by Shotgun Willy
+- [Press Start](https://musicbrainz.org/recording/6e3aec1a-2d7d-48a7-ba3d-1735baf91dfb) by MDK
 - [Trap Bach](#) by Codec
-- [Trap Paganini](#) by Codec
-- [Noot Noot Theme Mozart Lacrimosa (Epic Version)](#) by Carameii
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
