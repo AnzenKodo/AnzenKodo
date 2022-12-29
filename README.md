@@ -32,9 +32,9 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [range](https://anzenkodo.github.io/notes/books/range.html)
-- [hell yeah or no](https://anzenkodo.github.io/notes/books/hell-yeah-or-no.html)
 - [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
+- [12 rules of life](https://anzenkodo.github.io/notes/books/12-rules-of-life.html)
+- [steal like an artist](https://anzenkodo.github.io/notes/books/steal-like-an-artist.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
