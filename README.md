@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [enlightenment now](https://anzenkodo.github.io/notes/books/enlightenment-now.html)
+- [12 rules of life](https://anzenkodo.github.io/notes/books/12-rules-of-life.html)
+- [self discipline](https://anzenkodo.github.io/notes/books/self-discipline.html)
+- [steal like an artist](https://anzenkodo.github.io/notes/books/steal-like-an-artist.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Last Chance](#) by Shotgun Willy
-- [Press Start](https://musicbrainz.org/recording/6e3aec1a-2d7d-48a7-ba3d-1735baf91dfb) by MDK
-- [Trap Bach](#) by Codec
+- [Nonchalant (feat. Hiroshi Suzuki)](#) by Dire Beats
+- [Rainbow Roll](https://musicbrainz.org/recording/363d1d0f-ccd6-43c1-a11a-e7fe8696c806) by Strehlow
+- [grainy days](#) by Moody.
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
