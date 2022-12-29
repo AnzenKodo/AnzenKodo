@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Hikaru Nara but is it okay if it's lofi?](#) by Kijugo
 - [Lalala](#) by TSN Vibes
-- [Might*U (from "My Hero Academia: Heroes Rising") (Piano and Rain Version)](#) by Quiet Gaze
-- [[SOLD] aesthetic rap AV, 1nonly, yung kage, city pop sample type beat - lone](#) by skisim
+- [Lalala](#) by TSN Vibes
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
