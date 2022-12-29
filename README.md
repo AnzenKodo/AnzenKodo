@@ -31,9 +31,9 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
+- [your first year in code](https://anzenkodo.github.io/notes/books/your-first-year-in-code.html)
+- [steal like an artist](https://anzenkodo.github.io/notes/books/steal-like-an-artist.html)
+- [hell yeah or no](https://anzenkodo.github.io/notes/books/hell-yeah-or-no.html)
 - [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
