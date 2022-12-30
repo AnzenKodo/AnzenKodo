@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Cheat Codes for Hoes](#) by Shotgun Willy & TRAQULA
+- [The Imposter](#) by Yung Nugget
 - [Bad Time Trio Nitro](#) by Nick Nitro
-- [Asgore (Undertale Remix)](#) by GameChops & dj-Jo
-- [100 Years](#) by Or3o
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
