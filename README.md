@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
+- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
 - [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
 - [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
-- [range](https://anzenkodo.github.io/notes/books/range.html)
-- [newspaper blackout](https://anzenkodo.github.io/notes/books/newspaper-blackout.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Cheat Codes for Hoes](#) by Shotgun Willy & TRAQULA
-- [The Imposter](#) by Yung Nugget
-- [Bad Time Trio Nitro](#) by Nick Nitro
+- [Naruto Shippuden - Tragic (Anigam3 Remix) [SM Release]](#) by Shinzu Music
+- [Naruto - Sadness and Sorrow (LSB & BrøkuzBeatz Remix)](#) by Shinzu Music
+- [Naruto Shippuden - Man of the World (Odece Trap Remix)](#) by Shinzu Music
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
