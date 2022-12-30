@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [12 rules of life](https://anzenkodo.github.io/notes/books/12-rules-of-life.html)
+- [self discipline](https://anzenkodo.github.io/notes/books/self-discipline.html)
+- [newspaper blackout](https://anzenkodo.github.io/notes/books/newspaper-blackout.html)
+- [originals](https://anzenkodo.github.io/notes/books/originals.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Heaven 2 Hell (feat. Elsie Lovelock & Elsie Lovelock)](#) by Black Gryph0n & Baasik
-- [Press Start](https://musicbrainz.org/recording/6e3aec1a-2d7d-48a7-ba3d-1735baf91dfb) by MDK
-- [Shamisen Hunter](#) by Satxri
+- [Trap Paganini](#) by Codec
+- [Noot Noot Theme Mozart Lacrimosa (Epic Version)](#) by Carameii
+- [The Imposter](#) by Yung Nugget
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
