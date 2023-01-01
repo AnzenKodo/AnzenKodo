@@ -32,9 +32,9 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [When the Sun Goes Down](https://musicbrainz.org/recording/873029be-6fd7-4f4f-9700-92df4187a921) by brillion.
-- [Love & Sorrow](#) by Rude.
-- [Mellow Out](https://musicbrainz.org/recording/a5a843c2-9678-4903-a266-a9f4059b7a7e) by Engelwood
+- [Requiem](https://musicbrainz.org/recording/cc792ab5-a22f-454f-8bec-3ccbd66fac49) by Aso
+- [Autumn Morning](https://musicbrainz.org/recording/634e49d9-aab6-4488-b459-5d6d6f9a241f) by Softy
+- [Awake](https://musicbrainz.org/recording/bde03924-35f6-45d1-b475-1cddc79b61cf) by allem iversom
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
