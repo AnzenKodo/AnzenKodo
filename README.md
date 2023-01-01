@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Requiem](https://musicbrainz.org/recording/cc792ab5-a22f-454f-8bec-3ccbd66fac49) by Aso
-- [Autumn Morning](https://musicbrainz.org/recording/634e49d9-aab6-4488-b459-5d6d6f9a241f) by Softy
-- [Awake](https://musicbrainz.org/recording/bde03924-35f6-45d1-b475-1cddc79b61cf) by allem iversom
+- [Thermal Baths](https://musicbrainz.org/recording/57594788-9b80-46d3-b01b-e09054f1f720) by Yasumu
+- [Whale Call](https://musicbrainz.org/recording/88cf31f7-997c-4315-9825-59143d605f40) by Saib
+- [Cradle](https://musicbrainz.org/recording/a7d9373a-e232-45c9-9b94-120958d9e2ec) by brillion.
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
