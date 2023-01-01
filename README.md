@@ -32,9 +32,9 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Floating Ghosts](https://musicbrainz.org/recording/77060023-dd71-4dc6-930c-911ceafe9c87) by Kalaido
 - [Over The Moon](https://musicbrainz.org/recording/becda385-5e8b-4a38-82e9-2469baf2cee8) by Team Astro
 - [We Met](https://musicbrainz.org/recording/e1b97c87-4e40-48e3-af89-c910360f0f31) by Yasumu
-- [What If It All Turned out Fine](https://musicbrainz.org/recording/22bd927f-328e-4d5d-a058-4dd99ffe863f) by Jhove
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
