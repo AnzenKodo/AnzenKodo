@@ -32,8 +32,8 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Thermal Baths](https://musicbrainz.org/recording/57594788-9b80-46d3-b01b-e09054f1f720) by Yasumu
-- [Whale Call](https://musicbrainz.org/recording/88cf31f7-997c-4315-9825-59143d605f40) by Saib
-- [Cradle](https://musicbrainz.org/recording/a7d9373a-e232-45c9-9b94-120958d9e2ec) by brillion.
+- [What If It All Turned out Fine](https://musicbrainz.org/recording/22bd927f-328e-4d5d-a058-4dd99ffe863f) by Jhove
+- [Eternal Youth](https://musicbrainz.org/recording/923bff86-8cad-4c22-84ec-a9c5a0efe91f) by Rude.
+- [Sleeping In (feat. harris Cole)](https://musicbrainz.org/recording/9d6e41b3-2922-4376-b928-5d6a2d0acbc4) by Aso
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
