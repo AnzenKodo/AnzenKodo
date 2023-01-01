@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/ea/75/bf/ea75bf61e04b474cef1a19264fa6b251.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/08/90/0d/08900d849f64f483e9abd5af34b699bc.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -31,18 +31,18 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [anything you want](https://anzenkodo.github.io/notes/books/anything-you-want.html)
-- [your music and people](https://anzenkodo.github.io/notes/books/your-music-and-people.html)
-- [show your work](https://anzenkodo.github.io/notes/books/show-your-work.html)
-- [personal values](https://anzenkodo.github.io/notes/books/personal-values.html)
+- [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: npm install heat
+> RT by @AnzenKodo: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 > 
-> <a href="https://twitter.com/deno_land/status/1608516116003061760#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/year_progress/status/1609338630048256006#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Naruto Shippuden - Tragic (Anigam3 Remix) [SM Release]](#) by Shinzu Music
-- [Naruto - Sadness and Sorrow (LSB & BrøkuzBeatz Remix)](#) by Shinzu Music
-- [Naruto Shippuden - Man of the World (Odece Trap Remix)](#) by Shinzu Music
+- [Mellow Out](https://musicbrainz.org/recording/a5a843c2-9678-4903-a266-a9f4059b7a7e) by Engelwood
+- [Jazz Intro](#) by Aso
+- [Wander.](https://musicbrainz.org/recording/a3017482-725f-4d44-a128-ce144c70a76a) by JinSang
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
