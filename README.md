@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Over The Moon](https://musicbrainz.org/recording/becda385-5e8b-4a38-82e9-2469baf2cee8) by Team Astro
+- [We Met](https://musicbrainz.org/recording/e1b97c87-4e40-48e3-af89-c910360f0f31) by Yasumu
 - [What If It All Turned out Fine](https://musicbrainz.org/recording/22bd927f-328e-4d5d-a058-4dd99ffe863f) by Jhove
-- [Eternal Youth](https://musicbrainz.org/recording/923bff86-8cad-4c22-84ec-a9c5a0efe91f) by Rude.
-- [Sleeping In (feat. harris Cole)](https://musicbrainz.org/recording/9d6e41b3-2922-4376-b928-5d6a2d0acbc4) by Aso
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
