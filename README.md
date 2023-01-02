@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Floating Ghosts](https://musicbrainz.org/recording/77060023-dd71-4dc6-930c-911ceafe9c87) by Kalaido
-- [Over The Moon](https://musicbrainz.org/recording/becda385-5e8b-4a38-82e9-2469baf2cee8) by Team Astro
 - [We Met](https://musicbrainz.org/recording/e1b97c87-4e40-48e3-af89-c910360f0f31) by Yasumu
+- [thinking of you (feat. Kyle McEvoy)](https://musicbrainz.org/recording/4a861892-53d5-47b9-8d57-fa4048c4e640) by Mommy, Philanthrope
+- [Skydive](https://musicbrainz.org/recording/3ac03444-5d14-4269-9067-1a5ae1888b6d) by j'san., Epektase
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
