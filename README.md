@@ -40,9 +40,9 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Collapse doesn’t just lead magically to the new thing. In fact, the new thing needs to be built before the collapse.
+> RT by @AnzenKodo: Question for Electron js dev: what exactly it can do that js in browser cannot, in terms of privacy invasion? thank you.
 > 
-> <a href="https://twitter.com/balajis/status/1608274116787961857#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/xah_lee/status/1610331593427800064#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
