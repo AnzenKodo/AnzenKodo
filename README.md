@@ -88,9 +88,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [We Met](https://musicbrainz.org/recording/e1b97c87-4e40-48e3-af89-c910360f0f31) by Yasumu
-- [thinking of you (feat. Kyle McEvoy)](https://musicbrainz.org/recording/4a861892-53d5-47b9-8d57-fa4048c4e640) by Mommy, Philanthrope
-- [Skydive](https://musicbrainz.org/recording/3ac03444-5d14-4269-9067-1a5ae1888b6d) by j'san., Epektase
+- [First Snow](#) by Kerusu
+- [West Lake](https://musicbrainz.org/recording/c68d6144-f4ff-41b4-a830-f2fcdf49d3c2) by Saib
+- [Fallen Youth](#) by Rude.
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
