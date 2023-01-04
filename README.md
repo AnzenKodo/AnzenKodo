@@ -32,9 +32,9 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -88,9 +88,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [First Snow](#) by Kerusu
-- [West Lake](https://musicbrainz.org/recording/c68d6144-f4ff-41b4-a830-f2fcdf49d3c2) by Saib
-- [Fallen Youth](#) by Rude.
+- [Palette](#) by City Girl
+- [First Date](https://musicbrainz.org/recording/807e3120-461c-40f2-8139-6e4ff1c8581f) by FRAD
+- [lockdown](#) by 53 Thieves
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
