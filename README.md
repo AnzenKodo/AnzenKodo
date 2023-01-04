@@ -32,17 +32,18 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Question for Electron js dev: what exactly it can do that js in browser cannot, in terms of privacy invasion? thank you.
+> RT by @AnzenKodo: “The problem in this business isn’t to keep people from stealing your ideas; it's making them steal your ideas!”
+> - Howard Aiken
 > 
-> <a href="https://twitter.com/xah_lee/status/1610331593427800064#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/engineers_feed/status/1610280987669274625#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
