@@ -40,10 +40,9 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: “The problem in this business isn’t to keep people from stealing your ideas; it's making them steal your ideas!”
-> - Howard Aiken
+> RT by @AnzenKodo: Writing code for is not very fun for its own sake. What makes it insanely addictive is the feeling upon shipping — that actual people are doing something useful with what started as a figment of your imagination. Never gets old.
 > 
-> <a href="https://twitter.com/engineers_feed/status/1610280987669274625#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/gdb/status/1611040711788605440#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
