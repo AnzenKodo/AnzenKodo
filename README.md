@@ -32,8 +32,8 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
-- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
