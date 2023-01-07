@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/35/a7/9c/35a79c4985bbc32c146fe226eba07c2e.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/32/f2/e5/32f2e5a9b8567717619bba03501b6af9.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -32,9 +32,9 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
-- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
+- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
+- [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
