@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/f7/e0/31/f7e031491cc390c181871fd430013b0e.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/b6/5a/71/b65a7129e0f521873e47cf20aed5dc28.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -19,7 +19,7 @@
 - **Socials:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
   <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a><!-- social:end -->
-- **Programming Languages:** <!-- languages:start -->[PHP](https://github.com/topics/PHP) / [CSS](https://github.com/topics/CSS) / [JavaScript](https://github.com/topics/JavaScript) / [Shell](https://github.com/topics/Shell) / [Python](https://github.com/topics/Python) / [HTML](https://github.com/topics/HTML) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start -->[Java](https://github.com/topics/Java) / [HTML](https://github.com/topics/HTML) / [JavaScript](https://github.com/topics/JavaScript) / [CSS](https://github.com/topics/CSS) / [PHP](https://github.com/topics/PHP) / [Shell](https://github.com/topics/Shell) / [Python](https://github.com/topics/Python) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
 
 ## Now
 This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/programming/computer-paradigms.html)
 - [C](https://anzenkodo.github.io/notes/programming/languages/c.html)
-- [Bash](https://anzenkodo.github.io/notes/programming/languages/bash.html)
 - [CSS](https://anzenkodo.github.io/notes/programming/languages/css.html)
+- [Java](https://anzenkodo.github.io/notes/programming/languages/java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
