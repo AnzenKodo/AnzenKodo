@@ -32,7 +32,7 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/Programming/Computer-Paradigms.html)
-- [Java](https://anzenkodo.github.io/notes/Programming/Languages/Java.html)
+- [CSS](https://anzenkodo.github.io/notes/Programming/Languages/CSS.html)
 - [C](https://anzenkodo.github.io/notes/Programming/Languages/C.html)
 - [Bash](https://anzenkodo.github.io/notes/Programming/Languages/Bash.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
@@ -40,9 +40,14 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Bill Burr on @elonmusk and Tesla $TSLA
+> The way of water has no beginning, and no end.
 > 
-> <a href="https://twitter.com/WholeMarsBlog/status/1611513323069255680#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> The sea is your home before your birth and after your death.
+> 
+> Killing, no matter how justified, brings more killing.
+>  https://thevikidtruth.substack.com/p/avatar-the-way-of-water
+> 
+> <a href="https://twitter.com/AnzenKodo/status/1612284116724244480#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
