@@ -34,7 +34,7 @@ out: "What I been up to?".
 - [Computer Paradigms](https://anzenkodo.github.io/notes/Programming/Computer-Paradigms.html)
 - [C](https://anzenkodo.github.io/notes/Programming/Languages/C.html)
 - [Bash](https://anzenkodo.github.io/notes/Programming/Languages/Bash.html)
-- [CSS](https://anzenkodo.github.io/notes/Programming/Languages/CSS.html)
+- [Java](https://anzenkodo.github.io/notes/Programming/Languages/Java.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
