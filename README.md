@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/Programming/Computer-Paradigms.html)
 - [Java](https://anzenkodo.github.io/notes/Programming/Languages/Java.html)
-- [C](https://anzenkodo.github.io/notes/Programming/Languages/C.html)
 - [Bash](https://anzenkodo.github.io/notes/Programming/Languages/Bash.html)
+- [C](https://anzenkodo.github.io/notes/Programming/Languages/C.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
