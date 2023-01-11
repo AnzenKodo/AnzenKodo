@@ -32,17 +32,17 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/Programming/Computer-Paradigms.html)
-- [Bash](https://anzenkodo.github.io/notes/Programming/Languages/Bash.html)
 - [C](https://anzenkodo.github.io/notes/Programming/Languages/C.html)
+- [Bash](https://anzenkodo.github.io/notes/Programming/Languages/Bash.html)
 - [CSS](https://anzenkodo.github.io/notes/Programming/Languages/CSS.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> They believe their principles not even because they are useful, but because they were once useful.
+> RT by @AnzenKodo: if you agree 100% with some political party, you’re not being rational - that’s a religion
 > 
-> <a href="https://twitter.com/AnzenKodo/status/1613258296298991616#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/BillyM2k/status/1613251750101921792#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
