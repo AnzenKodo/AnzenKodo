@@ -32,22 +32,17 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Computer Paradigms](https://anzenkodo.github.io/notes/Programming/Computer-Paradigms.html)
-- [Java](https://anzenkodo.github.io/notes/Programming/Languages/Java.html)
 - [C](https://anzenkodo.github.io/notes/Programming/Languages/C.html)
 - [Bash](https://anzenkodo.github.io/notes/Programming/Languages/Bash.html)
+- [CSS](https://anzenkodo.github.io/notes/Programming/Languages/CSS.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> The way of water has no beginning, and no end.
+> RT by @AnzenKodo: Paraphrased (by me) from Russian:
 > 
-> The sea is your home before your birth and after your death.
-> 
-> Killing, no matter how justified, brings more killing.
->  https://thevikidtruth.substack.com/p/avatar-the-way-of-water
-> 
-> <a href="https://twitter.com/AnzenKodo/status/1612284116724244480#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/mysteriouskat/status/1475372142652841991#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
