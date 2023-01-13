@@ -87,9 +87,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Move!](#) by 1NONLY
+- [Bunny Girl](https://musicbrainz.org/recording/885a401d-bf90-4014-a90a-0c9c178132d0) by 1NONLY
 - [endure pain](#) by Samashi
-- [Moon Angels](#) by "RŮDE
-- [Close My Eyes](#) by WYS
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
