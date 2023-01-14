@@ -31,18 +31,20 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Range](https://anzenkodo.github.io/notes/Books/Range.html)
-- [Self Discipline](https://anzenkodo.github.io/notes/Books/Self-Discipline.html)
-- [Give and Take](https://anzenkodo.github.io/notes/Books/Give-and-Take.html)
+- [12 Rules of Life](https://anzenkodo.github.io/notes/Books/12-Rules-of-Life.html)
+- [Enlightenment Now](https://anzenkodo.github.io/notes/Books/Enlightenment-Now.html)
+- [Hell Yeah or No](https://anzenkodo.github.io/notes/Books/Hell-Yeah-or-No.html)
 - [Anything You Want](https://anzenkodo.github.io/notes/Books/Anything-You-Want.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: if you agree 100% with some political party, you’re not being rational - that’s a religion
+> All modern programmers need to hear this:
 > 
-> <a href="https://twitter.com/BillyM2k/status/1613251750101921792#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> Kinesis vs Ultimate Hacking Keyboard, JavaScript in Depth, webpack, unit... https://youtu.be/cCVQPTFwF-w via @YouTube
+> 
+> <a href="https://twitter.com/AnzenKodo/status/1614181514513879040#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
