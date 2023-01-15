@@ -34,7 +34,7 @@ out: "What I been up to?".
 - [Keep Going](https://anzenkodo.github.io/notes/Books/Keep-Going.html)
 - [Self Discipline](https://anzenkodo.github.io/notes/Books/Self-Discipline.html)
 - [Your Music and People](https://anzenkodo.github.io/notes/Books/Your-Music-and-People.html)
-- [Steal Like an Artist](https://anzenkodo.github.io/notes/Books/Steal-Like-an-Artist.html)
+- [Enlightenment Now](https://anzenkodo.github.io/notes/Books/Enlightenment-Now.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
