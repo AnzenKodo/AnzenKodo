@@ -32,9 +32,9 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [12 Rules of Life](https://anzenkodo.github.io/notes/Books/12-Rules-of-Life.html)
+- [Enlightenment Now](https://anzenkodo.github.io/notes/Books/Enlightenment-Now.html)
+- [Hell Yeah or No](https://anzenkodo.github.io/notes/Books/Hell-Yeah-or-No.html)
 - [Anything You Want](https://anzenkodo.github.io/notes/Books/Anything-You-Want.html)
-- [Self Discipline](https://anzenkodo.github.io/notes/Books/Self-Discipline.html)
-- [Give and Take](https://anzenkodo.github.io/notes/Books/Give-and-Take.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -89,9 +89,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [I'm Good (Blue) [Acoustic]](https://musicbrainz.org/recording/b4631f85-50ea-4685-8f1d-81bdfef2cab0) by David Guetta, Bebe Rexha
 - [Move!](#) by 1NONLY
 - [Bunny Girl](https://musicbrainz.org/recording/885a401d-bf90-4014-a90a-0c9c178132d0) by 1NONLY
-- [endure pain](#) by Samashi
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
