@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [An Open Lette To Open Minded Progressives](https://anzenkodo.github.io/notes/Books/An-Open-Lette-To-Open-Minded-Progressives.html)
+- [Enlightenment Now](https://anzenkodo.github.io/notes/Books/Enlightenment-Now.html)
+- [Hell Yeah or No](https://anzenkodo.github.io/notes/Books/Hell-Yeah-or-No.html)
+- [Your First Year in Code](https://anzenkodo.github.io/notes/Books/Your-First-Year-in-Code.html)
 - [Self Discipline](https://anzenkodo.github.io/notes/Books/Self-Discipline.html)
-- [Give and Take](https://anzenkodo.github.io/notes/Books/Give-and-Take.html)
-- [Range](https://anzenkodo.github.io/notes/Books/Range.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
