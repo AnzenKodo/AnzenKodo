@@ -32,9 +32,9 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Your First Year in Code](https://anzenkodo.github.io/notes/Books/Your-First-Year-in-Code.html)
-- [Originals](https://anzenkodo.github.io/notes/Books/Originals.html)
-- [Keep Going](https://anzenkodo.github.io/notes/Books/Keep-Going.html)
-- [Hell Yeah or No](https://anzenkodo.github.io/notes/Books/Hell-Yeah-or-No.html)
+- [Self Discipline](https://anzenkodo.github.io/notes/Books/Self-Discipline.html)
+- [12 Rules of Life](https://anzenkodo.github.io/notes/Books/12-Rules-of-Life.html)
+- [Algorithms to Live by](https://anzenkodo.github.io/notes/Books/Algorithms-to-Live-by.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
