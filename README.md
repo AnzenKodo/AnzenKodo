@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/cd/e7/44/cde7443d181a91918d4460eea5f5e2cf.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/6b/fa/59/6bfa5932c8a135b4d90cfe763ea8740a.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
+- [12 Rules of Life](https://anzenkodo.github.io/notes/Books/12-Rules-of-Life.html)
+- [Enlightenment Now](https://anzenkodo.github.io/notes/Books/Enlightenment-Now.html)
 - [Hell Yeah or No](https://anzenkodo.github.io/notes/Books/Hell-Yeah-or-No.html)
 - [Anything You Want](https://anzenkodo.github.io/notes/Books/Anything-You-Want.html)
-- [Your First Year in Code](https://anzenkodo.github.io/notes/Books/Your-First-Year-in-Code.html)
-- [Range](https://anzenkodo.github.io/notes/Books/Range.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
