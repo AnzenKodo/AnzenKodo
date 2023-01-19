@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Enlightenment Now](https://anzenkodo.github.io/notes/Books/Enlightenment-Now.html)
-- [Hell Yeah or No](https://anzenkodo.github.io/notes/Books/Hell-Yeah-or-No.html)
-- [Your First Year in Code](https://anzenkodo.github.io/notes/Books/Your-First-Year-in-Code.html)
-- [Self Discipline](https://anzenkodo.github.io/notes/Books/Self-Discipline.html)
+- [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
+- [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
+- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
+- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
