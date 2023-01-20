@@ -40,11 +40,11 @@ out: "What I been up to?".
 
 #### Microblog
 <!-- microblog:start -->
-> All modern programmers need to hear this:
+> RT by @AnzenKodo: Humans are happiest when they solve problems, particularly with people they respect.
 > 
-> Kinesis vs Ultimate Hacking Keyboard, JavaScript in Depth, webpack, unit... https://youtu.be/cCVQPTFwF-w via @YouTube
+> If denied the ability to solve problems, they will inevitably create them.
 > 
-> <a href="https://twitter.com/AnzenKodo/status/1614181514513879040#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/Jason/status/1616301122989477889#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
