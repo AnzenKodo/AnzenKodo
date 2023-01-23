@@ -31,20 +31,18 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
-- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
+- [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
 - [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
+- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> RT by @AnzenKodo: Humans are happiest when they solve problems, particularly with people they respect.
+> R to @AnzenKodo: From https://chiefofstuff.substack.com/p/commenting-vs-making
 > 
-> If denied the ability to solve problems, they will inevitably create them.
-> 
-> <a href="https://twitter.com/Jason/status/1616301122989477889#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/AnzenKodo/status/1617582276233265156#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
