@@ -33,16 +33,16 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
-- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
+- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
 #### Microblog
 <!-- microblog:start -->
-> R to @AnzenKodo: From https://chiefofstuff.substack.com/p/commenting-vs-making
+> RT by @AnzenKodo: 'Calling out' your friends or family members publicly on social media, instead of addressing them personally and privately, is lame and dishonourable.
 > 
-> <a href="https://twitter.com/AnzenKodo/status/1617582276233265156#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
+> <a href="https://twitter.com/ZubyMusic/status/1617582193546776576#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
 <!-- microblog:end -->
 
 ### What I have been working on:
