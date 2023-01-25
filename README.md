@@ -48,11 +48,15 @@ out: "What I been up to?".
 ### What I have been working on:
 <!-- working:start -->
  - AK#Notes
-  - Fix Image
   - Remove NavBar
   - Use index.md as file navigation
   - Remove unused CSS
   - Fix RSS Date
+- Brave Wallpaper from Pintrest
+- AK#Db books data from markdown
+- AK#Pinboard like Awesome list
+- Table of Content on all the sites
+- Use Unoffical Github Api for genrate lang data
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
