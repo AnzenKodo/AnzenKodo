@@ -57,6 +57,7 @@ out: "What I been up to?".
 - AK#Pinboard like Awesome list
 - Table of Content on all the sites
 - Use Unoffical Github Api for genrate lang data
+- Android app that sends apps data to dotfiles
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
