@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/72/53/98/725398318b35cbf6c7af0dc908d4505c.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/b9/50/8f/b9508f8f2a32a112bd679cbf02e3b41c.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -91,9 +91,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [I'm Good (Blue) [Acoustic]](https://musicbrainz.org/recording/b4631f85-50ea-4685-8f1d-81bdfef2cab0) by David Guetta, Bebe Rexha
-- [Move!](#) by 1NONLY
-- [Bunny Girl](https://musicbrainz.org/recording/885a401d-bf90-4014-a90a-0c9c178132d0) by 1NONLY
+- [Neon Impasse](https://musicbrainz.org/recording/2ed6838e-1a87-41c7-afc9-7ab8d7d6e1a6) by City Girl
+- [Cut Adrift](#) by no alias
+- [Bridge Through Time](https://musicbrainz.org/recording/6bcff805-b1b6-47eb-b898-54f62053b585) by Apollo Brown
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
