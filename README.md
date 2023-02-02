@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
-- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
+- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -92,9 +92,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Wind Tempos](https://musicbrainz.org/recording/a274d26d-4d85-4a53-b731-af9de9c6f0d9) by Porter Robinson
 - [Grammar](https://musicbrainz.org/recording/408564eb-381b-4330-ae48-5819662298f6) by Floating Points
 - [Colors By Shade](#) by Znoijk
-- [mirage](#) by sir bennett
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
