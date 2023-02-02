@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
-- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
 - [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
+- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -92,9 +92,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Neon Impasse](https://musicbrainz.org/recording/2ed6838e-1a87-41c7-afc9-7ab8d7d6e1a6) by City Girl
-- [Cut Adrift](#) by no alias
-- [Bridge Through Time](https://musicbrainz.org/recording/6bcff805-b1b6-47eb-b898-54f62053b585) by Apollo Brown
+- [Grammar](https://musicbrainz.org/recording/408564eb-381b-4330-ae48-5819662298f6) by Floating Points
+- [Colors By Shade](#) by Znoijk
+- [mirage](#) by sir bennett
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
