@@ -175,3 +175,5 @@ I am just a small dev who lives in Mom's Basement. The stuff that I create takes
 █▄▄▄▄▄▄▄█▄▄▄█▄█▄▄▄▄▄████▄▄█▄███
 </pr></details>
 <!-- support:end -->
+
+<img alt="Moe Counter" src="https://count.getloli.com/get/@AnzenKodo?theme=rule34" width="100%">
