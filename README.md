@@ -47,16 +47,7 @@ out: "What I been up to?".
 
 ### What I have been working on:
 <!-- working:start -->
- - AK#Notes
-  - Remove NavBar
-  - Use index.md as file navigation
-  - Remove unused CSS
-  - Fix RSS Date
-- Brave Wallpaper from Pintrest
-- AK#Db books data from markdown
-- Table of Content on all the sites
-- Use Unoffical Github Api for genrate lang data
-- Android app that sends apps data to dotfiles
+- [ ] AK#Db data from markdown
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
