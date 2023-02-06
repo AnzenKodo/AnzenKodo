@@ -48,6 +48,7 @@ out: "What I been up to?".
 ### What I have been working on:
 <!-- working:start -->
 - [ ] AK#Db data from markdown
+[ ] College files database in Python
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
@@ -82,9 +83,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
-- [Wind Tempos](https://musicbrainz.org/recording/a274d26d-4d85-4a53-b731-af9de9c6f0d9) by Porter Robinson
-- [Grammar](https://musicbrainz.org/recording/408564eb-381b-4330-ae48-5819662298f6) by Floating Points
-- [Colors By Shade](#) by Znoijk
+- [Island Walks](https://musicbrainz.org/recording/76a34e6a-7099-4852-bbaa-bbd8980a41e0) by Yasumu
+- [A Day at the Beach](https://musicbrainz.org/recording/544a0698-b2f6-4c6a-bf1f-b8a20b871686) by PandRezz
+- [Opiate](https://musicbrainz.org/recording/7099e5dd-4801-47e3-b211-cf4977286276) by Evil Needle
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
