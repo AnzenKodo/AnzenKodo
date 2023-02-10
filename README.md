@@ -73,7 +73,9 @@ out: "What I been up to?".
 ##### Manga
 <!-- manga:start -->
 
-
+- [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
+- [Ranking of Kings T01](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
+- [One-Punch Man, Vol. 1](https://www.goodreads.com/book/show/25783832) by ONE
 <!-- manga:end -->
 
 #### Listening
