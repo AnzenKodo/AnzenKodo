@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
-- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
+- [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
 - [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
+- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -74,7 +74,7 @@ out: "What I been up to?".
 <!-- manga:start -->
 
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
-- [Ranking of Kings T01](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
+- [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
 - [One-Punch Man, Vol. 1](https://www.goodreads.com/book/show/25783832) by ONE
 <!-- manga:end -->
 
