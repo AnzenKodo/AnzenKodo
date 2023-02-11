@@ -38,13 +38,6 @@ out: "What I been up to?".
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
-#### Microblog
-<!-- microblog:start -->
-> RT by @AnzenKodo: baby pewdiepie baby pewdiepie
-> 
-> <a href="https://twitter.com/sivemorten/status/1622198509964333057#m">Full Context</a> | See More on <a href="https://twitter.com/AnzenKodo">Twitter</a>
-<!-- microblog:end -->
-
 ### What I have been working on:
 <!-- working:start -->
 - [ ] AK#Db data from markdown
