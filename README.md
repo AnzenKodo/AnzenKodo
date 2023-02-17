@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/cb/c9/46/cbc9462dda43a29f0b2a272c5bfb6fc5.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/20/a9/cf/20a9cf17f9c996ae1d5873d065835607.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
-- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
+- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
