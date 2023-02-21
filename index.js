@@ -60,8 +60,8 @@ data.microblog = await fetch("https://nitter.cz/AnzenKodo/rss")
     ).slice(0, 1).join("\n\n")
   );
 
-data.working = data.todo.working
-  .join("\n").replace("[", "- $&") +
+data.working = "- " + data.todo.working
+  .join("\n- ") +
   `\n- See More on [AK#Todo](${data.website}todo)`;
 
 data.projects =
