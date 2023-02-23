@@ -41,7 +41,6 @@ out: "What I been up to?".
 ### What I have been working on:
 <!-- working:start -->
 - [ ] AK#Db data from markdown
-- [ ] College files database in Python
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
