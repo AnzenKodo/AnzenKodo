@@ -75,9 +75,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Rainbow Roll](https://musicbrainz.org/recording/363d1d0f-ccd6-43c1-a11a-e7fe8696c806) by Strehlow
+- [Dreams](#) by briqs
 - [Until We Meet Again](https://musicbrainz.org/recording/49b97bd6-12f3-4123-8282-23013d6f09f5) by Peak Twilight, amies
-- [affection](https://musicbrainz.org/recording/82d58107-0f94-45f5-beb8-6a616552e128) by JinSang
-- [Sequences](https://musicbrainz.org/recording/fb292ba5-4854-4673-8445-ce90ca2273a3) by Monma
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
