@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
-- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
 - [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
+- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -65,9 +65,9 @@ out: "What I been up to?".
 ##### Manga
 <!-- manga:start -->
 
+- [That girl is dangerous… but cute? Vol 1](https://www.goodreads.com/book/show/60241501) by evgenia andreyeva
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
 - [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
-- [One-Punch Man, Vol. 1](https://www.goodreads.com/book/show/25783832) by ONE
 <!-- manga:end -->
 
 #### Listening
