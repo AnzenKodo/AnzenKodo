@@ -19,7 +19,7 @@
 - **Socials:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
   <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a><!-- social:end -->
-- **Programming Languages:** <!-- languages:start -->[JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [CSS](https://github.com/topics/CSS) / [PHP](https://github.com/topics/PHP) / [Shell](https://github.com/topics/Shell) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [Java](https://github.com/topics/Java) / [SCSS](https://github.com/topics/SCSS) / [Python](https://github.com/topics/Python)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start --><!-- languages:end -->
 
 ## Now
 This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
-- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
 - [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
+- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
