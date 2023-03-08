@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/fd/3d/5e/fd3d5e49ae99e4484cfb22b5ee226431.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/67/3a/d3/673ad31c871ddb6872e4a45c8acda908.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -33,8 +33,8 @@ out: "What I been up to?".
 - [Home](https://anzenkodo.github.io/notes/)
 - [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
 - [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
-- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
+- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
@@ -75,9 +75,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Take Me Away (feat. Warlord Colossus)](#) by Somber
 - [Rainbow Roll](https://musicbrainz.org/recording/363d1d0f-ccd6-43c1-a11a-e7fe8696c806) by Strehlow
 - [Dreams](#) by briqs
-- [Until We Meet Again](https://musicbrainz.org/recording/49b97bd6-12f3-4123-8282-23013d6f09f5) by Peak Twilight, amies
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
