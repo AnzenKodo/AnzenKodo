@@ -31,10 +31,10 @@ out: "What I been up to?".
 #### Notes
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
-- [MGT](https://anzenkodo.github.io/notes/Study/MGT.html)
-- [Grammmar](https://anzenkodo.github.io/notes/Study/Grammmar.html)
-- [Communication](https://anzenkodo.github.io/notes/Study/Communication/Communication.html)
-- [Amplitude Modulation](https://anzenkodo.github.io/notes/Study/Communication/Amplitude-Modulation.html)
+- [Definition](https://anzenkodo.github.io/notes/Maths/Definition.html)
+- [Inverse Laplace Transform](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/)
+- [First Shifting Theorem](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/First-Shifting-Theorem.html)
+- [Statistics](https://anzenkodo.github.io/notes/Maths/Statistics/)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
