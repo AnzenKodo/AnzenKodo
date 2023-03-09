@@ -75,9 +75,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [Bad Time Trio Nitro](#) by Nick Nitro
+- [Help Me](#) by or3o
 - [Dance Monkey](https://musicbrainz.org/recording/c0f89d6a-d740-4f91-b6e1-d5e8572268c1) by Tones And I
-- [Last Chance](https://musicbrainz.org/recording/d39f34f9-d5c9-4d1a-9800-b024b3dde738) by Shotgun Willy
-- [My Ordinary Life](https://musicbrainz.org/recording/2f7add74-80c0-4702-be39-acadcb216b57) by The Living Tombstone
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
