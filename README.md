@@ -32,8 +32,8 @@ out: "What I been up to?".
 <!-- blog:start -->
 - [Home](https://anzenkodo.github.io/notes/)
 - [Definition](https://anzenkodo.github.io/notes/Maths/Definition.html)
-- [First Shifting Theorem](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/First-Shifting-Theorem.html)
 - [Inverse Laplace Transform](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/)
+- [First Shifting Theorem](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/First-Shifting-Theorem.html)
 - [Rank Correlation](https://anzenkodo.github.io/notes/Maths/Statistics/Rank-Correlation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
