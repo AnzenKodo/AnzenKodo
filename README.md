@@ -76,8 +76,8 @@ out: "What I been up to?".
 <!-- music:start -->
 
 - [Bad Time Trio Nitro](#) by Nick Nitro
+- [Bad Time Trio Nitro](#) by Nick Nitro
 - [Help Me](#) by or3o
-- [Dance Monkey](https://musicbrainz.org/recording/c0f89d6a-d740-4f91-b6e1-d5e8572268c1) by Tones And I
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
