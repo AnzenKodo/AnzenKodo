@@ -34,7 +34,7 @@ out: "What I been up to?".
 - [Definition](https://anzenkodo.github.io/notes/Maths/Definition.html)
 - [Inverse Laplace Transform](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/)
 - [First Shifting Theorem](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/First-Shifting-Theorem.html)
-- [Regression](https://anzenkodo.github.io/notes/Maths/Statistics/Regression.html)
+- [Rank Correlation](https://anzenkodo.github.io/notes/Maths/Statistics/Rank-Correlation.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
