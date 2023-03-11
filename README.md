@@ -1,6 +1,6 @@
 # AK
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/55/51/e7/5551e737d47c6bb623150796b1c41e01.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/48/5d/34/485d34e3e68b74332a681f50afc03c0c.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://AnzenKodo.github.io/notes">Notes</a> | <a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/pen">Pen</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -34,7 +34,7 @@ out: "What I been up to?".
 - [Definition](https://anzenkodo.github.io/notes/Maths/Definition.html)
 - [Inverse Laplace Transform](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/)
 - [First Shifting Theorem](https://anzenkodo.github.io/notes/Maths/Inverse-Laplace-Transform/First-Shifting-Theorem.html)
-- [Rank Correlation](https://anzenkodo.github.io/notes/Maths/Statistics/Rank-Correlation.html)
+- [Regression](https://anzenkodo.github.io/notes/Maths/Statistics/Regression.html)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
 <!-- blog:end -->
 
