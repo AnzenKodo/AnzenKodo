@@ -75,9 +75,9 @@ out: "What I been up to?".
 ##### Music
 <!-- music:start -->
 
+- [King Of The Dead](https://musicbrainz.org/recording/718ac430-d1b1-4597-ade4-cf2765de26ec) by XXXTENTACION
 - [Bad Time Trio Nitro](#) by Nick Nitro
 - [Bad Time Trio Nitro](#) by Nick Nitro
-- [Help Me](#) by or3o
 <!-- music:end -->
 ##### Audiobook
 <!-- audiobook:start -->
