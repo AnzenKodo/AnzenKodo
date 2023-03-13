@@ -1,16 +1,16 @@
 import commentMark from "https://esm.sh/comment-mark@1.1.1";
-import { parseFeed } from "https://deno.land/x/rss@0.5.6/mod.ts";
+import { parseFeed } from "https://deno.land/x/rss@0.5.8/mod.ts";
 import qrcode from "https://deno.land/x/qrcode_terminal@v1.1.1/mod.js";
 
-const repos = ["dblog", "punk", "mizlink", "rss-atom-parser"];
-const nav = ["notes", "blogroll", "db", "pinboard", "pen", "todo", "awesome"];
+const repos = ["pen", "dotfiles", "punk", "mizlink"];
+const nav = ["blogroll", "db", "pinboard", "todo", "awesome"];
 const md = Deno.readTextFileSync("README.md");
 
 const data = await fetch("https://anzenkodo.github.io/api/ak.json")
   .then((res) => res.json());
-const pinboard = await fetch("https://anzenkodo.github.io/api/pinboard.json")
+const pinboard = await fetch(data.api.pinboard)
   .then((res) => res.json());
-const db = await fetch("https://anzenkodo.github.io/api/db.json")
+const db = await fetch(data.api.db)
   .then((res) => res.json());
 
 data.banner =
@@ -36,29 +36,14 @@ data.social = Object.entries(data.socials).map((val) =>
   `<a href="${val[1]}">${val[0].charAt(0).toUpperCase() + val[0].slice(1)}</a>`
 ).join(" / ");
 
-data.blog = await fetch(data.api.blog)
-  .then((res) => res.json())
-  .then((res) => res.items.map((item) => `- [${item.title}](${item.url})`))
-  .then((res) => res.slice(0, 5).join("\n")) +
-  `\n- See More on [AK#Notes](${data.website}notes)`;
-
-data.microblog = await fetch("https://nitter.cz/AnzenKodo/rss")
+data.blog = await fetch(data.api.notes)
   .then((res) => res.text())
   .then((res) => parseFeed(res))
-  .then((res) => res.entries)
   .then((res) =>
-    res.map((re) =>
-      re.title.value
-        .replace(/<[^>]*>/g, "")
-        .replace(
-          /$/g,
-          `\n\n<a href="${
-            re.links[0].href.replace("https://nitter.cz", "https://twitter.com")
-          }">Full Context</a> | See More on <a href="https://twitter.com/${data.username}">Twitter</a>`,
-        )
-        .replace(/^/gm, "> ")
-    ).slice(0, 1).join("\n\n")
-  );
+    res.entries.map((item) => `- [${item.title.value}](${item.id})`)
+  )
+  .then((res) => res.slice(0, 5).join("\n")) +
+  `\n- See More on [AK#Notes](${data.website}notes)`;
 
 data.working = "- " + data.todo.working
   .join("\n- ") +
@@ -103,9 +88,8 @@ data.audiobook = getDb(db.sound.audiobooks.listening);
 data.music = getDb(db.sound.music.listens);
 data.db = `\n### See More on [AK#Db](${data.website}db)`;
 
-data.devmore = `- **Micro Projects:** [AK#Pen](${data.website}pen)
-- **Website and Project Links:** [AK#Awesome](${data.website}awesome)
-- **System Configuration:** [AK#Dotfiles](${data.website}dotfiles)
+data.devmore =
+  `- **Website and Project Links:** [AK#Awesome](${data.website}awesome)
 - **API's:** [AK#Apis](${data.website}api/ak.json)`;
 
 data.support = Object.entries(data.support).map((val) => {

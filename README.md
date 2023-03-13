@@ -60,12 +60,7 @@ out: "What I been up to?".
 
 <!-- working:start -->
 
-<<<<<<< HEAD
-
 - [ ] AK#Db data from markdown =======
-
-- [ ] AK#Db data from markdown [ ] College files database in Python >>>>>>>
-      ffec6b8 (Updated)
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 
 <!-- working:end -->
@@ -95,8 +90,6 @@ out: "What I been up to?".
 
 <!-- manga:start -->
 
-<<<<<<< HEAD
-
 - [That girl is dangerous… but cute? Vol 1](https://www.goodreads.com/book/show/60241501)
   by evgenia andreyeva
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491)
@@ -109,8 +102,6 @@ out: "What I been up to?".
   Sosuke Toka
 - [One-Punch Man, Vol. 1](https://www.goodreads.com/book/show/25783832) by ONE
 
-> ffec6b8 (Updated)
-
 <!-- manga:end -->
 
 #### Listening
@@ -118,8 +109,6 @@ out: "What I been up to?".
 ##### Music
 
 <!-- music:start -->
-
-<<<<<<< HEAD
 
 - [King Of The Dead](https://musicbrainz.org/recording/718ac430-d1b1-4597-ade4-cf2765de26ec)
   by XXXTENTACION
@@ -131,8 +120,6 @@ out: "What I been up to?".
 ##### Audiobook
 
 <!-- audiobook:start -->
-
-=======
 
 - [Island Walks](https://musicbrainz.org/recording/76a34e6a-7099-4852-bbaa-bbd8980a41e0)
   by Yasumu
@@ -192,13 +179,13 @@ See More on [GitHub](https://github.com/AnzenKodo?tab=repositories)
 
 <!-- projects:end -->
 
-### Coding Activity
+<!--### Coding Activity
 
 <div align="center">
 <a href="https://wakatime.com/share/@AnzenKodo/0638187c-1832-4ec2-bb81-677b39915edb.svg">
 <img src="https://wakatime.com/share/@AnzenKodo/0638187c-1832-4ec2-bb81-677b39915edb.svg" height="350em" width="100%" alt="Coding Activity Chart">
 </a>
-</div>
+</div>-->
 
 ### More
 
