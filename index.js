@@ -3,7 +3,6 @@ import { parseFeed } from "https://deno.land/x/rss@0.5.8/mod.ts";
 import qrcode from "https://deno.land/x/qrcode_terminal@v1.1.1/mod.js";
 
 const repos = ["pen", "dotfiles", "punk", "mizlink"];
-const nav = ["blogroll", "db", "pinboard", "todo", "awesome"];
 const md = Deno.readTextFileSync("README.md");
 
 const data = await fetch("https://anzenkodo.github.io/api/ak.json")
@@ -16,10 +15,8 @@ const db = await fetch(data.api.db)
 data.banner =
   `<a href="${data.website}"><img width="100%" src="${data.banner}" loading="lazy"></a>`;
 
-data.nav = nav.map((val) =>
-  `<a href="${data.website}${val}">${
-    val.charAt(0).toUpperCase() + val.slice(1)
-  }</a>`
+data.nav = Object.entries(data.site).map((val) =>
+  `<a href="${val[1]}">${val[0].charAt(0).toUpperCase() + val[0].slice(1)}</a>`
 ).join(" | ");
 
 data.logo =
@@ -33,7 +30,7 @@ data.languages = data.languages.join(" / ")
 
 data.email = `<a href="mailto:${data.email}">Email</a>`;
 data.social = Object.entries(data.socials).map((val) =>
-  `<a href="${val[1]}">${val[0].charAt(0).toUpperCase() + val[0].slice(1)}</a>`
+  `<a href="${val[1]}">${val[0]}</a>`
 ).join(" / ");
 
 data.blog = await fetch(data.api.notes)
