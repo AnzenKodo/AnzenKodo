@@ -43,7 +43,7 @@ data.blog = await fetch(data.api.notes)
     res.entries.map((item) => `- [${item.title.value}](${item.id})`)
   )
   .then((res) => res.slice(0, 5).join("\n")) +
-  `\n- See More on [AK#Notes](${data.website}notes)`;
+  `\n- See More on [AK#Notes](https://AnzenKodo.substack.com)`;
 
 data.working = "- " + data.todo.working
   .join("\n- ") +

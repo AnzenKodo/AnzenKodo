@@ -15,13 +15,24 @@
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
-- **Bio:** <!-- description:start -->Programming nerd who is obsessed with JavaScript.<!-- description:end -->
+- **Bio:** <!-- description:start -->Programming nerd who is obsessed with
+  JavaScript.<!-- description:end -->
 - **Favourite Color:**
   <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
 - **Socials:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
   <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://www.pinterest.com/AnzenKodo">Pinterest</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://substack.com/profile/125347446-axel">Substack</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> / <a href="https://simkl.com/5607531">Simkl</a> / <a href="https://discord.com/users/910257548593086474">Discord</a><!-- social:end -->
-- **Programming Languages:** <!-- languages:start -->[JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [CSS](https://github.com/topics/CSS) / [PHP](https://github.com/topics/PHP) / [Shell](https://github.com/topics/Shell) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [Jupyter](https://github.com/topics/Jupyter) [Notebook](https://github.com/topics/Notebook) / [Java](https://github.com/topics/Java) / [Python](https://github.com/topics/Python)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start -->
+  [JavaScript](https://github.com/topics/JavaScript) /
+  [HTML](https://github.com/topics/HTML) / [CSS](https://github.com/topics/CSS)
+  / [PHP](https://github.com/topics/PHP) /
+  [Shell](https://github.com/topics/Shell) /
+  [Nix](https://github.com/topics/Nix) /
+  [Nunjucks](https://github.com/topics/Nunjucks) /
+  [Jupyter](https://github.com/topics/Jupyter)
+  [Notebook](https://github.com/topics/Notebook) /
+  [Java](https://github.com/topics/Java) /
+  [Python](https://github.com/topics/Python)<!-- languages:end -->
 
 ## Now
 
@@ -34,15 +45,19 @@ out: "What I been up to?".
 #### Notes
 
 <!-- blog:start -->
+
 - [Starting something new](https://anzenkodo.substack.com/p/starting-something-new)
 - See More on [AK#Notes](https://AnzenKodo.github.io/notes)
+
 <!-- blog:end -->
 
 ### What I have been working on:
 
 <!-- working:start -->
+
 - [ ] AK#Db data from markdown
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
+
 <!-- working:end -->
 
 ### What I have been:
@@ -52,16 +67,17 @@ out: "What I been up to?".
 ##### Online
 
 <!-- pinboard:start -->
+
 - [1x Engineer](https://1x.engineer/)
 - [37signals - A catalog of ideas, signals, that drive us.](https://37signals.com/)
 - [Please don’t theme our apps](https://stopthemingmy.app/)
 - See More on [AK#Pinboard](https://AnzenKodo.github.io/pinboard)
+
 <!-- pinboard:end -->
 
 ##### Books
 
 <!-- reading:start -->
-
 
 <!-- reading:end -->
 
@@ -69,9 +85,13 @@ out: "What I been up to?".
 
 <!-- manga:start -->
 
-- [That girl is dangerous… but cute? Vol 1](https://www.goodreads.com/book/show/60241501) by evgenia andreyeva
-- [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
-- [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
+- [That girl is dangerous… but cute? Vol 1](https://www.goodreads.com/book/show/60241501)
+  by evgenia andreyeva
+- [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491)
+  by Tatsuya Endo
+- [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by
+  Sosuke Toka
+
 <!-- manga:end -->
 
 #### Listening
@@ -82,13 +102,14 @@ out: "What I been up to?".
 
 - [Karoshi](#) by Kollux
 - [MATRIX](#) by Mctr
-- [ROYAL](https://musicbrainz.org/recording/efa2ee68-2b77-4de8-8caf-a636cd7510cc) by Dieom
+- [ROYAL](https://musicbrainz.org/recording/efa2ee68-2b77-4de8-8caf-a636cd7510cc)
+  by Dieom
+
 <!-- music:end -->
 
 ##### Audiobook
 
 <!-- audiobook:start -->
-
 
 <!-- audiobook:end -->
 
@@ -99,9 +120,9 @@ out: "What I been up to?".
 <!-- anime:start -->
 
 - [Mob Psycho 100 III](https://simkl.com/anime/1756821)
+
 <!-- anime:end -->
 <!-- ona:start -->
-
 
 <!-- ona:end -->
 
@@ -111,11 +132,13 @@ out: "What I been up to?".
 
 - [The Mandalorian](https://simkl.com/anime/1067626)
 - [Arcane](https://simkl.com/anime/1188702)
+
 <!-- watching:end -->
 
 <!-- db:start -->
 
 ### See More on [AK#Db](https://AnzenKodo.github.io/db)
+
 <!-- db:end -->
 
 ## DevInfo
@@ -123,12 +146,14 @@ out: "What I been up to?".
 ### Projects
 
 <!-- projects:start -->
+
 [![Banner of pen project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=pen&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/pen)
 [![Banner of dotfiles project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=dotfiles&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/dotfiles)
 [![Banner of punk project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=punk&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/punk)
 [![Banner of mizlink project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=mizlink&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/mizlink)
 
- See More on [GitHub](https://github.com/AnzenKodo?tab=repositories)
+See More on [GitHub](https://github.com/AnzenKodo?tab=repositories)
+
 <!-- projects:end -->
 
 <!--### Coding Activity
@@ -142,8 +167,11 @@ out: "What I been up to?".
 ### More
 
 <!-- devmore:start -->
-- **Website and Project Links:** [AK#Awesome](https://AnzenKodo.github.io/awesome)
+
+- **Website and Project Links:**
+  [AK#Awesome](https://AnzenKodo.github.io/awesome)
 - **API's:** [AK#Apis](https://AnzenKodo.github.io/api/ak.json)
+
 <!-- devmore:end -->
 
 ## Support
