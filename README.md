@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Sweet](#) by purge!
-- [DONNIE DARKO (PROD.WARLORD) 🐰SPOTIFY LINK IN DESCRIPTION🐰](#) by Lil God Dan 👼
-- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
+- [JIRAIYA Tribute](#) by Naruto Unreleased - Old Friend
+- [United States of Smash](#) by Boku No Hero Academia S3 OST
+- [Man Of The World](#) by Odece
 <!-- music:end -->
 
 ##### Audiobook
