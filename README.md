@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
+- [DAISY](#) by $ynsu
 - [SAMASHI_ENDURE_PAIN](#) by Kevin Amaya
 - [Ochihabune](#) by jimmishoto ショート
-- [اكاتسوكي](#) by Moe
 <!-- music:end -->
 
 ##### Audiobook
