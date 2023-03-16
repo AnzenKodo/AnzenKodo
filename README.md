@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [golden hour](https://musicbrainz.org/recording/20782b2d-4a8f-42dd-8e32-7dd86bce2173) by JVKE
-- [the wisp sings (slowed + reverb)](https://musicbrainz.org/recording/caad7dd1-d279-4357-a2ee-d34b13b2d52f) by Winter Aid
-- [the wisp sings (slowed + reverb)](https://musicbrainz.org/recording/caad7dd1-d279-4357-a2ee-d34b13b2d52f) by Winter Aid
+- [DAISY](#) by $ynsu
+- [Roslyn By Bon Iver & St Vincent, But It's Slowed Down And It's Raining](#) by anakingf
+- [whiteferrari](#) by Wvmkr
 <!-- music:end -->
 
 ##### Audiobook
