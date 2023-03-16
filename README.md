@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
+- [SAMASHI_ENDURE_PAIN](#) by Kevin Amaya
 - [Ochihabune](#) by jimmishoto ショート
 - [اكاتسوكي](#) by Moe
-- [Fair Warning (Ochihabune Mix)](#) by ChiefTaza
 <!-- music:end -->
 
 ##### Audiobook
