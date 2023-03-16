@@ -4,7 +4,7 @@
 <!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/80/72/88/80728890ac2a538015c923b507718c99.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
-<pre align="center"><!-- nav:start --><a href="https://anzenkodo.substack.com/">Notes</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/db">Db</a><!-- nav:end --></pre>
+<pre align="center"><!-- nav:start --><a href="https://anzenkodo.substack.com/">Notes</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
 
 <!-- logo:start --><img alt="Logo of Axel" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
 
@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [never be the same camilla cabello kurt remix slowed and reverb](#) by bapalapashamalamadingdong
 - [golden hour](https://musicbrainz.org/recording/20782b2d-4a8f-42dd-8e32-7dd86bce2173) by JVKE
-- [idontwannabeyouanymore Slowed Lo-Fi prod.robmorre](#) by Rob
+- [the wisp sings (slowed + reverb)](https://musicbrainz.org/recording/caad7dd1-d279-4357-a2ee-d34b13b2d52f) by Winter Aid
+- [the wisp sings (slowed + reverb)](https://musicbrainz.org/recording/caad7dd1-d279-4357-a2ee-d34b13b2d52f) by Winter Aid
 <!-- music:end -->
 
 ##### Audiobook
