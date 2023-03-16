@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [DAISY](#) by $ynsu
-- [Roslyn By Bon Iver & St Vincent, But It's Slowed Down And It's Raining](#) by anakingf
-- [whiteferrari](#) by Wvmkr
+- [Sweet](#) by purge!
+- [DONNIE DARKO (PROD.WARLORD) 🐰SPOTIFY LINK IN DESCRIPTION🐰](#) by Lil God Dan 👼
+- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
 <!-- music:end -->
 
 ##### Audiobook
