@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [JIRAIYA Tribute](#) by Naruto Unreleased - Old Friend
-- [United States of Smash](#) by Boku No Hero Academia S3 OST
-- [Man Of The World](#) by Odece
+- [Guren (Hip Hop Remix)](#) by Naruto OST
+- [Fair Warning (Ochihabune Mix)](#) by ChiefTaza
+- [never be the same camilla cabello kurt remix slowed and reverb](#) by bapalapashamalamadingdong
 <!-- music:end -->
 
 ##### Audiobook
