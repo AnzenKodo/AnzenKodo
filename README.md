@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Guren (Hip Hop Remix)](#) by Naruto OST
+- [Ochihabune](#) by jimmishoto ショート
+- [اكاتسوكي](#) by Moe
 - [Fair Warning (Ochihabune Mix)](#) by ChiefTaza
-- [never be the same camilla cabello kurt remix slowed and reverb](#) by bapalapashamalamadingdong
 <!-- music:end -->
 
 ##### Audiobook
