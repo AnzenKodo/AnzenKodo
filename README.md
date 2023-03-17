@@ -71,7 +71,7 @@ out: "What I been up to?".
 
 - [That girl is dangerous… but cute? Vol 1](https://www.goodreads.com/book/show/60241501) by evgenia andreyeva
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
-- [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
+- [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by Sōsuke Tōka
 <!-- manga:end -->
 
 #### Listening
