@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [DAISY](#) by $ynsu
-- [SAMASHI_ENDURE_PAIN](#) by Kevin Amaya
-- [Ochihabune](#) by jimmishoto ショート
+- [waste my time](#) by Jake Hill
+- [Mario Party Cypher ft. Cam Steady, Chi-Chi, Shwabadi, PE$O PETE, Zach B & More](#) by The Kevin Bennett
+- [Shadowfall](#) by lappy
 <!-- music:end -->
 
 ##### Audiobook
