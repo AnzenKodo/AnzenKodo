@@ -41,7 +41,10 @@ out: "What I been up to?".
 ### What I have been working on:
 
 <!-- working:start -->
-- [ ] AK#Db data from markdown
+- [ ] Start learning ML
+-   [ ] Download paper
+-   [ ] Implement it
+-   [ ] Keep doing this until you have skills
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
