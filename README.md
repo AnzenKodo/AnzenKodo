@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Regulate](https://musicbrainz.org/recording/d9819480-24a1-45b0-8af2-8b4bbe4a7fad) by Warren G
+- [Domestic Girlfriend OP](#) by Vlad
 - [Again (Chill, Lofi Remix)](#) by Your Lie In April
-- [Itachi Theme (OST 2)](#) by Senya
+- [Regulate](https://musicbrainz.org/recording/d9819480-24a1-45b0-8af2-8b4bbe4a7fad) by Warren G
 <!-- music:end -->
 
 ##### Audiobook
