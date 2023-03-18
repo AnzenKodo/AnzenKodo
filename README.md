@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Six Pills](#) by Nightcore
-- [{Sanctuary}](#) by ☾︎𝕽𝖊𝖉 𝕽𝖔𝖘𝖎𝖊 𝕭𝖑𝖔𝖔𝖉𝖝𝖃☽︎
-- [Numb](#) by Manafest
+- [Plus Ultra)](#) by My Hero Academia OST - Track 1: You Say Run (Theme Song
+- [United States of Smash (Hip Hop Remix)](#) by My Hero Academia
+- [United States of Smash](#) by Boku No Hero Academia S3 OST
 <!-- music:end -->
 
 ##### Audiobook
