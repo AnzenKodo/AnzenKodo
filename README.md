@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [waste my time](#) by Jake Hill
-- [Mario Party Cypher ft. Cam Steady, Chi-Chi, Shwabadi, PE$O PETE, Zach B & More](#) by The Kevin Bennett
-- [Shadowfall](#) by lappy
+- [Six Pills](#) by Nightcore
+- [{Sanctuary}](#) by ☾︎𝕽𝖊𝖉 𝕽𝖔𝖘𝖎𝖊 𝕭𝖑𝖔𝖔𝖉𝖝𝖃☽︎
+- [Numb](#) by Manafest
 <!-- music:end -->
 
 ##### Audiobook
