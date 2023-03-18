@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [A Little Messed Up (june)](#) by Nightcore
 - [I'm Just a Kid](#) by Youth Never Dies
 - [Six Pills](#) by Nightcore
+- [Thumbs](#) by Nightcore
 <!-- music:end -->
 
 ##### Audiobook
