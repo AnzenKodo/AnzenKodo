@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Domestic Girlfriend OP](#) by Vlad
-- [Again (Chill, Lofi Remix)](#) by Your Lie In April
-- [Regulate](https://musicbrainz.org/recording/d9819480-24a1-45b0-8af2-8b4bbe4a7fad) by Warren G
+- [A Little Messed Up (june)](#) by Nightcore
+- [I'm Just a Kid](#) by Youth Never Dies
+- [Six Pills](#) by Nightcore
 <!-- music:end -->
 
 ##### Audiobook
