@@ -80,9 +80,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Plus Ultra)](#) by My Hero Academia OST - Track 1: You Say Run (Theme Song
-- [United States of Smash (Hip Hop Remix)](#) by My Hero Academia
-- [United States of Smash](#) by Boku No Hero Academia S3 OST
+- [Regulate](https://musicbrainz.org/recording/d9819480-24a1-45b0-8af2-8b4bbe4a7fad) by Warren G
+- [Again (Chill, Lofi Remix)](#) by Your Lie In April
+- [Itachi Theme (OST 2)](#) by Senya
 <!-- music:end -->
 
 ##### Audiobook
