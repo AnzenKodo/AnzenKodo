@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
+- [ILY Baby](https://musicbrainz.org/recording/ef0e9bb3-3f80-4b7e-b06d-70c9170bea43) by Orrin
+- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
 - [No Rival](#) by Nightcore
-- [The Upside Down](#) by Nightcore
-- [Obsessed (Nightcore)](#) by Jake Daniels
 <!-- music:end -->
 
 ##### Audiobook
