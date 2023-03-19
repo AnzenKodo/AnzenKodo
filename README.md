@@ -1,7 +1,7 @@
 # AK
 
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/80/72/88/80728890ac2a538015c923b507718c99.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/3d/8b/72/3d8b7211c16012bdeb82134ba7a3d760.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://anzenkodo.substack.com/">Notes</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Burn Our Bridges Down](#) by Nightcore
-- [Million Dollar Baby](#) by Nightcore
-- [Doomsday](#) by Nightcore
+- [No Rival](#) by Nightcore
+- [The Upside Down](#) by Nightcore
+- [Obsessed (Nightcore)](#) by Jake Daniels
 <!-- music:end -->
 
 ##### Audiobook
