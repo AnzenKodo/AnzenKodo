@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [I'm Just a Kid](#) by Youth Never Dies
-- [Six Pills](#) by Nightcore
-- [Thumbs](#) by Nightcore
+- [Burn Our Bridges Down](#) by Nightcore
+- [Million Dollar Baby](#) by Nightcore
+- [Doomsday](#) by Nightcore
 <!-- music:end -->
 
 ##### Audiobook
