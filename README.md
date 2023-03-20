@@ -83,8 +83,8 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
-- [DAISY](#) by $ynsu
+- [Burn Our Bridges Down](#) by Nightcore
+- [Love Me Like You Do](#) by Nightcore
 - [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
 <!-- music:end -->
 
