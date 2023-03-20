@@ -85,7 +85,7 @@ out: "What I been up to?".
 
 - [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
 - [DAISY](#) by $ynsu
-- [A Little Messed Up (june)](#) by Nightcore
+- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
 <!-- music:end -->
 
 ##### Audiobook
