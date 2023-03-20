@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [𝐷𝑖𝑠𝑡𝑢𝑟𝑏𝑖𝑎♕︎](#) by ☾︎𝕽𝖊𝖉 𝕽𝖔𝖘𝖎𝖊 𝕭𝖑𝖔𝖔𝖉𝖝𝖃☽︎
-- [Hostage](#) by Rosemary🌹
-- [Million Dollar Baby](#) by Nightcore
+- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
+- [DAISY](#) by $ynsu
+- [A Little Messed Up (june)](#) by Nightcore
 <!-- music:end -->
 
 ##### Audiobook
