@@ -6,11 +6,11 @@
 
 <pre align="center"><!-- nav:start --><a href="https://anzenkodo.substack.com/">Notes</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/db">Db</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a><!-- nav:end --></pre>
 
-<!-- logo:start --><img alt="Logo of Axel" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
+<!-- logo:start --><img alt="Logo of Aman" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
 
 ## About
 
-- **Name:** <!-- name:start -->Axel<!-- name:end -->
+- **Name:** <!-- name:start -->Aman<!-- name:end -->
   (<!-- username:start -->AnzenKodo<!-- username:end -->)
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
