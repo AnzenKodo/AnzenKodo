@@ -15,7 +15,7 @@
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
-- **Bio:** <!-- description:start -->Programming nerd who is obsessed with JavaScript.<!-- description:end -->
+- **Bio:** <!-- description:start -->Understanding the world one step at time...<!-- description:end -->
 - **Favourite Color:**
   <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
 - **Socials:**
