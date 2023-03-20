@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
+- [SCREAM](https://musicbrainz.org/recording/2f8875fa-f67e-476f-bd9e-74de7cb3aab2) by Aviva
+- [DOOMSDAY](#) by Nightcore
 - [Itachi Theme (OST 2)](#) by Senya
-- [Plus Ultra)](#) by My Hero Academia OST - Track 1: You Say Run (Theme Song
-- [United States of Smash (Hip Hop Remix)](#) by My Hero Academia
 <!-- music:end -->
 
 ##### Audiobook
