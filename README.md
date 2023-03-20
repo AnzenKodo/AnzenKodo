@@ -65,7 +65,7 @@ out: "What I been up to?".
 
 <!-- reading:start -->
 
-
+- [Wait But Why Year One: We finally figured out how to put a blog onto an e-reader](https://www.goodreads.com/book/show/25050194) by Tim Urban
 <!-- reading:end -->
 
 ##### Manga
