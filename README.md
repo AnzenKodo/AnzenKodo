@@ -84,8 +84,8 @@ out: "What I been up to?".
 <!-- music:start -->
 
 - [Lend Me Your Voice (English Version)](https://musicbrainz.org/recording/826531fb-21a5-4526-be43-b3f4c0c0f00f) by Belle
+- [Lend Me Your Voice (English Version)](https://musicbrainz.org/recording/826531fb-21a5-4526-be43-b3f4c0c0f00f) by Belle
 - [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
-- [Losstime](#) by Creepy Nuts
 <!-- music:end -->
 
 ##### Audiobook
