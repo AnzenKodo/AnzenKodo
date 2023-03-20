@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Drum Cover](#) by 【Black Clover OP2 Full】ブラッククローバー - PAiNT It BLACK By BiSH - を叩いてみた
-- [Black Clover full opening 7 JUSTadICE](#) by AME
-- [ILY Baby](https://musicbrainz.org/recording/ef0e9bb3-3f80-4b7e-b06d-70c9170bea43) by Orrin
+- [Burn Our Bridges Down](#) by Nightcore
+- [{Sanctuary}](#) by ☾︎𝕽𝖊𝖉 𝕽𝖔𝖘𝖎𝖊 𝕭𝖑𝖔𝖔𝖉𝖝𝖃☽︎
+- [Doomsday](#) by Nightcore
 <!-- music:end -->
 
 ##### Audiobook
