@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [SCREAM](https://musicbrainz.org/recording/2f8875fa-f67e-476f-bd9e-74de7cb3aab2) by Aviva
-- [DOOMSDAY](#) by Nightcore
-- [Itachi Theme (OST 2)](#) by Senya
+- [Lend Me Your Voice (English Version)](https://musicbrainz.org/recording/826531fb-21a5-4526-be43-b3f4c0c0f00f) by Belle
+- [A Million Miles Away (English Version)](https://musicbrainz.org/recording/d3ef3669-f8b5-4677-91a2-866da2e5b4d6) by Belle
+- [Losstime](#) by Creepy Nuts
 <!-- music:end -->
 
 ##### Audiobook
