@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Burn Our Bridges Down](#) by Nightcore
-- [Love Me Like You Do](#) by Nightcore
-- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
+- [Itachi Theme (OST 2)](#) by Senya
+- [Plus Ultra)](#) by My Hero Academia OST - Track 1: You Say Run (Theme Song
+- [United States of Smash (Hip Hop Remix)](#) by My Hero Academia
 <!-- music:end -->
 
 ##### Audiobook
