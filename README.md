@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Itachi Theme (OST 2)](#) by Senya
-- [Plus Ultra)](#) by My Hero Academia OST - Track 1: You Say Run (Theme Song
-- [United States of Smash (Hip Hop Remix)](#) by My Hero Academia
+- [Black Clover full opening 7 JUSTadICE](#) by AME
+- [My Hero Academia](#) by BLACK DEKU THEME [DARK DEKU ARC]
+- [Licht und Schatten](#) by Joey
 <!-- music:end -->
 
 ##### Audiobook
