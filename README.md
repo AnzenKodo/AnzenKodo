@@ -65,6 +65,7 @@ out: "What I been up to?".
 
 <!-- reading:start -->
 
+- [21st Century Boys, Band 1 (21st Century Boys, #1)](https://www.goodreads.com/book/show/2028977) by Naoki Urasawa
 - [Wait But Why Year One: We finally figured out how to put a blog onto an e-reader](https://www.goodreads.com/book/show/25050194) by Tim Urban
 <!-- reading:end -->
 
