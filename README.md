@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
+- [JIRAIYA Tribute](#) by Naruto Unreleased - Old Friend
 - [Black Clover full opening 7 JUSTadICE](#) by AME
 - [My Hero Academia](#) by BLACK DEKU THEME [DARK DEKU ARC]
-- [Licht und Schatten](#) by Joey
 <!-- music:end -->
 
 ##### Audiobook
