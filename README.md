@@ -72,9 +72,9 @@ out: "What I been up to?".
 
 <!-- manga:start -->
 
-- [That girl is dangerous… but cute? Vol 1](https://www.goodreads.com/book/show/60241501) by evgenia andreyeva
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
 - [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by Sōsuke Tōka
+- [One-Punch Man, Vol. 1](https://www.goodreads.com/book/show/25783832) by ONE
 <!-- manga:end -->
 
 #### Listening
@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [JIRAIYA Tribute](#) by Naruto Unreleased - Old Friend
-- [Black Clover full opening 7 JUSTadICE](#) by AME
-- [My Hero Academia](#) by BLACK DEKU THEME [DARK DEKU ARC]
+- [Wind (Naruto Ending Theme)](#) by Peter Sahuleka
+- [The Daily Life of the Immortal King Opening Full Song](#) by Verdi Tan
+- [At The Top](#) by Nightcore - NEFFEX
 <!-- music:end -->
 
 ##### Audiobook
