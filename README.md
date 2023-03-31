@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
+- [My Hero Academia: Season 2 OST【Track 34】~ Yuki Hayashi](#) by 「Just Another Hero」(Endeavor's Theme)
 - [Wind (Naruto Ending Theme)](#) by Peter Sahuleka
 - [The Daily Life of the Immortal King Opening Full Song](#) by Verdi Tan
-- [At The Top](#) by Nightcore - NEFFEX
 <!-- music:end -->
 
 ##### Audiobook
