@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [United States of Smash](#) by A V I A N D
-- [My Hero Academia: Season 2 OST【Track 34】~ Yuki Hayashi](#) by 「Just Another Hero」(Endeavor's Theme)
-- [Wind (Naruto Ending Theme)](#) by Peter Sahuleka
+- [idontwannabeyouanymore Slowed Lo-Fi prod.robmorre](#) by Rob
+- [Naruto Hokage Funeral LO-FI Sample Beat](#) by King Zeus Lightning
+- [Forest of Quiet Movement (ksolis Trap Remix)](#) by Naruto Shippuden
 <!-- music:end -->
 
 ##### Audiobook
