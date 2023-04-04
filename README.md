@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
+- [Fair Warning (Ochihabune Mix)](#) by ChiefTaza
+- [never be the same camilla cabello kurt remix slowed and reverb](#) by bapalapashamalamadingdong
 - [idontwannabeyouanymore Slowed Lo-Fi prod.robmorre](#) by Rob
-- [Naruto Hokage Funeral LO-FI Sample Beat](#) by King Zeus Lightning
-- [Forest of Quiet Movement (ksolis Trap Remix)](#) by Naruto Shippuden
 <!-- music:end -->
 
 ##### Audiobook
