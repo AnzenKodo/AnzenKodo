@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [One Woman Army](#) by Nightcore
-- [Burn Our Bridges Down](#) by Nightcore
-- [Monster (Ely Eira)](https://musicbrainz.org/recording/0261d9e2-2817-478c-8369-2c1aa6c0e9d1) by Nightcore
+- [United States of Smash (Hip Hop Remix)](#) by My Hero Academia
+- [United States of Smash](#) by Boku No Hero Academia S3 OST
+- [A Little Messed Up (june)](#) by Nightcore
 <!-- music:end -->
 
 ##### Audiobook
