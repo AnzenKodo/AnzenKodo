@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [Fair Warning (Ochihabune Mix)](#) by ChiefTaza
-- [never be the same camilla cabello kurt remix slowed and reverb](#) by bapalapashamalamadingdong
-- [idontwannabeyouanymore Slowed Lo-Fi prod.robmorre](#) by Rob
+- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
+- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
+- [DAISY](#) by $ynsu
 <!-- music:end -->
 
 ##### Audiobook
