@@ -83,9 +83,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
-- [COLD (Prod. Dentist)](https://musicbrainz.org/recording/64f36635-3ebe-4793-8252-091112921a2f) by $ynsu
-- [DAISY](#) by $ynsu
+- [One Woman Army](#) by Nightcore
+- [Burn Our Bridges Down](#) by Nightcore
+- [Monster (Ely Eira)](https://musicbrainz.org/recording/0261d9e2-2817-478c-8369-2c1aa6c0e9d1) by Nightcore
 <!-- music:end -->
 
 ##### Audiobook
