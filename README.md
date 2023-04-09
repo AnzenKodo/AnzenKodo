@@ -72,9 +72,9 @@ out: "What I been up to?".
 
 <!-- manga:start -->
 
+- [Chainsaw Man, Vol. 1: Dog And Chainsaw](https://www.goodreads.com/book/show/55575967) by Tatsuki Fujimoto
 - [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491) by Tatsuya Endo
 - [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by Sosuke Toka
-- [One-Punch Man, Vol. 1](https://www.goodreads.com/book/show/25783832) by ONE
 <!-- manga:end -->
 
 #### Listening
