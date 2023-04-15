@@ -1,7 +1,7 @@
 # AK
 
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/bb/7d/c0/bb7dc0ea513f3eabcd29e63fe45bb18c.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/cd/e7/44/cde7443d181a91918d4460eea5f5e2cf.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 <pre align="center"><!-- nav:start --><a href="https://anzenkodo.substack.com/">Notes</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/db">Db</a><!-- nav:end --></pre>
@@ -41,10 +41,11 @@ out: "What I been up to?".
 ### What I have been working on:
 
 <!-- working:start -->
-- [ ] Start learning ML
--   [ ] Download paper
--   [ ] Implement it
--   [ ] Keep doing this until you have skills
+- [ ] Track everything
+-   [ ] App Installed
+-   [ ] Phone Usage
+-   [ ] Computer Usage
+-   [ ] Devices
 - See More on [AK#Todo](https://AnzenKodo.github.io/todo)
 <!-- working:end -->
 
@@ -83,9 +84,9 @@ out: "What I been up to?".
 
 <!-- music:start -->
 
-- [United States of Smash (Hip Hop Remix)](#) by My Hero Academia
-- [United States of Smash](#) by Boku No Hero Academia S3 OST
-- [A Little Messed Up (june)](#) by Nightcore
+- [LOVE FRUIT! FT. YUNGLEX](#) by Slxrppy✰| @slxrppy777
+- [AIRPLANE MODE FT. MONEYBOSS (PROD. OVOB)](#) by Slxrppy✰| @slxrppy777
+- [REDLIGHT! FT. MANNYILY](#) by Slxrppy✰| @slxrppy777
 <!-- music:end -->
 
 ##### Audiobook
