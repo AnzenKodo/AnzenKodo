@@ -33,15 +33,6 @@ data.social = Object.entries(data.socials).map((val) =>
   `<a href="${val[1]}">${val[0]}</a>`
 ).join(" / ");
 
-data.blog = await fetch(data.api.notes)
-  .then((res) => res.text())
-  .then((res) => parseFeed(res))
-  .then((res) =>
-    res.entries.map((item) => `- [${item.title.value}](${item.id})`)
-  )
-  .then((res) => res.slice(0, 5).join("\n")) +
-  `\n- See More on [AK#Notes](https://AnzenKodo.substack.com)`;
-
 data.working = "- " + data.todo.working
   .join("\n- ") +
   `\n- See More on [AK#Todo](${data.website}todo)`;
