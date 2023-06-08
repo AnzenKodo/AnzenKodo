@@ -1,200 +1,78 @@
 # AK
 
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/48/50/97/485097f5f0118b32308f7189f36c4dec.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/58/0f/7f/580f7f88933312de71275c0c123afb5a.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
-
-<pre align="center"><!-- nav:start --><a href="https://anzenkodo.substack.com/">Notes</a> | <a href="https://AnzenKodo.github.io/todo">Todo</a> | <a href="https://AnzenKodo.github.io/awesome">Awesome</a> | <a href="https://AnzenKodo.github.io/pinboard">Pinboard</a> | <a href="https://AnzenKodo.github.io/db">Db</a><!-- nav:end --></pre>
-
-<!-- logo:start --><img alt="Logo of Aman" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
 
 ## About
 
+<!-- logo:start --><img alt="Logo of Aman" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
+
 - **Name:** <!-- name:start -->Aman<!-- name:end -->
   (<!-- username:start -->AnzenKodo<!-- username:end -->)
+- **Bio:** <!-- description:start -->Understanding the world one step at
+  time...<!-- description:end -->
+- **Status:** <!-- status:start -->Currently working on AI group project and
+  modifying personal website<!-- status:end -->
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
-- **Bio:** <!-- description:start -->Understanding the world one step at
-  time...<!-- description:end -->
 - **Favourite Color:**
   <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
-- **Socials:**
-  <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">Email</a><!-- email:end --> /
-  <!-- social:start --><a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://replit.com/@AnzenKodo">Replit</a> / <a href="https://twitter.com/AnzenKodo">Twitter</a> / <a href="https://discord.com/users/910257548593086474">Discord</a> / <a href="https://www.pinterest.com/AnzenKodo/">Pinterest</a> / <a href="https://www.goodreads.com/AnzenKodo">Goodreads</a> / <a href="https://simkl.com/5607531/">Simkl</a> / <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a><!-- social:end -->
+- **Email:**
+  <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">AnzenKodo@altmails.com</a><!-- email:end -->
 - **Programming Languages:** <!-- languages:start -->
-  [Jupyter](https://github.com/topics/Jupyter)
-  [Notebook](https://github.com/topics/Notebook) /
+  [Jupyter Notebook](https://github.com/topics/Jupyter-Notebook) /
+  [HTML](https://github.com/topics/HTML) /
   [JavaScript](https://github.com/topics/JavaScript) /
-  [HTML](https://github.com/topics/HTML) / [CSS](https://github.com/topics/CSS)
-  / [PHP](https://github.com/topics/PHP) /
+  [CSS](https://github.com/topics/CSS) / [Lua](https://github.com/topics/Lua) /
+  [PHP](https://github.com/topics/PHP) /
   [Shell](https://github.com/topics/Shell) /
   [Nunjucks](https://github.com/topics/Nunjucks) /
-  [Nix](https://github.com/topics/Nix) / [Java](https://github.com/topics/Java)
-  / [Python](https://github.com/topics/Python)<!-- languages:end -->
+  [Nix](https://github.com/topics/Nix) /
+  [Python](https://github.com/topics/Python)<!-- languages:end -->
 
-## Now
+## Sites
 
-This Now section is inspired by [Derek Sivers](https://sive.rs/), who began
-[nownownow.com](https://nownownow.com/). This is the convenient spot to find
-out: "What I been up to?".
+<!-- sites:start -->
 
-### What I have been writing in:
+- <a href="https://www.notion.so/anzenkodo/AK-Database-d1bc1b1be57047a196411935d82a2844">Database</a> -
+  All my life data
+- <a href="https://anzenkodo.github.io/blogroll/">Blogroll</a> - My RSS feed
+- <a href="https://github.com/AnzenKodo">GitHub</a> - Projects
+- <a href="https://replit.com/@AnzenKodo">Replit</a> - Mini Projects
+- <a href="https://twitter.com/AnzenKodo">Twitter</a> - Microblog
+- <a href="https://www.pinterest.com/AnzenKodo/">Pinterest</a> - Saved images
+- <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> - Coding data
+- <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> - Music
+  data
+- <a href="https://www.youtube.com/@AnzenKodo">YouTube</a> - Music Playlists
 
-### What I have been working on:
-
-<!-- working:start -->
-
-- [ ] Track everything
-- [ ] App Installed
-- [ ] Phone Usage
-- [ ] Computer Usage
-- [ ] Devices
-- See More on [AK#Todo](https://AnzenKodo.github.io/todo)
-
-<!-- working:end -->
-
-### What I have been:
-
-#### Reading
-
-##### Online
-
-<!-- pinboard:start -->
-
-- [1x Engineer](https://1x.engineer/)
-- [37signals - A catalog of ideas, signals, that drive us.](https://37signals.com/)
-- [Please don’t theme our apps](https://stopthemingmy.app/)
-- See More on [AK#Pinboard](https://AnzenKodo.github.io/pinboard)
-
-<!-- pinboard:end -->
-
-##### Books
-
-<!-- reading:start -->
-
-- [Wait But Why Year One: We finally figured out how to put a blog onto an e-reader](https://www.goodreads.com/book/show/25050194)
-  by Tim Urban
-
-<!-- reading:end -->
-
-##### Manga
-
-<!-- manga:start -->
-
-- [Chainsaw Man, Vol. 1: Dog And Chainsaw](https://www.goodreads.com/book/show/55575967)
-  by Tatsuki Fujimoto
-- [Spy×Family, Vol. 1 (Spy×Family, #1)](https://www.goodreads.com/book/show/52961491)
-  by Tatsuya Endo
-- [Ranking of Kings, tome 1](https://www.goodreads.com/book/show/60071774) by
-  Sosuke Toka
-
-<!-- manga:end -->
-
-#### Listening
-
-##### Music
-
-<!-- music:start -->
-
-- [LOVE FRUIT! FT. YUNGLEX](#) by Slxrppy✰| @slxrppy777
-- [AIRPLANE MODE FT. MONEYBOSS (PROD. OVOB)](#) by Slxrppy✰| @slxrppy777
-- [REDLIGHT! FT. MANNYILY](#) by Slxrppy✰| @slxrppy777
-
-<!-- music:end -->
-
-##### Audiobook
-
-<!-- audiobook:start -->
-
-<!-- audiobook:end -->
-
-#### Watching
-
-##### Anime
-
-<!-- anime:start -->
-
-- [Mob Psycho 100 III](https://simkl.com/anime/1756821)
-
-<!-- anime:end -->
-<!-- ona:start -->
-
-<!-- ona:end -->
-
-##### Shows
-
-<!-- watching:start -->
-
-- [The Mandalorian](https://simkl.com/anime/1067626)
-- [Arcane](https://simkl.com/anime/1188702)
-
-<!-- watching:end -->
-
-<!-- db:start -->
-
-### See More on [AK#Db](https://AnzenKodo.github.io/db)
-
-<!-- db:end -->
-
-## DevInfo
-
-### Projects
-
-<!-- projects:start -->
-
-[![Banner of pen project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=pen&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/pen)
-[![Banner of dotfiles project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=dotfiles&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/dotfiles)
-[![Banner of punk project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=punk&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/punk)
-[![Banner of mizlink project](https://github-readme-stats.vercel.app/api/pin/?border_radius=0&bg_color=000&text_color=fff&icon_color=fff&border_color=fff&repo=mizlink&username=AnzenKodo&title_color=f20544)](https://github.com/AnzenKodo/mizlink)
-
-See More on [GitHub](https://github.com/AnzenKodo?tab=repositories)
-
-<!-- projects:end -->
-
-<!--### Coding Activity
-
-<div align="center">
-<a href="https://wakatime.com/share/@AnzenKodo/0638187c-1832-4ec2-bb81-677b39915edb.svg">
-<img src="https://wakatime.com/share/@AnzenKodo/0638187c-1832-4ec2-bb81-677b39915edb.svg" height="350em" width="100%" alt="Coding Activity Chart">
-</a>
-</div>-->
-
-### More
-
-<!-- devmore:start -->
-
-- **Website and Project Links:**
-  [AK#Awesome](https://AnzenKodo.github.io/awesome)
-- **API's:** [AK#Apis](https://AnzenKodo.github.io/api/ak.json)
-
-<!-- devmore:end -->
+<!-- sites:end -->
 
 ## Support
 
-I am just a small dev who lives in Mom's Basement. The stuff that I create takes
-lots of hard work. If you like what I have been doing please consider
-supporting.
-
 <!-- support:start -->
-<details><summary>ETHEREUM</summary><pre>0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A</pre><pre align="center">
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ ▄▄▄▄▄ █▀█ █▄▀ ▀▀█▄▄▄█ ▄▄▄▄▄ █
-█ █   █ █▀▀▀█ █  ▄▀ ▄ █ █   █ █
-█ █▄▄▄█ █▀ █▀▀▀█ ▄▀▀▄▀█ █▄▄▄█ █
-█▄▄▄▄▄▄▄█▄▀ ▀▄█ ▀ █▄█ █▄▄▄▄▄▄▄█
-█   ▄ ▀▄▄ ▄▀▄▀▄▄ ▀█▀▀▄▄▀▄▀▄▀▄▀█
-█ █ ▀██▄▄▀█▄█▀▄▄  ▄▄█▀▀▀▄▀▄█▄██
-█▀█▄▀ █▄▀▀ ▄█▄▄▀ ▀▄▄█▀▄▀▄▀ ▄▀██
-██ ▀██▀▄  ▀▀ ▄█▄ ▀▄█▀▄███ ██▀██
-█▀█ ▄▄▄▄ ▀▀▄▄▀▄▀▄▄ ▄▀▀▄▀▄▀▄▄▄ █
-█ █▀▄ ▄▄ █▄██▀▄▀▄▀█ █ ▄█▀▀█▄▀██
-█▄█▄███▄█ ▄██▄█▄▄▄▄▄█ ▄▄▄ ▄▄▄▀█
-█ ▄▄▄▄▄ █▄█▄ ▄█▀  █▀  █▄█  █ ▀█
-█ █   █ █ █▄▄▀▀█ ▀▄▄█ ▄▄ ▄█▄  █
-█ █▄▄▄█ █ ▀▀█▀ ▄▄█▄█ ▀ ▄█  █ ██
-█▄▄▄▄▄▄▄█▄▄▄█▄█▄▄▄▄▄████▄▄█▄███
-</pr></details>
+<details>
+<summary>GitHub Sponsors</summary>
+<p><strong>Address:</strong> <a href="https://github.com/sponsors/AnzenKodo">https://github.com/sponsors/AnzenKodo</a></p>
+<a href="https://github.com/sponsors/AnzenKodo"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://github.com/sponsors/AnzenKodo" alt="QR code for GitHub Sponsors"></a>
+</details>
+<details>
+<summary>Ethereum</summary>
+<p><strong>Address:</strong> <a href="ethereum:0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A">0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A</a></p>
+<a href="ethereum:0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=ethereum:0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A" alt="QR code for Ethereum"></a>
+</details>
+<details>
+<summary>Solana</summary>
+<p><strong>Address:</strong> <a href="solana:7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr">7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr</a></p>
+<a href="solana:7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=solana:7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr" alt="QR code for Solana"></a>
+</details>
+<details>
+<summary>Filecoin</summary>
+<p><strong>Address:</strong> <a href="filecoin:f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy">f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy</a></p>
+<a href="filecoin:f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=filecoin:f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy" alt="QR code for Filecoin"></a>
+</details>
 <!-- support:end -->
 
-<img alt="Moe Counter" src="https://count.nekooftheabyss.moe/get/AnzenKodo/img?theme=rule34" width="100%">
+<!-- <img alt="Moe Counter" src="https://count.nekooftheabyss.moe/get/AnzenKodo/img?theme=rule34" width="100%"> -->
