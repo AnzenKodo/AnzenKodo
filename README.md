@@ -60,4 +60,4 @@
 </details>
 <!-- support:end -->
 
-<!-- <img alt="Moe Counter" src="https://count.nekooftheabyss.moe/get/AnzenKodo/img?theme=rule34" width="100%"> -->
+<img alt="Moe Counter" src="https://count.nekooftheabyss.moe/get/AnzenKodo/img?theme=rule34" width="100%">
