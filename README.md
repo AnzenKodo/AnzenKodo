@@ -1,7 +1,7 @@
 # AK
 
 <div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/58/0f/7f/580f7f88933312de71275c0c123afb5a.jpg" loading="lazy"></a><!-- banner:end -->
+<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/cd/c0/a5/cdc0a5cd3de112edb81e77cc33cb3cee.jpg" loading="lazy"></a><!-- banner:end -->
 </div>
 
 ## About
