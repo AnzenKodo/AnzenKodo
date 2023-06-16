@@ -24,15 +24,17 @@
 ## Sites
 
 <!-- sites:start -->
-- <a href="https://www.notion.so/anzenkodo/AK-Database-d1bc1b1be57047a196411935d82a2844">Database</a> - All my life data
-- <a href="https://anzenkodo.github.io/blogroll/">Blogroll</a> - My RSS feed
-- <a href="https://github.com/AnzenKodo">GitHub</a> - Projects
-- <a href="https://replit.com/@AnzenKodo">Replit</a> - Mini Projects
-- <a href="https://twitter.com/AnzenKodo">Twitter</a> - Microblog
-- <a href="https://www.pinterest.com/AnzenKodo/">Pinterest</a> - Saved images
-- <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> - Coding data
-- <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> - Music data
-- <a href="https://www.youtube.com/@AnzenKodo">YouTube</a> - Music Playlists
+- <a href="https://www.notion.so/anzenkodo/AK-Database-d1bc1b1be57047a196411935d82a2844">Database</a> - ta
+- <a href="https://anzenkodo.github.io/blogroll/">Blogroll</a> - ed
+- <a href="https://github.com/AnzenKodo">GitHub</a> - ts
+- <a href="https://replit.com/@AnzenKodo">Replit</a> - ts
+- <a href="https://twitter.com/AnzenKodo">Twitter</a> - og
+- <a href="https://www.pinterest.com/AnzenKodo/">Pinterest</a> - es
+- <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> - ta
+- <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> - ta
+- <a href="https://www.youtube.com/@AnzenKodo">YouTube</a> - ts
+- <a href="https://github.com/AnzenKodo/awesome-ak">Awesome</a> - ks.
+- <a href="https://github.com/AnzenKodo/dotfiles">Dotfiles</a> - up.
 <!-- sites:end -->
 
 ## Support
