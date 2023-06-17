@@ -33,8 +33,8 @@
 - <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> - ta
 - <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> - ta
 - <a href="https://www.youtube.com/@AnzenKodo">YouTube</a> - ts
-- <a href="https://github.com/AnzenKodo/awesome-ak">Awesome</a> - ks.
 - <a href="https://github.com/AnzenKodo/dotfiles">Dotfiles</a> - up.
+- <a href="https://github.com/AnzenKodo/awesome-ak">Awesome</a> - ks.
 <!-- sites:end -->
 
 ## Support
