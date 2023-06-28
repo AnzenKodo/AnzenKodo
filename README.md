@@ -11,7 +11,7 @@
 - **Name:** <!-- name:start -->Aman<!-- name:end -->
   (<!-- username:start -->AnzenKodo<!-- username:end -->)
 - **Bio:** <!-- description:start -->Understanding the world one step at time...<!-- description:end -->
-- **Status:** <!-- status:start -->Working on AI group project and next gonna making app react native app for saving my mobile data.<!-- status:end -->
+- **Status:** <!-- status:start -->Making app react native app for saving my mobile data and charges wallpaper.<!-- status:end -->
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
