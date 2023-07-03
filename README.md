@@ -29,12 +29,11 @@
 - <a href="https://github.com/AnzenKodo">GitHub</a> - Projects
 - <a href="https://replit.com/@AnzenKodo">Replit</a> - Mini Projects
 - <a href="https://twitter.com/AnzenKodo">Twitter</a> - Microblog
-- <a href="https://www.pinterest.com/AnzenKodo/">Pinterest</a> - Saved images
-- <a href="https://wakatime.com/@AnzenKodo">WakaTime</a> - Coding data
 - <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> - Music data
 - <a href="https://www.youtube.com/@AnzenKodo">YouTube</a> - Music Playlists
 - <a href="https://github.com/AnzenKodo/dotfiles">Dotfiles</a> - Config of my Desktop and Information about Phone setup.
 - <a href="https://github.com/AnzenKodo/awesome-ak">Awesome</a> - List of website from my bookmarks.
+- <a href="https://www.pinterest.com/AnzenKodo/akpins/">Pins</a> - Saved images
 <!-- sites:end -->
 
 ## Support
