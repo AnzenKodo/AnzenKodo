@@ -34,6 +34,17 @@
 - <a href="https://github.com/AnzenKodo/dotfiles">Dotfiles</a> - Config of my Desktop and Information about Phone setup.
 - <a href="https://github.com/AnzenKodo/awesome-ak">Awesome</a> - List of website from my bookmarks.
 - <a href="https://www.pinterest.com/AnzenKodo/akpins/">Pins</a> - Saved images
+- <a href="https://github.com/belluzj/fantasque-sans">belluzj/</a> - : A font family with a great monospaced variant for programmers.
+- <a href="https://sourcefoundry.org/hack/">Hack |</a> - | A typeface designed for source code
+- <a href="https://store.typenetwork.com/foundry/djr/series/input?family=input-mono">Input ·</a> - · Type Network
+- <a href="https://larsenwork.com/monoid/">Monoid</a> - Monoid
+- <a href="https://github.com/powerline/fonts">powerline/</a> - : Patched fonts for Powerline users.
+- <a href="https://files.ax86.net/terminus-ttf/">Terminus TTF:</a> - : An updated TrueType version of Terminus Font
+- <a href="https://github.com/jondot/awesome-devenv">jondot/</a> - , resources and workflow tips making an awesome development environment.
+- <a href="https://github.com/bespokejs/bespoke">bespokejs/</a> - Framework
+- <a href="https://github.com/impress/impress.js">impress/</a> - .com.
+- <a href="https://remarkjs.com/#11">Remark</a> - Remark
+- <a href="https://github.com/awesome-foss/awesome-sysadmin">awesome</a> - source sysadmin resources.
 <!-- sites:end -->
 
 ## Support
