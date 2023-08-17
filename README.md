@@ -19,7 +19,7 @@
   <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
 - **Email:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">AnzenKodo@altmails.com</a><!-- email:end -->
-- **Programming Languages:** <!-- languages:start -->[Jupyter Notebook](https://github.com/topics/Jupyter-Notebook) / [JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [CSS](https://github.com/topics/CSS) / [Shell](https://github.com/topics/Shell) / [Lua](https://github.com/topics/Lua) / [PHP](https://github.com/topics/PHP) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [Java](https://github.com/topics/Java) / [Python](https://github.com/topics/Python) / [TypeScript](https://github.com/topics/TypeScript) / [Odin](https://github.com/topics/Odin) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
+- **Programming Languages:** <!-- languages:start --><!-- languages:end -->
 
 ## Sites
 
