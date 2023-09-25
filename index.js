@@ -8,7 +8,7 @@ Object.assign(data, {
     `<img alt="Logo of ${data.name}" src="${data.mascot}.png" align="right" width="30%" loading="lazy">`,
 
   favcolor:
-    `<img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=${data.color}" width="11em" loading="lazy"> #${data.color}`,
+    `<img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=${data.color.replace("#", "")}" width="11em" loading="lazy"> ${data.color}`,
 
   email: `<a href="mailto:${data.email}">${data.email}</a>`,
 
