@@ -1,3 +1,0 @@
-/* esm.sh - comment-mark@1.1.1 */
-export * from "/v132/comment-mark@1.1.1/denonext/comment-mark.mjs";
-export { default } from "/v132/comment-mark@1.1.1/denonext/comment-mark.mjs";
