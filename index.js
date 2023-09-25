@@ -1,10 +1,9 @@
-const data = await fetch("https://anzenkodo.github.io/api/ak.json")
+const data = await fetch(
+  "https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/data/config.json",
+)
   .then((res) => res.json());
 
 Object.assign(data, {
-  banner:
-    `<a href="${data.website}"><img width="100%" src="${data.banner}" loading="lazy"></a>`,
-
   logo:
     `<img alt="Logo of ${data.name}" src="${data.mascot}.png" align="right" width="30%" loading="lazy">`,
 
@@ -13,17 +12,8 @@ Object.assign(data, {
 
   email: `<a href="mailto:${data.email}">${data.email}</a>`,
 
-  languages: data.languages
-    .map((val) =>
-      `[${val}](https://github.com/topics/${val.replace(" ", "-")})`
-    )
-    .join(" / "),
-
   sites: Object.entries(data.sites)
-    .map((val) =>
-      `- <a href="${val[1].url}">${val[0]}</a> - ${val[1].description}`
-    )
-    .join("\n"),
+    .map((val) => `<a href="${val[1]}">${val[0]}</a>`).join(" / "),
 
   support: Object.entries(data.support)
     .map((val) => {

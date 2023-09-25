@@ -1,0 +1,6 @@
+/* esm.sh - esbuild bundle(comment-mark@1.1.1) denonext production */
+import { Buffer as __Buffer$ } from "node:buffer";
+var{hasOwnProperty:f}=Object.prototype,l=(n,t)=>new RegExp(`<!--\\s*${n}:${t}\\s*-->`,"g"),a=/\n/;function d(n,t){if(n&&__Buffer$.isBuffer(n)&&(n=n.toString()),!n||!t)return n;for(let o in t){if(!f.call(t,o))continue;let r=t[o];a.test(r)&&(r=`
+${r}
+`);let i=l(o,"start"),s=l(o,"end"),e,c;do e=i.exec(n),e&&(s.lastIndex=e.index,c=s.exec(n),c?(n=n.slice(0,e.index+e[0].length)+r+n.slice(c.index),s.lastIndex+=r.length):console.warn(`[comment-mark] No end comment found for "${o}"`));while(e)}return n}var u=d;export{u as default};
+//# sourceMappingURL=comment-mark.mjs.map

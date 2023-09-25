@@ -1,40 +1,21 @@
 # AK
 
-<div align="center">
-<!-- banner:start --><a href="https://AnzenKodo.github.io/"><img width="100%" src="https://i.pinimg.com/originals/64/62/0e/64620e203ef27dac5954a77e64215915.jpg" loading="lazy"></a><!-- banner:end -->
-</div>
-
 ## About
 
-<!-- logo:start --><img alt="Logo of Aman" src="https://AnzenKodo.github.io/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
+<!-- logo:start --><img alt="Logo of Aman" src="https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
 
 - **Name:** <!-- name:start -->Aman<!-- name:end -->
   (<!-- username:start -->AnzenKodo<!-- username:end -->)
-- **Bio:** <!-- description:start -->Understanding the world one step at time...<!-- description:end -->
+- **Bio:** <!-- description:start -->A guy who codes.<!-- description:end -->
 - **Status:** <!-- status:start -->Learning data structures and algorithms in Zig Language<!-- status:end -->
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
-- **Hobby:** <!-- hobby:start -->Making fun stuff.<!-- hobby:end -->
+- **Hobby:** <!-- hobby:start -->Everything about computers.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
 - **Favourite Color:**
-  <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
+  <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=#f20544" width="11em" loading="lazy"> ##f20544<!-- favcolor:end -->
 - **Email:**
   <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">AnzenKodo@altmails.com</a><!-- email:end -->
-- **Programming Languages:** <!-- languages:start -->[Jupyter Notebook](https://github.com/topics/Jupyter-Notebook) / [JavaScript](https://github.com/topics/JavaScript) / [HTML](https://github.com/topics/HTML) / [CSS](https://github.com/topics/CSS) / [Shell](https://github.com/topics/Shell) / [Lua](https://github.com/topics/Lua) / [PHP](https://github.com/topics/PHP) / [Nix](https://github.com/topics/Nix) / [Nunjucks](https://github.com/topics/Nunjucks) / [TypeScript](https://github.com/topics/TypeScript) / [Java](https://github.com/topics/Java) / [Python](https://github.com/topics/Python) / [Odin](https://github.com/topics/Odin) / [SCSS](https://github.com/topics/SCSS)<!-- languages:end -->
-
-## Sites
-
-<!-- sites:start -->
-- <a href="https://www.notion.so/anzenkodo/AK-Database-d1bc1b1be57047a196411935d82a2844">Database</a> - All my life data
-- <a href="https://anzenkodo.github.io/blogroll/">Blogroll</a> - My RSS feed
-- <a href="https://github.com/AnzenKodo">GitHub</a> - Projects
-- <a href="https://replit.com/@AnzenKodo">Replit</a> - Mini Projects
-- <a href="https://twitter.com/AnzenKodo">Twitter</a> - Microblog
-- <a href="https://listenbrainz.org/user/AnzenKodo/">ListenBrainz</a> - Music data
-- <a href="https://www.youtube.com/@AnzenKodo">YouTube</a> - Music Playlists
-- <a href="https://github.com/AnzenKodo/dotfiles">Dotfiles</a> - Config of my Desktop and Information about Phone setup.
-- <a href="https://github.com/AnzenKodo/awesome-ak">Awesome</a> - List of website from my bookmarks.
-- <a href="https://www.pinterest.com/AnzenKodo/akpins/">Pins</a> - Saved images
-<!-- sites:end -->
+- **Sites:** <!-- sites:start --><a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> / <a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://replit.com/@AnzenKodo">Replit</a> / <a href="https://x.com/AnzenKodo">X</a> / <a href="https://www.pinterest.com/AnzenKodo/AKPins">Pins</a> / <a href="https://soundcloud.com/AnzenKodo">SoundCloud</a> / <a href="https://www.youtube.com/@AnzenKodo">YouTube</a><!-- sites:end -->
 
 ## Support
 

@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=izOFzYXjqpfS4a4NnNQ%2Bc0nf04ueU%2FvSg%2BX8ZMoPCND1FYVsQNMYMSkvYTlxjo6IQQvDBK1cp%2BVVArjA57u0Mbnz%2F6gWJLbbGqscaS9SMqQrJB36kV22fP8%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "80c25a3f8b2e47cb-BOM",
+    "access-control-allow-methods": "*",
+    "x-content-source": "https://esmbuild.com",
+    "content-type": "application/javascript; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Mon, 25 Sep 2023 09:48:38 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "vary": "Origin, Accept-Encoding"
+  },
+  "url": "https://esm.sh/v132/comment-mark@1.1.1/denonext/comment-mark.mjs",
+  "now": {
+    "secs_since_epoch": 1695635318,
+    "nanos_since_epoch": 14190921
+  }
+}
