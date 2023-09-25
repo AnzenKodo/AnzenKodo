@@ -6,7 +6,6 @@
 
 - **Name:** <!-- name:start -->Aman<!-- name:end -->
 - **Bio:** <!-- description:start -->I like coding.<!-- description:end -->
-- **Status:** <!-- status:start -->Learning data structures and algorithms in Zig Language<!-- status:end -->
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Everything about computers.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
