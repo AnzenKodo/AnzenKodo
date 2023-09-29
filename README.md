@@ -9,10 +9,8 @@
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Everything about computers.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
-- **Favourite Color:**
-  <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
-- **Email:**
-  <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">AnzenKodo@altmails.com</a><!-- email:end -->
+- **Favourite Color:** <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
+- **Email:** <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">AnzenKodo@altmails.com</a><!-- email:end -->
 - **Sites:** <!-- sites:start --><a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> / <a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://replit.com/@AnzenKodo">Replit</a> / <a href="https://x.com/AnzenKodo">X</a> / <a href="https://www.pinterest.com/AnzenKodo/AKPins">Pins</a> / <a href="https://soundcloud.com/AnzenKodo">SoundCloud</a> / <a href="https://www.youtube.com/@AnzenKodo">YouTube</a><!-- sites:end -->
 
 ## Support
