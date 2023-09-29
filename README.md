@@ -2,7 +2,7 @@
 
 ## About
 
-<!-- logo:start --><img alt="Logo of Aman" src="https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/ak/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
+<!-- logo:start --><img alt="Logo of Aman" src="https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/img/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
 
 - **Name:** <!-- name:start -->Aman<!-- name:end -->
 - **Bio:** <!-- description:start -->I like coding.<!-- description:end -->
