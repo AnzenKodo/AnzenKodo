@@ -1,45 +1,31 @@
-# <!-- title:start -->[AK](https://AnzenKodo.github.io/)(AnzenKodo)<!-- title:end -->
+const data = await fetch(
+  "https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/data/config.json",
+).then((res) => res.json());
 
-<!-- banner:start -->
+Object.assign(data, {
+	title: `[AK](${data.website})(${data.username})`,
 
-![AnzenKodo Banner Image](https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/img/banner.jpg)
-<!-- banner:end -->
+	banner: `\n![${data.username} Banner Image](${data.banner}.jpg)`,
+	
+	logo: `<img alt="Logo of ${data.name}" src="${data.mascot}.png" align="right" width="30%" loading="lazy">`,
 
-## About
+	email: `<a href="mailto:${data.email}">${data.email}</a>`,
 
-<!-- logo:start --><img alt="Logo of Aman" src="https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/img/mascot.png" align="right" width="30%" loading="lazy"><!-- logo:end -->
+	sites: Object.entries(data.sites)
+		.map((val) => `- [**${val[0]}**](${val[1]})`)
+		.join("\n"),
+	
+	socials: Object.entries(data.socials)
+		.map((val) => `- [**${val[0]}**](${val[1]})`)
+		.join("\n"),
+	
+	support: Object.entries(data.support)
+		.map((val) => `- **${val[0]}:** [\`${val[1]}\`](${val[1]})`).join("\n"),
+});
 
-- **Name:** <!-- name:start -->Aman<!-- name:end -->
-- **Bio:** <!-- description:start -->I like coding.<!-- description:end -->
-- **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
-- **Hobby:** <!-- hobby:start -->Everything about computers.<!-- hobby:end -->
-- **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
-- **Favourite Color:** <!-- color:start -->#f20544<!-- color:end -->
-- **Email:** <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">AnzenKodo@altmails.com</a><!-- email:end -->
-
-## Sites
-
-<!-- sites:start -->
-- [**Blogroll**](https://AnzenKodo.github.io/blogroll)
-- [**Notes**](https://AnzenKodo.github.io/Notes)
-<!-- sites:end -->
-
-## Socials
-
-<!-- socials:start -->
-- [**GitHub**](https://github.com/AnzenKodo)
-- [**Replit**](https://replit.com/@AnzenKodo)
-- [**X**](https://x.com/AnzenKodo)
-- [**Pins**](https://www.pinterest.com/AnzenKodo/AKPins)
-- [**SoundCloud**](https://soundcloud.com/AnzenKodo)
-- [**YouTube**](https://www.youtube.com/@AnzenKodo)
-<!-- socials:end -->
-
-## Support
-
-<!-- support:start -->
-- **GitHub Sponsors:** [`https://github.com/sponsors/AnzenKodo`](https://github.com/sponsors/AnzenKodo)
-- **Ethereum:** [`0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A`](0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A)
-- **Solana:** [`7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr`](7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr)
-- **Filecoin:** [`f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy`](f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy)
-<!-- support:end -->
+import commentMark from "https://esm.sh/comment-mark@1.1.1";
+const filename = "README.md";
+Deno.writeTextFileSync(
+  filename,
+  commentMark(Deno.readTextFileSync(filename), data),
+);
