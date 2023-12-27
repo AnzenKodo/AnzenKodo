@@ -1,4 +1,6 @@
-# AK(<!-- username:start -->AnzenKodo<!-- username:end -->)
+# <!-- title:start -->[AK](https://AnzenKodo.github.io/)(AnzenKodo)<!-- title:end -->
+
+<!-- banner:start -->![AnzenKodo Banner Image](https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/img/banner.jpg)<!-- banner:end -->
 
 ## About
 
@@ -9,33 +11,32 @@
 - **Age:** <!-- age:start -->ಠ_ಠ<!-- age:end -->
 - **Hobby:** <!-- hobby:start -->Everything about computers.<!-- hobby:end -->
 - **Location:** <!-- location:start -->Mom's basement<!-- location:end -->
-- **Favourite Color:** <!-- favcolor:start --><img src="https://img.shields.io/badge/%20-0?style=for-the-badge&color=f20544" width="11em" loading="lazy"> #f20544<!-- favcolor:end -->
+- **Favourite Color:** <!-- color:start -->#f20544<!-- color:end -->
 - **Email:** <!-- email:start --><a href="mailto:AnzenKodo@altmails.com">AnzenKodo@altmails.com</a><!-- email:end -->
-- **Sites:** <!-- sites:start --><a href="https://AnzenKodo.github.io/blogroll">Blogroll</a> / <a href="https://github.com/AnzenKodo">GitHub</a> / <a href="https://replit.com/@AnzenKodo">Replit</a> / <a href="https://x.com/AnzenKodo">X</a> / <a href="https://www.pinterest.com/AnzenKodo/AKPins">Pins</a> / <a href="https://soundcloud.com/AnzenKodo">SoundCloud</a> / <a href="https://www.youtube.com/@AnzenKodo">YouTube</a><!-- sites:end -->
+
+## Sites
+
+<!-- sites:start -->
+- [**Blogroll**](https://AnzenKodo.github.io/blogroll)
+- [**Notes**](https://AnzenKodo.github.io/Notes)
+<!-- sites:end -->
+
+## Socials
+
+<!-- socials:start -->
+- [**GitHub**](https://github.com/AnzenKodo)
+- [**Replit**](https://replit.com/@AnzenKodo)
+- [**X**](https://x.com/AnzenKodo)
+- [**Pins**](https://www.pinterest.com/AnzenKodo/AKPins)
+- [**SoundCloud**](https://soundcloud.com/AnzenKodo)
+- [**YouTube**](https://www.youtube.com/@AnzenKodo)
+<!-- socials:end -->
 
 ## Support
 
 <!-- support:start -->
-<details>
-<summary>GitHub Sponsors</summary>
-<p><strong>Address:</strong> <a href="https://github.com/sponsors/AnzenKodo">https://github.com/sponsors/AnzenKodo</a></p>
-<a href="https://github.com/sponsors/AnzenKodo"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://github.com/sponsors/AnzenKodo" alt="QR code for GitHub Sponsors"></a>
-</details>
-<details>
-<summary>Ethereum</summary>
-<p><strong>Address:</strong> <a href="ethereum:0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A">0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A</a></p>
-<a href="ethereum:0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=ethereum:0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A" alt="QR code for Ethereum"></a>
-</details>
-<details>
-<summary>Solana</summary>
-<p><strong>Address:</strong> <a href="solana:7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr">7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr</a></p>
-<a href="solana:7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=solana:7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr" alt="QR code for Solana"></a>
-</details>
-<details>
-<summary>Filecoin</summary>
-<p><strong>Address:</strong> <a href="filecoin:f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy">f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy</a></p>
-<a href="filecoin:f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=filecoin:f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy" alt="QR code for Filecoin"></a>
-</details>
+- [**GitHub Sponsors**](https://github.com/sponsors/AnzenKodo)
+- [**Ethereum**](0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A)
+- [**Solana**](7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr)
+- [**Filecoin**](f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy)
 <!-- support:end -->
-
-<img alt="Moe Counter" src="https://count.getloli.com/get/@AnzenKodo?theme=rule34" width="100%">
