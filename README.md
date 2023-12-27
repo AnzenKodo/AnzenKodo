@@ -1,6 +1,9 @@
 # <!-- title:start -->[AK](https://AnzenKodo.github.io/)(AnzenKodo)<!-- title:end -->
 
-<!-- banner:start -->![AnzenKodo Banner Image](https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/img/banner.jpg)<!-- banner:end -->
+<!-- banner:start -->
+
+![AnzenKodo Banner Image](https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/main/src/assets/img/banner.jpg)
+<!-- banner:end -->
 
 ## About
 
@@ -35,8 +38,8 @@
 ## Support
 
 <!-- support:start -->
-- [**GitHub Sponsors**](https://github.com/sponsors/AnzenKodo)
-- [**Ethereum**](0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A)
-- [**Solana**](7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr)
-- [**Filecoin**](f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy)
+- **GitHub Sponsors:** [`https://github.com/sponsors/AnzenKodo`](https://github.com/sponsors/AnzenKodo)
+- **Ethereum:** [`0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A`](0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A)
+- **Solana:** [`7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr`](7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr)
+- **Filecoin:** [`f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy`](f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy)
 <!-- support:end -->
