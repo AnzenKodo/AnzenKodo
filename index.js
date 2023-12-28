@@ -21,6 +21,8 @@ Object.assign(data, {
 	
 	support: Object.entries(data.support)
 		.map((val) => `- **${val[0]}:** [\`${val[1]}\`](${val[1]})`).join("\n"),
+
+	license: `<p style="text-align: center"><small><a href="${data.license}">LICENSE</a></small></p>`
 });
 
 import commentMark from "https://esm.sh/comment-mark@1.1.1";
