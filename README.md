@@ -45,8 +45,5 @@
 <!-- support:end -->
 
 <div align="center">
-<!-- license:start -->
-
-[LICENSE](https://AnzenKodo.github.io/license)
-<!-- license:end -->
+<!-- license:start -->https://AnzenKodo.github.io/license<!-- license:end -->
 </div>
