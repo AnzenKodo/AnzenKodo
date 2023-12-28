@@ -21,7 +21,7 @@
 
 <!-- sites:start -->
 - [**Blogroll**](https://AnzenKodo.github.io/blogroll)
-- [**Notes**](https://AnzenKodo.github.io/Notes)
+- [**Notes**](https://AnzenKodo.github.io/notes)
 <!-- sites:end -->
 
 ## Socials
@@ -47,6 +47,6 @@
 <div align="center">
 <!-- license:start -->
 
-[LICENSE](undefined)
+[LICENSE](https://AnzenKodo.github.io/license)
 <!-- license:end -->
 </div>
