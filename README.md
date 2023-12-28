@@ -44,4 +44,4 @@
 - **Filecoin:** [`f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy`](f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy)
 <!-- support:end -->
 
-<!-- license:start --><p style="text-align: center"><small><a href="https://AnzenKodo.github.io/license">LICENSE</a></small></p><!-- license:end -->
+<!-- license:start --><p align="center"><small><a href="https://AnzenKodo.github.io/license">LICENSE</a></small></p><!-- license:end -->
