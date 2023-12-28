@@ -46,5 +46,7 @@
 
 <div align="center">
 <!-- license:start -->
+
+[LICENSE](undefined)
 <!-- license:end -->
 </div>
