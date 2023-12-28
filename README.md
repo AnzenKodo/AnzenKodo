@@ -43,7 +43,3 @@
 - **Solana:** [`7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr`](7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr)
 - **Filecoin:** [`f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy`](f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy)
 <!-- support:end -->
-
-<div align="center">
-<!-- license:start -->https://AnzenKodo.github.io/license<!-- license:end -->
-</div>
