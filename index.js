@@ -1,5 +1,5 @@
 const data = await fetch(
-  "https://AnzenKodo.github.io/api/config.json"
+  "https://AnzenKodo.github.io/api/info.json"
 ).then((res) => res.json());
 
 Object.assign(data, {
