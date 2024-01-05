@@ -1,5 +1,5 @@
 const data = await fetch(
-  "https://AnzenKodo.github.io/api/info.json"
+  "https://AnzenKodo.github.io/api/info.json",
 ).then((res) => res.json());
 
 Object.assign(data, {
@@ -21,11 +21,53 @@ Object.assign(data, {
 	
 	support: Object.entries(data.support)
 		.map((val) => `- **${val[0]}:** [\`${val[1]}\`](${val[1]})`).join("\n"),
-
-	license: `<p align="center"><small><a href="${data.license}">LICENSE</a></small></p>`
 });
 
-import commentMark from "https://esm.sh/comment-mark@1.1.1";
+
+function commentMark(string, data) {
+	const { hasOwnProperty } = Object.prototype;
+	const createPtrn = (key,type) => new RegExp(`<!--\\s*${key}:${type}\\s*-->`, 'g');
+	const multilinePtrn = /\n/;
+	
+	if (string) {
+		string = string.toString();
+	}
+	if (!string || !data) {
+		return string;
+	}
+	for (const key in data) {
+		if (!hasOwnProperty.call(data, key)) continue;
+		
+		let value = data[key];
+		
+		if (multilinePtrn.test(value)) value = `\n${value}\n`;
+		
+		const startComment = createPtrn(key, 'start');
+		const endComment = createPtrn(key, 'end');
+		let startMatch;
+		let endMatch;
+		do {
+			startMatch = startComment.exec(string);
+			if (!startMatch) {
+				continue;
+			}
+			endComment.lastIndex = startMatch.index;
+			endMatch = endComment.exec(string);
+			if (endMatch) {
+				string = (
+					string.slice(
+						0, startMatch.index + startMatch[0].length,
+					) + value + string.slice(endMatch.index)
+				);
+				endComment.lastIndex += value.length;
+			} else {
+				console.warn(`[comment-mark] No end comment found for "${key}"`);
+			}
+		} while (startMatch);
+	}
+	return string;
+}
+
 const filename = "README.md";
 Deno.writeTextFileSync(
   filename,
