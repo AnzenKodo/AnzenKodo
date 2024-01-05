@@ -1,6 +1,4 @@
-const data = await fetch(
-  "https://AnzenKodo.github.io/api/info.json",
-).then((res) => res.json());
+const data = await fetch("https://AnzenKodo.github.io/api/info.json").then((res) => res.json());
 
 Object.assign(data, {
 	title: `[AK](${data.website})(${data.username})`,
@@ -21,6 +19,8 @@ Object.assign(data, {
 	
 	support: Object.entries(data.support)
 		.map((val) => `- **${val[0]}:** [\`${val[1]}\`](${val[1]})`).join("\n"),
+
+	license: `<p align="center"><small><a href="${data.license}">LICENSE</a></small></p>`
 });
 
 
@@ -29,12 +29,9 @@ function commentMark(string, data) {
 	const createPtrn = (key,type) => new RegExp(`<!--\\s*${key}:${type}\\s*-->`, 'g');
 	const multilinePtrn = /\n/;
 	
-	if (string) {
-		string = string.toString();
-	}
-	if (!string || !data) {
-		return string;
-	}
+	if (string) string = string.toString();
+	if (!string || !data) return string;
+	
 	for (const key in data) {
 		if (!hasOwnProperty.call(data, key)) continue;
 		
