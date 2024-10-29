@@ -16,19 +16,8 @@ jobs:
       - name: Setup repo
         uses: actions/checkout@v3
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@004814556e37c54a2f6e31384c9e18e983317366
-        with:
-          deno-version: v1.x
-
-      - name: Run Setup
-        run: deno run -A index.js
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+      - name: Build
+        run: wget https://raw.githubusercontent.com/AnzenKodo/AnzenKodo.github.io/refs/heads/main/README.md
 
       - name: Save files
         uses: stefanzweifel/git-auto-commit-action@v4
