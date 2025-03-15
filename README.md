@@ -35,8 +35,10 @@
 ## Support
 
 - [**GitHub Sponsors**](https://github.com/sponsors/AnzenKodo)
-- **Ethereum:** `0xE9421ad603651a6ecD56d3C78472E64EDE7Cf43A`
-- **Solana:** `7EaMk2EDWSTdb8SdREAKWBq1RXgVQyrVhATLfzfuxwBr`
-- **Filecoin:** `f12ycq6e66cmkfvxoufwzy2capsu4fr5octwfcacy`
+- **Bitcoin** `bc1qm9vwqkp7mdv6gks67fk9n7k6rhhvnwkjjca3ug`
+- **Ethereum:** `0x5a365a0E7FE7170860Dcf69F2c7B13929591407D`
+- **Solana:** `DXi848GLyrXrddDT7JDM7uzvJkZ1sBvvDmtjWsj9JFj3`
+- **ZCash** `t1aSV42LcuVTSVrkqsNe5YYbxagzXHwZCdv`
+- **Dogecoin** `DC1zASemomyahFhCPj9Foa52Gh1kkwYT2w`
 
 <p align="center"><small><a href="https://AnzenKodo.github.io/license">LICENSE</a></small></p>
