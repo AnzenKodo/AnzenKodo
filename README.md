@@ -24,11 +24,8 @@
 
 ### Archive
 
-- [**SoundCloud**](https://soundcloud.com/AnzenKodo)
 - [**Reddit**](https://www.reddit.com/user/AnzenKodo)
 - [**Replit**](https://replit.com/@AnzenKodo)
-- [**Pins**](https://www.pinterest.com/AnzenKodo/AKPins)
-- [**YouTube**](https://www.youtube.com/@AnzenKodo)
 - **Discord:** `anzenkodo`
 
 ## Support
